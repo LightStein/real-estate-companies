@@ -1,0 +1,1754 @@
+priority,score,company_name,phone,phone_normalized,website,facebook,source,signals
+A,10,თეგიმი,(555) 20 20 20,+995555202020,,https://www.facebook.com/tegimi2,yell.ge,has_facebook; fb_posted_recently; multi_source; 3_phones; has_mobile
+A,10,თეგიმი,(558) 20 20 20,+995558202020,,https://www.facebook.com/tegimi2,yell.ge,has_facebook; fb_posted_recently; multi_source; 3_phones; has_mobile
+A,10,თეგიმი,+995551440099,+995551440099,,https://www.facebook.com/tegimi2,bia.ge,has_facebook; fb_posted_recently; multi_source; 3_phones; has_mobile
+A,9,ბაკო,264 54 54,+995322645454,http://www.bako.ge,http://www.facebook.com/www.bako.ge,yell.ge,website_live; has_facebook; multi_source; 3_phones; has_mobile; has_landline
+A,9,ბაკო,(555) 74 54 54,+995555745454,http://www.bako.ge,http://www.facebook.com/www.bako.ge,yell.ge,website_live; has_facebook; multi_source; 3_phones; has_mobile; has_landline
+A,9,ბაკო,+995593321227,+995593321227,http://www.bako.ge,http://www.facebook.com/www.bako.ge,bia.ge,website_live; has_facebook; multi_source; 3_phones; has_mobile; has_landline
+A,9,კრაფტი,+995595558383,+995595558383,,https://www.facebook.com/geokraft,bia.ge,has_facebook; fb_posted_recently; fb_1441_likes; 2_phones; has_mobile
+A,9,კრაფტი,+995591071427,+995591071427,,https://www.facebook.com/geokraft,bia.ge,has_facebook; fb_posted_recently; fb_1441_likes; 2_phones; has_mobile
+A,9,მოზაიკ დეველოპმენტი,+995555886000,+995555886000,,https://www.facebook.com/mosaic.ge,bia.ge,has_facebook; fb_posted_recently; 2_phones; has_mobile; has_landline
+A,9,მოზაიკ დეველოპმენტი,+995322111121,+995322111121,,https://www.facebook.com/mosaic.ge,bia.ge,has_facebook; fb_posted_recently; 2_phones; has_mobile; has_landline
+A,8,ახალი სახლი,(595) 04 41 11,+995595044111,https://akhalisakhli.com,https://www.facebook.com/AkhaliSakhliCom,yell.ge,website_live; has_facebook; multi_source; 2_phones; has_mobile
+A,8,ახალი სახლი,+995551351111,+995551351111,https://akhalisakhli.com,https://www.facebook.com/AkhaliSakhliCom,bia.ge,website_live; has_facebook; multi_source; 2_phones; has_mobile
+A,8,ბალავარი,2560 560,+995322560560,http://www.balavari.ge,,yell.ge,website_live; multi_source; 7_phones; has_mobile; has_landline
+A,8,ბალავარი,(591) 711 000,+995591711000,http://www.balavari.ge,,yell.ge,website_live; multi_source; 7_phones; has_mobile; has_landline
+A,8,ბალავარი,(511) 11 11 45,+995511111145,http://www.balavari.ge,,yell.ge,website_live; multi_source; 7_phones; has_mobile; has_landline
+A,8,ბალავარი,+995598621818,+995598621818,http://www.balavari.ge,,bia.ge,website_live; multi_source; 7_phones; has_mobile; has_landline
+A,8,ბალავარი,+995595426868,+995595426868,http://www.balavari.ge,,bia.ge,website_live; multi_source; 7_phones; has_mobile; has_landline
+A,8,ბალავარი,+995558163261,+995558163261,http://www.balavari.ge,,bia.ge,website_live; multi_source; 7_phones; has_mobile; has_landline
+A,8,ბალავარი,+995595857737,+995595857737,http://www.balavari.ge,,bia.ge,website_live; multi_source; 7_phones; has_mobile; has_landline
+A,8,ას ჯორჯია,274 04 04,+995322740404,http://www.asgeorgia.ge,,yell.ge,website_live; multi_source; 2_phones; has_mobile; has_landline
+A,8,ას ჯორჯია,+995598021111,+995598021111,http://www.asgeorgia.ge,,bia.ge,website_live; multi_source; 2_phones; has_mobile; has_landline
+A,8,დაიმონდ პროჯექტს,219 52 52,+995322195252,http://www.diamond-projects.ge,,yell.ge,website_live; multi_source; 4_phones; has_mobile; has_landline
+A,8,დაიმონდ პროჯექტს,(591) 47 14 71,+995591471471,http://www.diamond-projects.ge,,yell.ge,website_live; multi_source; 4_phones; has_mobile; has_landline
+A,8,დაიმონდ პროჯექტს,+995599030393,+995599030393,http://www.diamond-projects.ge,,bia.ge,website_live; multi_source; 4_phones; has_mobile; has_landline
+A,8,დაიმონდ პროჯექტს,+995591707873,+995591707873,http://www.diamond-projects.ge,,bia.ge,website_live; multi_source; 4_phones; has_mobile; has_landline
+A,8,აზიმუტი,221 11 10,+995322211110,http://www.azimuti.ge,,yell.ge,website_live; multi_source; 2_phones; has_mobile; has_landline
+A,8,აზიმუტი,+995577411414,+995577411414,http://www.azimuti.ge,,bia.ge,website_live; multi_source; 2_phones; has_mobile; has_landline
+A,8,ქ გრუპი,242 16 61,+995322421661,https://www.qgroup.ge,,yell.ge,website_live; multi_source; 4_phones; has_mobile; has_landline
+A,8,ქ გრუპი,(593) 93 15 15,+995593931515,https://www.qgroup.ge,,yell.ge,website_live; multi_source; 4_phones; has_mobile; has_landline
+A,8,ქ გრუპი,(577) 26 55 75,+995577265575,https://www.qgroup.ge,,yell.ge,website_live; multi_source; 4_phones; has_mobile; has_landline
+A,8,ქ გრუპი,+995577774184,+995577774184,https://www.qgroup.ge,,bia.ge,website_live; multi_source; 4_phones; has_mobile; has_landline
+A,8,დომუს ჯგუფი,223 25 23,+995322232523,http://www.domusi.com,,yell.ge,website_live; multi_source; 3_phones; has_mobile; has_landline
+A,8,დომუს ჯგუფი,223 28 29,+995322232829,http://www.domusi.com,,yell.ge,website_live; multi_source; 3_phones; has_mobile; has_landline
+A,8,დომუს ჯგუფი,+995595932222,+995595932222,http://www.domusi.com,,bia.ge,website_live; multi_source; 3_phones; has_mobile; has_landline
+A,8,ბათუმი დეველოპმენტ ალიანსი,+995591444787,+995591444787,,https://www.facebook.com/elitmsheni.ge,bia.ge,has_facebook; fb_posted_recently; fb_2485_likes; has_mobile
+A,8,იქს ლაინ,+995577793999,+995577793999,,https://www.facebook.com/xlinedevelopment/?ref=page_internal,bia.ge,has_facebook; fb_posted_recently; 2_phones; has_mobile
+A,8,იქს ლაინ,+995557946764,+995557946764,,https://www.facebook.com/xlinedevelopment/?ref=page_internal,bia.ge,has_facebook; fb_posted_recently; 2_phones; has_mobile
+A,8,სერვის ნეტ გრუპი,+995322381212,+995322381212,,https://www.facebook.com/Service-Net-Group-სერვის-ნეტ-გრუპი-1618564671740221/,bia.ge,has_facebook; fb_posted_recently; fb_1708_likes; has_landline
+A,7,ექს სითი,(557) 97 97 77,+995557979777,http://www.excity.ge,,yell.ge,website_live; multi_source; 2_phones; has_mobile
+A,7,ექს სითი,+995593601201,+995593601201,http://www.excity.ge,,bia.ge,website_live; multi_source; 2_phones; has_mobile
+A,7,სინერჯი ქონსთრაქშინ,(577) 98 01 27,+995577980127,https://www.syncons.eu,,yell.ge,website_live; multi_source; 2_phones; has_mobile
+A,7,სინერჯი ქონსთრაქშინ,+995577340178,+995577340178,https://www.syncons.eu,,bia.ge,website_live; multi_source; 2_phones; has_mobile
+A,7,ბილდინგ ჰაუს,(593) 32 08 02,+995593320802,http://www.buildinghouse.ge,https://www.facebook.com/LtdbuildingHouse,yell.ge,website_dead; has_facebook; fb_posted_this_year; fb_12406_likes; multi_source; 2_phones; has_mobile
+A,7,ბილდინგ ჰაუს,+995574060274,+995574060274,http://www.buildinghouse.ge,https://www.facebook.com/LtdbuildingHouse,bia.ge,website_dead; has_facebook; fb_posted_this_year; fb_12406_likes; multi_source; 2_phones; has_mobile
+A,7,ინდეკო სი ემ,(595) 999 516,+995595999516,https://indeco.ge,,yell.ge,website_live; multi_source; 2_phones; has_mobile
+A,7,ინდეკო სი ემ,+995598420747,+995598420747,https://indeco.ge,,bia.ge,website_live; multi_source; 2_phones; has_mobile
+A,7,კიკეთის სამშენებლო კომპანია,(595) 54 23 18,+995595542318,,https://www.facebook.com/კიკეთის-სამშენებლო-კომპანია-164716500587122,yell.ge,has_facebook; fb_posted_this_year; fb_1582_likes; 2_phones; has_mobile
+A,7,კიკეთის სამშენებლო კომპანია,(558) 36 08 70,+995558360870,,https://www.facebook.com/კიკეთის-სამშენებლო-კომპანია-164716500587122,yell.ge,has_facebook; fb_posted_this_year; fb_1582_likes; 2_phones; has_mobile
+A,6,იმპოსტი,224 04 24,+995322240424,http://www.imposti.ge,,yell.ge,website_live; 2_phones; has_mobile; has_landline
+A,6,იმპოსტი,(571) 205 305,+995571205305,http://www.imposti.ge,,yell.ge,website_live; 2_phones; has_mobile; has_landline
+A,6,მონოლით ჯგუფი,230 99 77,+995322309977,https://monolith.ge,,yell.ge,website_live; 2_phones; has_mobile; has_landline
+A,6,მონოლით ჯგუფი,(595) 99 77 00,+995595997700,https://monolith.ge,,yell.ge,website_live; 2_phones; has_mobile; has_landline
+A,6,არკონი,218 21 88,+995322182188,http://arcon.ge,,yell.ge,website_live; 2_phones; has_mobile; has_landline
+A,6,არკონი,(597) 92 51 92,+995597925192,http://arcon.ge,,yell.ge,website_live; 2_phones; has_mobile; has_landline
+A,6,მირა,032 235 60 01,+995322356001,https://www.mira.ge,,yell.ge,website_live; 2_phones; has_mobile; has_landline
+A,6,მირა,(598) 35 60 01,+995598356001,https://www.mira.ge,,yell.ge,website_live; 2_phones; has_mobile; has_landline
+A,6,ისანი ბილდინგი,270 85 70,+995322708570,http://www.isanibuilding.ge,,yell.ge,website_live; 3_phones; has_mobile; has_landline
+A,6,ისანი ბილდინგი,(591) 29 19 92,+995591291992,http://www.isanibuilding.ge,,yell.ge,website_live; 3_phones; has_mobile; has_landline
+A,6,ისანი ბილდინგი,(597) 55 55 33,+995597555533,http://www.isanibuilding.ge,,yell.ge,website_live; 3_phones; has_mobile; has_landline
+A,6,კ ჯგუფი,(599) 806 807,+995599806807,https://www.kgroup.ge,,yell.ge,website_live; 3_phones; has_mobile; has_landline
+A,6,კ ჯგუფი,(555) 14 40 64,+995555144064,https://www.kgroup.ge,,yell.ge,website_live; 3_phones; has_mobile; has_landline
+A,6,კ ჯგუფი,204 30 30,+995322043030,https://www.kgroup.ge,,yell.ge,website_live; 3_phones; has_mobile; has_landline
+A,6,სპეცკომფორტი,2 110 310,+995322110310,http://www.speckomforti.ge,,yell.ge,website_live; 2_phones; has_mobile; has_landline
+A,6,სპეცკომფორტი,(598)  928 928,+995598928928,http://www.speckomforti.ge,,yell.ge,website_live; 2_phones; has_mobile; has_landline
+A,6,სოლო დეველოპმენტი,231 77 75,+995322317775,http://www.solodevelopment.ge,,yell.ge,website_live; 2_phones; has_mobile; has_landline
+A,6,სოლო დეველოპმენტი,(599) 100 774,+995599100774,http://www.solodevelopment.ge,,yell.ge,website_live; 2_phones; has_mobile; has_landline
+A,6,გრინჰილ რეზიდენსი,2 191 191,+995322191191,http://www.greenhill.ge,,yell.ge,website_live; 2_phones; has_mobile; has_landline
+A,6,გრინჰილ რეზიდენსი,(598) 901 901,+995598901901,http://www.greenhill.ge,,yell.ge,website_live; 2_phones; has_mobile; has_landline
+A,6,აიდისი,(599) 50 38 15,+995599503815,http://www.idc.ge,,yell.ge,website_live; 3_phones; has_mobile; has_landline
+A,6,აიდისი,221 00 50,+995322210050,http://www.idc.ge,,yell.ge,website_live; 3_phones; has_mobile; has_landline
+A,6,აიდისი,221 00 48,+995322210048,http://www.idc.ge,,yell.ge,website_live; 3_phones; has_mobile; has_landline
+A,6,იუნიქს დეველოპმენტი,032 2 05 16 16,+995322051616,https://house.ge/,,yell.ge,website_live; 2_phones; has_mobile; has_landline
+A,6,იუნიქს დეველოპმენტი,(574) 54 88 88,+995574548888,https://house.ge/,,yell.ge,website_live; 2_phones; has_mobile; has_landline
+A,6,პრაიმ ბეტონი,222 48 70,+995322224870,https://primeconcrete.ge,,yell.ge,website_live; 2_phones; has_mobile; has_landline
+A,6,პრაიმ ბეტონი,(598) 818 818,+995598818818,https://primeconcrete.ge,,yell.ge,website_live; 2_phones; has_mobile; has_landline
+A,6,ელემენტ კონსტრაქშენი,237 47 37,+995322374737,http://www.ec.ge,,yell.ge,website_live; 2_phones; has_mobile; has_landline
+A,6,ელემენტ კონსტრაქშენი,(533) 333 352,+995533333352,http://www.ec.ge,,yell.ge,website_live; 2_phones; has_mobile; has_landline
+A,6,დონა გრუპ,+995322320099,+995322320099,http://www.dona.ge/,,bia.ge,website_live; 2_phones; has_mobile; has_landline
+A,6,დონა გრუპ,+995595544040,+995595544040,http://www.dona.ge/,,bia.ge,website_live; 2_phones; has_mobile; has_landline
+A,6,სამშენებლო კომპანია აპექს დეველოპმენტი,+995555035555,+995555035555,http://www.apexd.ge/,,bia.ge,website_live; 3_phones; has_mobile; has_landline
+A,6,სამშენებლო კომპანია აპექს დეველოპმენტი,+995322555055(115),+995322555055,http://www.apexd.ge/,,bia.ge,website_live; 3_phones; has_mobile; has_landline
+A,6,სამშენებლო კომპანია აპექს დეველოპმენტი,+995555045555,+995555045555,http://www.apexd.ge/,,bia.ge,website_live; 3_phones; has_mobile; has_landline
+A,6,ანაგი დეველოპმენტი 1,+995322318318,+995322318318,https://ad.ge/,,bia.ge,website_live; 2_phones; has_mobile; has_landline
+A,6,ანაგი დეველოპმენტი 1,+995577318318,+995577318318,https://ad.ge/,,bia.ge,website_live; 2_phones; has_mobile; has_landline
+A,6,ლგ გრუპი,+995571855522,+995571855522,http://www.lggroup.ge/,,bia.ge,website_live; 3_phones; has_mobile; has_landline
+A,6,ლგ გრუპი,+995571568844,+995571568844,http://www.lggroup.ge/,,bia.ge,website_live; 3_phones; has_mobile; has_landline
+A,6,ლგ გრუპი,+995322500080,+995322500080,http://www.lggroup.ge/,,bia.ge,website_live; 3_phones; has_mobile; has_landline
+A,6,ქრიათივ იმფრეშენს კავკასუს,+995591092222,+995591092222,http://www.cic.ge/,,bia.ge,website_live; 2_phones; has_mobile; has_landline
+A,6,ქრიათივ იმფრეშენს კავკასუს,+995422225144,+995422225144,http://www.cic.ge/,,bia.ge,website_live; 2_phones; has_mobile; has_landline
+A,6,ენენ ჯგუფი,+995599258822,+995599258822,http://www.newhouse.ge/,,bia.ge,website_live; 2_phones; has_mobile; has_landline
+A,6,ენენ ჯგუფი,+995322306888,+995322306888,http://www.newhouse.ge/,,bia.ge,website_live; 2_phones; has_mobile; has_landline
+A,6,კანო,+995341293444,+995341293444,http://www.kano.ge/,,bia.ge,website_live; 2_phones; has_mobile; has_landline
+A,6,კანო,+995577475433,+995577475433,http://www.kano.ge/,,bia.ge,website_live; 2_phones; has_mobile; has_landline
+A,6,რუმბოქსი,+995551831177,+995551831177,https://roombox.ge/,,bia.ge,website_live; 2_phones; has_mobile; has_landline
+A,6,რუმბოქსი,+995322831177,+995322831177,https://roombox.ge/,,bia.ge,website_live; 2_phones; has_mobile; has_landline
+A,6,სოლუმ დეველოპმენტი,+995322121111,+995322121111,http://www.solum.ge/,,bia.ge,website_live; 2_phones; has_mobile; has_landline
+A,6,სოლუმ დეველოპმენტი,+995514221122,+995514221122,http://www.solum.ge/,,bia.ge,website_live; 2_phones; has_mobile; has_landline
+A,6,ბაუმ კონსთრაქშენ,+995322141110,+995322141110,http://www.block.ge/,,bia.ge,website_live; 2_phones; has_mobile; has_landline
+A,6,ბაუმ კონსთრაქშენ,+995577141100,+995577141100,http://www.block.ge/,,bia.ge,website_live; 2_phones; has_mobile; has_landline
+A,6,ორიონ ჯგუფი,+995322372222,+995322372222,https://www.oriongroup.ge/,,bia.ge,website_live; 2_phones; has_mobile; has_landline
+A,6,ორიონ ჯგუფი,+995595372222,+995595372222,https://www.oriongroup.ge/,,bia.ge,website_live; 2_phones; has_mobile; has_landline
+A,6,აზერტუნელი–ს ფილიალი საქართველოში,+995322430110,+995322430110,http://www.azertunel.com/,,bia.ge,website_live; 2_phones; has_mobile; has_landline
+A,6,აზერტუნელი–ს ფილიალი საქართველოში,+995579218314,+995579218314,http://www.azertunel.com/,,bia.ge,website_live; 2_phones; has_mobile; has_landline
+A,6,გუმბათი ჯგუფი,+995322838281,+995322838281,http://www.gumbatigroup.ge/,,bia.ge,website_live; 2_phones; has_mobile; has_landline
+A,6,გუმბათი ჯგუფი,+995555100100,+995555100100,http://www.gumbatigroup.ge/,,bia.ge,website_live; 2_phones; has_mobile; has_landline
+A,6,მზიური დეველოპმენტ,+995593755050,+995593755050,https://mziuridevelopment.ge/,,bia.ge,website_live; 3_phones; has_mobile; has_landline
+A,6,მზიური დეველოპმენტ,+995593765050,+995593765050,https://mziuridevelopment.ge/,,bia.ge,website_live; 3_phones; has_mobile; has_landline
+A,6,მზიური დეველოპმენტ,+995322043434,+995322043434,https://mziuridevelopment.ge/,,bia.ge,website_live; 3_phones; has_mobile; has_landline
+A,6,ას კონსტრაქშენ,+995 32 2471144,+995322471144,http://www.asgeorgia.ge/,,bia.ge,website_live; 2_phones; has_mobile; has_landline
+A,6,ას კონსტრაქშენ,+995 591 801199,+995591801199,http://www.asgeorgia.ge/,,bia.ge,website_live; 2_phones; has_mobile; has_landline
+A,6,დიეს ვაით ლაინი,+995422231111,+995422231111,http://www.dsg.ge/,,bia.ge,website_live; 3_phones; has_mobile; has_landline
+A,6,დიეს ვაით ლაინი,+995596771111,+995596771111,http://www.dsg.ge/,,bia.ge,website_live; 3_phones; has_mobile; has_landline
+A,6,დიეს ვაით ლაინი,+995596881111,+995596881111,http://www.dsg.ge/,,bia.ge,website_live; 3_phones; has_mobile; has_landline
+A,6,ლისი ტოპოგრაფ მენეჯმენტი,+995500502202,+995500502202,https://www.lisitopograph.ge/,,bia.ge,website_live; 2_phones; has_mobile; has_landline
+A,6,ლისი ტოპოგრაფ მენეჯმენტი,+995322502202,+995322502202,https://www.lisitopograph.ge/,,bia.ge,website_live; 2_phones; has_mobile; has_landline
+A,6,რუფ დეველოპერი,+995322307007,+995322307007,https://www.roofdevelopment.ge/,,bia.ge,website_live; 2_phones; has_mobile; has_landline
+A,6,რუფ დეველოპერი,+995591544445,+995591544445,https://www.roofdevelopment.ge/,,bia.ge,website_live; 2_phones; has_mobile; has_landline
+A,6,გრადა,+995596406406,+995596406406,https://www.grada.ge/,,bia.ge,website_live; 2_phones; has_mobile; has_landline
+A,6,გრადა,+995322407407,+995322407407,https://www.grada.ge/,,bia.ge,website_live; 2_phones; has_mobile; has_landline
+A,6,ნოსტრა,+995599501084,+995599501084,https://nostra.ge/,,bia.ge,website_live; 3_phones; has_mobile; has_landline
+A,6,ნოსტრა,+995322159797,+995322159797,https://nostra.ge/,,bia.ge,website_live; 3_phones; has_mobile; has_landline
+A,6,ნოსტრა,+995592107107,+995592107107,https://nostra.ge/,,bia.ge,website_live; 3_phones; has_mobile; has_landline
+A,6,Technical Solution,+995322314080,+995322314080,http://www.technicalsolution.ge/,,bia.ge,website_live; 2_phones; has_mobile; has_landline
+A,6,Technical Solution,+995577783232,+995577783232,http://www.technicalsolution.ge/,,bia.ge,website_live; 2_phones; has_mobile; has_landline
+A,6,დეკა დეველოპმენტ,+995575000100,+995575000100,https://dekadevelopment.ge/,,bia.ge,website_live; 2_phones; has_mobile; has_landline
+A,6,დეკა დეველოპმენტ,+995322222212,+995322222212,https://dekadevelopment.ge/,,bia.ge,website_live; 2_phones; has_mobile; has_landline
+A,6,აა3,+995599475511,+995599475511,https://ocean.ge/ka/,,bia.ge,website_live; 2_phones; has_mobile; has_landline
+A,6,აა3,+995322227711,+995322227711,https://ocean.ge/ka/,,bia.ge,website_live; 2_phones; has_mobile; has_landline
+A,6,მეგა სითი,+995557848800,+995557848800,,https://www.facebook.com/megacitybatumi,bia.ge,has_facebook; fb_posted_this_year; fb_2601_likes; has_mobile
+A,6,ემ. ეს. ჯი. 7,+995599170277,+995599170277,,https://www.facebook.com/msg.gori,bia.ge,has_facebook; fb_posted_this_year; fb_2355_likes; has_mobile
+A,6,ლუჩო,+995599216363,+995599216363,,https://www.facebook.com/Gabi-House-%E1%83%92%E1%83%90%E1%83%91%E1%83%98-%E1%83%B0%E1%83%90%E1%83%A3%E1%83%A1%E1%83%98-143490069593339/,bia.ge,has_facebook; fb_posted_this_year; fb_3219_likes; has_mobile
+A,6,ტოპლაინ სისაიდ,+995577121921,+995577121921,,https://www.facebook.com/toplineShekvetili,bia.ge,has_facebook; fb_posted_this_year; fb_9197_likes; has_mobile
+A,5,ჰაუსლაინი,(595) 60 00 05,+995595600005,http://www.houseline.ge,,yell.ge,website_live; 2_phones; has_mobile
+A,5,ჰაუსლაინი,(592) 52 26 26,+995592522626,http://www.houseline.ge,,yell.ge,website_live; 2_phones; has_mobile
+A,5,სამშენებლო კომპანია - ბარი დეველოპმენტი,(595) 40 70 90,+995595407090,http://www.bari.ge,,yell.ge,website_live; 2_phones; has_mobile
+A,5,სამშენებლო კომპანია - ბარი დეველოპმენტი,(593) 46 99 50,+995593469950,http://www.bari.ge,,yell.ge,website_live; 2_phones; has_mobile
+A,5,დაგი,238 08 55,+995322380855,http://www.dagi.ge,,yell.ge,website_live; 2_phones; has_landline
+A,5,დაგი,238 26 55,+995322382655,http://www.dagi.ge,,yell.ge,website_live; 2_phones; has_landline
+A,5,იუ ბი სი,+995 595 51 91 05,+995595519105,https://www.ubc.ge,,yell.ge,website_live; 2_phones; has_mobile
+A,5,იუ ბი სი,+995 599 23 69 09,+995599236909,https://www.ubc.ge,,yell.ge,website_live; 2_phones; has_mobile
+A,5,გალაქსი კონსტრაქშენ,(599) 244 664,+995599244664,http://www.galaxygroup.ge,,yell.ge,website_live; 2_phones; has_mobile
+A,5,გალაქსი კონსტრაქშენ,(596) 24 00 00,+995596240000,http://www.galaxygroup.ge,,yell.ge,website_live; 2_phones; has_mobile
+A,5,ვერტიკალ გრუპი,(577) 13 32 00,+995577133200,https://vgroup.ge,,yell.ge,website_live; 2_phones; has_mobile
+A,5,ვერტიკალ გრუპი,(577) 77 72 55,+995577777255,https://vgroup.ge,,yell.ge,website_live; 2_phones; has_mobile
+A,5,ეკობინა,(599) 58 58 17,+995599585817,http://www.ecobina.ge,,yell.ge,website_live; 2_phones; has_mobile
+A,5,ეკობინა,(514) 605 605,+995514605605,http://www.ecobina.ge,,yell.ge,website_live; 2_phones; has_mobile
+A,5,ზმკ - ZMK,2 309 200,+995322309200,http://www.zmk.ge,,yell.ge,website_live; 2_phones; has_landline
+A,5,ზმკ - ZMK,2 38 58 53,+995322385853,http://www.zmk.ge,,yell.ge,website_live; 2_phones; has_landline
+A,5,გოდოლი,(593) 37 67 32,+995593376732,http://www.godoli.ge,,yell.ge,website_live; 3_phones; has_mobile
+A,5,გოდოლი,(577) 74 54 01,+995577745401,http://www.godoli.ge,,yell.ge,website_live; 3_phones; has_mobile
+A,5,გოდოლი,(577) 78 10 05,+995577781005,http://www.godoli.ge,,yell.ge,website_live; 3_phones; has_mobile
+A,5,ნდს მშენებლობა,(599) 51 92 52,+995599519252,http://www.ndcconstruction.ge,,yell.ge,website_live; 2_phones; has_mobile
+A,5,ნდს მშენებლობა,(555) 76 07 70,+995555760770,http://www.ndcconstruction.ge,,yell.ge,website_live; 2_phones; has_mobile
+A,5,ინ-სი,221 31 95,+995322213195,http://www.insi.ge,,yell.ge,website_live; 2_phones; has_landline
+A,5,ინ-სი,221 31 94,+995322213194,http://www.insi.ge,,yell.ge,website_live; 2_phones; has_landline
+A,5,ბლექ სი გრუპი,220 74 74,+995322207474,http://www.bsg.com.ge,,yell.ge,website_live; 3_phones; has_landline
+A,5,ბლექ სი გრუპი,220 74 75,+995322207475,http://www.bsg.com.ge,,yell.ge,website_live; 3_phones; has_landline
+A,5,ბლექ სი გრუპი,220 74 20,+995322207420,http://www.bsg.com.ge,,yell.ge,website_live; 3_phones; has_landline
+A,5,სამშენებლო ლაბორატორია,(577) 65 03 62,+995577650362,http://www.loc.ge,,yell.ge,website_live; 2_phones; has_mobile
+A,5,სამშენებლო ლაბორატორია,(551) 51 52 52,+995551515252,http://www.loc.ge,,yell.ge,website_live; 2_phones; has_mobile
+A,5,ბიჰაუსი,(599) 38 40 10,+995599384010,https://bhouse.ge,,yell.ge,website_live; 2_phones; has_mobile
+A,5,ბიჰაუსი,(595) 40 04 04,+995595400404,https://bhouse.ge,,yell.ge,website_live; 2_phones; has_mobile
+A,5,M B G. LTD,+995592121132,+995592121132,https://www.mb.ge/,,bia.ge,website_live; 2_phones; has_mobile
+A,5,M B G. LTD,+995571553236,+995571553236,https://www.mb.ge/,,bia.ge,website_live; 2_phones; has_mobile
+A,5,არქ–დეკო,+995599511751,+995599511751,http://www.archdeco.ge/,,bia.ge,website_live; 2_phones; has_mobile
+A,5,არქ–დეკო,+995555551158,+995555551158,http://www.archdeco.ge/,,bia.ge,website_live; 2_phones; has_mobile
+A,5,ბათმშენი,+995557304040,+995557304040,http://www.intouristresidence.ge/,,bia.ge,website_live; 2_phones; has_mobile
+A,5,ბათმშენი,+995558304040,+995558304040,http://www.intouristresidence.ge/,,bia.ge,website_live; 2_phones; has_mobile
+A,5,გზა,+995422221111,+995422221111,http://www.gza.ge/,,bia.ge,website_live; 2_phones; has_landline
+A,5,გზა,+995422224444,+995422224444,http://www.gza.ge/,,bia.ge,website_live; 2_phones; has_landline
+A,5,გრინლაიფ – Greenlife,+995322432576,+995322432576,http://www.greenlife.ge/,,bia.ge,website_live; 2_phones; has_landline
+A,5,გრინლაიფ – Greenlife,+995322500250,+995322500250,http://www.greenlife.ge/,,bia.ge,website_live; 2_phones; has_landline
+A,5,კალციტი,+995599562532,+995599562532,https://www.caltsiti.ge/,,bia.ge,website_live; 2_phones; has_mobile
+A,5,კალციტი,+995595335013,+995595335013,https://www.caltsiti.ge/,,bia.ge,website_live; 2_phones; has_mobile
+A,5,მარდი,+995598342574,+995598342574,http://www.mardiltd.weebly.com/,,bia.ge,website_live; 2_phones; has_mobile
+A,5,მარდი,+995599484811,+995599484811,http://www.mardiltd.weebly.com/,,bia.ge,website_live; 2_phones; has_mobile
+A,5,ნუროლ ინშაათ ვე თიჯარეთის წარმომადგენლობა საქართველოში,+995422229000,+995422229000,http://www.sheraton.com/batumi,,bia.ge,website_live; 2_phones; has_landline
+A,5,ნუროლ ინშაათ ვე თიჯარეთის წარმომადგენლობა საქართველოში,+995422229022,+995422229022,http://www.sheraton.com/batumi,,bia.ge,website_live; 2_phones; has_landline
+A,5,პრიმერა გოლფ ენდ რეზიდენც,+995599999904,+995599999904,https://www.primeragolf.com/,,bia.ge,website_live; 2_phones; has_mobile
+A,5,პრიმერა გოლფ ენდ რეზიდენც,+995577402402,+995577402402,https://www.primeragolf.com/,,bia.ge,website_live; 2_phones; has_mobile
+A,5,იქსორი წერეთელზე,+995599618888,+995599618888,http://www.x2.ge/,,bia.ge,website_live; 2_phones; has_mobile
+A,5,იქსორი წერეთელზე,+995599873333,+995599873333,http://www.x2.ge/,,bia.ge,website_live; 2_phones; has_mobile
+A,5,კალატოზი,+995593187272,+995593187272,https://www.kalatozi.com/,,bia.ge,website_live; 2_phones; has_mobile
+A,5,კალატოზი,+995558047047,+995558047047,https://www.kalatozi.com/,,bia.ge,website_live; 2_phones; has_mobile
+A,5,კომპანია რეზიდ ჰოლდინგ ჯიემბიეიჩ–ის ფილიალი საქართველოში რეზიდ–თბილისი,+995322001818,+995322001818,https://kdr.ge/,,bia.ge,website_live; 4_phones; has_landline
+A,5,კომპანია რეზიდ ჰოლდინგ ჯიემბიეიჩ–ის ფილიალი საქართველოში რეზიდ–თბილისი,+995322001718,+995322001718,https://kdr.ge/,,bia.ge,website_live; 4_phones; has_landline
+A,5,კომპანია რეზიდ ჰოლდინგ ჯიემბიეიჩ–ის ფილიალი საქართველოში რეზიდ–თბილისი,+995322001744,+995322001744,https://kdr.ge/,,bia.ge,website_live; 4_phones; has_landline
+A,5,კომპანია რეზიდ ჰოლდინგ ჯიემბიეიჩ–ის ფილიალი საქართველოში რეზიდ–თბილისი,+995322250909,+995322250909,https://kdr.ge/,,bia.ge,website_live; 4_phones; has_landline
+A,5,კონსოლი,+995322197878,+995322197878,http://www.console.ge/,,bia.ge,website_live; 2_phones; has_landline
+A,5,კონსოლი,+995322302621,+995322302621,http://www.console.ge/,,bia.ge,website_live; 2_phones; has_landline
+A,5,მიქსორი,+995322656705,+995322656705,https://www.mixori.ge/,,bia.ge,website_live; 2_phones; has_landline
+A,5,მიქსორი,+995322656730,+995322656730,https://www.mixori.ge/,,bia.ge,website_live; 2_phones; has_landline
+A,5,ოცნების სახლი,+995555151414,+995555151414,https://www.dhouse.ge/,,bia.ge,website_live; 2_phones; has_mobile
+A,5,ოცნების სახლი,+995593413110,+995593413110,https://www.dhouse.ge/,,bia.ge,website_live; 2_phones; has_mobile
+A,5,ფაივ პოინტს,+995595150500,+995595150500,http://www.fivepoints.ge/,,bia.ge,website_live; 2_phones; has_mobile
+A,5,ფაივ პოინტს,+995599915050,+995599915050,http://www.fivepoints.ge/,,bia.ge,website_live; 2_phones; has_mobile
+A,5,ფერი,+995322528871,+995322528871,http://www.peri.ge/,,bia.ge,website_live; 2_phones; has_landline
+A,5,ფერი,+995322532247,+995322532247,http://www.peri.ge/,,bia.ge,website_live; 2_phones; has_landline
+A,5,არქთრეიდი,+995322207400,+995322207400,http://www.archtrade.ge/,,bia.ge,website_live; 2_phones; has_landline
+A,5,არქთრეიდი,+995322207401,+995322207401,http://www.archtrade.ge/,,bia.ge,website_live; 2_phones; has_landline
+A,5,ემ.ბი.ჯი.,+995592727220,+995592727220,https://www.mbg.ge/,,bia.ge,website_live; 4_phones; has_mobile
+A,5,ემ.ბი.ჯი.,+995592727247,+995592727247,https://www.mbg.ge/,,bia.ge,website_live; 4_phones; has_mobile
+A,5,ემ.ბი.ჯი.,+995592727200,+995592727200,https://www.mbg.ge/,,bia.ge,website_live; 4_phones; has_mobile
+A,5,ემ.ბი.ჯი.,+995592727293,+995592727293,https://www.mbg.ge/,,bia.ge,website_live; 4_phones; has_mobile
+A,5,ნიუ თაიმ,+995571702020,+995571702020,http://www.ntime.ge/,,bia.ge,website_live; 3_phones; has_mobile
+A,5,ნიუ თაიმ,+995571706060,+995571706060,http://www.ntime.ge/,,bia.ge,website_live; 3_phones; has_mobile
+A,5,ნიუ თაიმ,+995577187171,+995577187171,http://www.ntime.ge/,,bia.ge,website_live; 3_phones; has_mobile
+A,5,ოდა,+995511777222,+995511777222,https://www.odahome.ge/,,bia.ge,website_live; 3_phones; has_mobile
+A,5,ოდა,+995551901157,+995551901157,https://www.odahome.ge/,,bia.ge,website_live; 3_phones; has_mobile
+A,5,ოდა,+995593314963,+995593314963,https://www.odahome.ge/,,bia.ge,website_live; 3_phones; has_mobile
+A,5,საამშენებლო კომპანია ოდი,+995599240330,+995599240330,http://www.odi.ge/,,bia.ge,website_live; 2_phones; has_mobile
+A,5,საამშენებლო კომპანია ოდი,+995598115551,+995598115551,http://www.odi.ge/,,bia.ge,website_live; 2_phones; has_mobile
+A,5,სპეცჰიდრომშენი,+995322658372,+995322658372,http://www.shm.ge/,,bia.ge,website_live; 4_phones; has_landline
+A,5,სპეცჰიდრომშენი,+995322658373,+995322658373,http://www.shm.ge/,,bia.ge,website_live; 4_phones; has_landline
+A,5,სპეცჰიდრომშენი,+995322658377,+995322658377,http://www.shm.ge/,,bia.ge,website_live; 4_phones; has_landline
+A,5,სპეცჰიდრომშენი,+995322658374,+995322658374,http://www.shm.ge/,,bia.ge,website_live; 4_phones; has_landline
+A,5,ჰორიზონს ჯგუფი,+995557030000,+995557030000,https://linktr.ee/horizonbatumi,,bia.ge,website_live; 2_phones; has_mobile
+A,5,ჰორიზონს ჯგუფი,+995557020000,+995557020000,https://linktr.ee/horizonbatumi,,bia.ge,website_live; 2_phones; has_mobile
+A,5,ბაგრატიონი რეზიდენსი,+995598932727,+995598932727,https://bagrationiresidence.ge/,,bia.ge,website_live; 2_phones; has_mobile
+A,5,ბაგრატიონი რეზიდენსი,+995598942727,+995598942727,https://bagrationiresidence.ge/,,bia.ge,website_live; 2_phones; has_mobile
+A,5,მართე უსაფრთხოდ,+995598725530,+995598725530,http://www.marteusafrtxod.ge/,,bia.ge,website_live; 2_phones; has_mobile
+A,5,მართე უსაფრთხოდ,+995551185530,+995551185530,http://www.marteusafrtxod.ge/,,bia.ge,website_live; 2_phones; has_mobile
+A,5,Hualing International Special Economic Zone,+995322780023,+995322780023,http://www.hotelspreference.ge/,,bia.ge,website_live; 3_phones; has_landline
+A,5,Hualing International Special Economic Zone,+995322505025,+995322505025,http://www.hotelspreference.ge/,,bia.ge,website_live; 3_phones; has_landline
+A,5,Hualing International Special Economic Zone,+995322973297,+995322973297,http://www.hotelspreference.ge/,,bia.ge,website_live; 3_phones; has_landline
+A,5,ბინარეა,+995500052588,+995500052588,https://binarea.ge/,,bia.ge,website_live; 2_phones; has_mobile
+A,5,ბინარეა,+995500053130,+995500053130,https://binarea.ge/,,bia.ge,website_live; 2_phones; has_mobile
+A,5,პლატინუმ ვაზისუბანი,+995558444484,+995558444484,http://www.platinum.ge/,,bia.ge,website_live; 2_phones; has_mobile
+A,5,პლატინუმ ვაზისუბანი,+995557663456,+995557663456,http://www.platinum.ge/,,bia.ge,website_live; 2_phones; has_mobile
+A,5,მაზა,+995579570000,+995579570000,https://www.maza.ge/,,bia.ge,website_live; 2_phones; has_mobile
+A,5,მაზა,+995597570000,+995597570000,https://www.maza.ge/,,bia.ge,website_live; 2_phones; has_mobile
+A,5,სეუ გრუპ დეველოპმენტ კომპანი,+995596700007,+995596700007,http://www.seudevelopment.ge/,,bia.ge,website_live; 2_phones; has_mobile
+A,5,სეუ გრუპ დეველოპმენტ კომპანი,+995596707070,+995596707070,http://www.seudevelopment.ge/,,bia.ge,website_live; 2_phones; has_mobile
+A,5,რეკან გრუპ ჯორჯია,+995555098098,+995555098098,http://www.batumiview.com/,,bia.ge,website_live; 2_phones; has_mobile
+A,5,რეკან გრუპ ჯორჯია,+995555097097,+995555097097,http://www.batumiview.com/,,bia.ge,website_live; 2_phones; has_mobile
+A,5,სანრაიზ დეველოპმენტი,+995591039999,+995591039999,https://batumisunriseresidence.ge/,,bia.ge,website_live; 2_phones; has_mobile
+A,5,სანრაიზ დეველოპმენტი,+995598039999,+995598039999,https://batumisunriseresidence.ge/,,bia.ge,website_live; 2_phones; has_mobile
+A,5,ატლანტ,+995571104040,+995571104040,https://atlanti.ge/,,bia.ge,website_live; 2_phones; has_mobile
+A,5,ატლანტ,+995574071010,+995574071010,https://atlanti.ge/,,bia.ge,website_live; 2_phones; has_mobile
+A,5,მარდიჰაუსი,+995422274741,+995422274741,http://www.mardihouse.ge/,,bia.ge,website_live; 2_phones; has_landline
+A,5,მარდიჰაუსი,+995422276038,+995422276038,http://www.mardihouse.ge/,,bia.ge,website_live; 2_phones; has_landline
+A,5,დეველოპმენტ გრუპი,(579) 777 866,+995579777866,,https://www.facebook.com/დეველოპმენტ-გრუპი-Development-Group-1273751229323794,yell.ge,has_facebook; fb_posted_2yrs; fb_6605_likes; 2_phones; has_mobile
+A,5,დეველოპმენტ გრუპი,(557) 005 005,+995557005005,,https://www.facebook.com/დეველოპმენტ-გრუპი-Development-Group-1273751229323794,yell.ge,has_facebook; fb_posted_2yrs; fb_6605_likes; 2_phones; has_mobile
+A,5,გლობალ სერვისი,(558) 76 74 01,+995558767401,,,yell.ge,multi_source; 4_phones; has_mobile; has_landline
+A,5,გლობალ სერვისი,(577) 10 10 05,+995577101005,,,yell.ge,multi_source; 4_phones; has_mobile; has_landline
+A,5,გლობალ სერვისი,+995322920790,+995322920790,,,bia.ge,multi_source; 4_phones; has_mobile; has_landline
+A,5,გლობალ სერვისი,+995322920780,+995322920780,,,bia.ge,multi_source; 4_phones; has_mobile; has_landline
+B,4,ვიკონ გრუპი,+995 551 55 55 11,+995551555511,https://vikon.ge,,yell.ge,website_live; has_mobile
+B,4,მეტტა,032 2 880 440,+995322880440,http://www.metta.ge,,yell.ge,website_live; has_landline
+B,4,სამშენებლო კომპანია მეგობრობა,(032) 262 21 22,+995322622122,http://www.megobroba.ge,,yell.ge,website_live; has_landline
+B,4,სამშენებლო დეველოპერული კომპანია აისი,(599) 56 83 73,+995599568373,http://www.aisigroup.ge,,yell.ge,website_live; has_mobile
+B,4,ურბანა,(557) 55 77 55,+995557557755,http://www.urbana.ge,,yell.ge,website_live; has_mobile
+B,4,შპს ჯითიბი,032 2 421 481,+995322421481,https://gtbgroup.ge,,yell.ge,website_live; has_landline
+B,4,კაიზენ კონსტრაქშენ ჯორჯია,+995 511 748 748,+995511748748,https://www.kcg.ge,,yell.ge,website_live; has_mobile
+B,4,ანაგი,2 24 12 11,+995322241211,http://www.anagi.ge,,yell.ge,website_live; has_landline
+B,4,სამშენებლო კომპანია ერთი,(595) 48 48 48,+995595484848,https://www.shpunt.ge,,yell.ge,website_live; has_mobile
+B,4,ბლოქსი,205 07 07,+995322050707,http://www.blox.ge,,yell.ge,website_live; has_landline
+B,4,სითი epc,(577) 35 12 11,+995577351211,https://city-epc.com,,yell.ge,website_live; has_mobile
+B,4,ფარენჰაიტი,(551) 29 52 00,+995551295200,https://pvcfarda.ge/index.html,,yell.ge,website_live; has_mobile
+B,4,ევორდ,(568) 55 78 00,+995568557800,http://www.award.ge,,yell.ge,website_live; has_mobile
+B,4,ბი ქეი ქონსთრაქშენ,299 44 11,+995322994411,http://www.bkc.ge,,yell.ge,website_live; has_landline
+B,4,ჩვენი სახლი,(558) 54 86 13,+995558548613,https://www.2e2.club,,yell.ge,website_live; has_mobile
+B,4,მედმშენი,(577) 15 14 95,+995577151495,http://www.medmsheni.ge,,yell.ge,website_live; has_mobile
+B,4,ჰაბმშენი,(595) 500 065,+995595500065,https://www.hubmsheni.com,,yell.ge,website_live; has_mobile
+B,4,ახალი თბილისი,210 30 00,+995322103000,http://www.akhalitbilisi.ge,,yell.ge,website_live; has_landline
+B,4,ტედა ლუქსი,(555) 93 83 91,+995555938391,https://tdl.ge,,yell.ge,website_live; has_mobile
+B,4,სონნეთ ქონსთრაქშენ,(595) 30 20 05,+995595302005,http://www.sonnet.ge,,yell.ge,website_live; has_mobile
+B,4,კომლფორტი,(596) 04 60 60,+995596046060,https://comlforti.ge,,yell.ge,website_live; has_mobile
+B,4,ხომერიკი და კომპანია,(599) 27 08 34,+995599270834,https://wa.me/995599270834,,yell.ge,website_live; has_mobile
+B,4,რუფლაინ,(599) 26 90 10,+995599269010,https://www.roofline.ge,,yell.ge,website_live; has_mobile
+B,4,ნიკოლმანი,(599) 44 64 64,+995599446464,https://nikolman.com,,yell.ge,website_live; has_mobile
+B,4,ჯეოინჟინირინგი,(599) 53 00 83,+995599530083,http://www.geoengineering.ge,,yell.ge,website_live; has_mobile
+B,4,გეოარტქონსთრაქშენი,(555) 90 13 65,+995555901365,https://geoartconstruction.ge,,yell.ge,website_live; has_mobile
+B,4,ელიტჰოუმი,+995 511 72 70 15,+995511727015,https://www.elitehome.ge,,yell.ge,website_live; has_mobile
+B,4,სიემსი - სამშენებლო მენეჯმენტი და კონსალტინგი,224 07 17,+995322240717,http://www.cmc.ge,,yell.ge,website_live; has_landline
+B,4,ალფა-ტექს ქონსთრაქშენი,(598) 943 943,+995598943943,https://www.alfatexx.ge,,yell.ge,website_live; has_mobile
+B,4,ბიმ კუბ ქონსალთინგი,(591) 00 60 01,+995591006001,http://www.bim.ge,,yell.ge,website_live; has_mobile
+B,4,BD Property,+995322202323,+995322202323,http://www.tbilisigardens.ge/,,bia.ge,website_live; has_landline
+B,4,ართვინ ჯორჯია,+995598831212,+995598831212,http://www.artwin.ge/,,bia.ge,website_live; has_mobile
+B,4,არკონ,+995599274727,+995599274727,http://www.arcon.ge/,,bia.ge,website_live; has_mobile
+B,4,გრანდე ჯგუფი,+995595909999,+995595909999,https://www.grandegroup.ge/,,bia.ge,website_live; has_mobile
+B,4,ზემინ ტექნოლოჟისი ულუსლარარასის საქართველოს ფილიალი,+995577548788,+995577548788,http://www.zetas.com.tr/,,bia.ge,website_live; has_mobile
+B,4,ზიმო,+995551239779,+995551239779,http://www.zimo.ge/,,bia.ge,website_live; has_mobile
+B,4,თიდი კონსტრაქშენ,+995591772255,+995591772255,https://tdconstruction.ge/,,bia.ge,website_live; has_mobile
+B,4,თი-ისთეითი,+995593939093,+995593939093,https://testate.ge/,,bia.ge,website_live; has_mobile
+B,4,იდეა დეველოპმენტ,+995598229922,+995598229922,https://www.ideadevelopment.ge/,,bia.ge,website_live; has_mobile
+B,4,კომპანია ჯაოკენი,+995322699697,+995322699697,http://www.jaokeni.ge/,,bia.ge,website_live; has_landline
+B,4,ლიტ ჯეო ინვესტი,+995577540059,+995577540059,http://www.litgeoinvest.ge/,,bia.ge,website_live; has_mobile
+B,4,პარვუს ქონსთრაქშენი,+995595037000,+995595037000,https://www.parvus.ge/,,bia.ge,website_live; has_mobile
+B,4,სონნეთ ქონსთრაქშენ+,+995591220707,+995591220707,https://sonnet.ge/,,bia.ge,website_live; has_mobile
+B,4,სურვეიორ,+995514006464,+995514006464,http://www.surveyor.ge/,,bia.ge,website_live; has_mobile
+B,4,ტერასა გრუპი,+995322044044,+995322044044,http://www.terrassagroup.ge/,,bia.ge,website_live; has_landline
+B,4,ტესენ ქონსთრაქშენი,+995511111771,+995511111771,https://tesengroup.com/,,bia.ge,website_live; has_mobile
+B,4,ტიბინი დეველოპმენტი,+995568408080,+995568408080,http://www.tbn.ge/,,bia.ge,website_live; has_mobile
+B,4,ალიანსი თბილისი,+995322250000,+995322250000,http://www.alliancegroup.ge/,,bia.ge,website_live; has_landline
+B,4,ბათთაუერსი,+995514769191,+995514769191,http://www.battowers.ge/,,bia.ge,website_live; has_mobile
+B,4,ბალავარი პროპერთის,+995595926868,+995595926868,http://www.balavari.ge/,,bia.ge,website_live; has_mobile
+B,4,ბანი 2007,+995557557551,+995557557551,http://banigroup.ge/,,bia.ge,website_live; has_mobile
+B,4,დოპელმაიერ საუს კაუკაზუს,+995322252505,+995322252505,https://www.doppelmayr.com/,,bia.ge,website_live; has_landline
+B,4,მარდი კონსტრაქშენ,+995574202020,+995574202020,https://www.mardihouse.ge/,,bia.ge,website_live; has_mobile
+B,4,მეგა დეველოპმენტი,+995557805805,+995557805805,http://www.megadevelopment.ge/,,bia.ge,website_live; has_mobile
+B,4,მეგობრობა,+995555101567,+995555101567,http://www.megobroba.ge/,,bia.ge,website_live; has_mobile
+B,4,ნექსთ ედრეს,+995514111111,+995514111111,https://www.nextgroup.ge/,,bia.ge,website_live; has_mobile
+B,4,რეალ პალასი,+995557784747,+995557784747,http://www.realpalace.ge/,,bia.ge,website_live; has_mobile
+B,4,ს მოტორს,+995322700100,+995322700100,http://www.smotors.ge/,,bia.ge,website_live; has_landline
+B,4,ჯავა,+995322601777,+995322601777,http://www.javaltd.ge/,,bia.ge,website_live; has_landline
+B,4,ჯბჯ,+995591507020,+995591507020,http://www.mygbg.ge/,,bia.ge,website_live; has_mobile
+B,4,ჰაუსარტ – ლუქსი,+995555252259,+995555252259,http://www.hausart.ge/,,bia.ge,website_live; has_mobile
+B,4,ალექსანდრე სხულუხია,+995593183718,+995593183718,http://www.thouse.ge/,,bia.ge,website_live; has_mobile
+B,4,ალისფერი აფრები,+995568002211,+995568002211,http://www.alisperiaprebi.ge/,,bia.ge,website_live; has_mobile
+B,4,არქი პრომოუშენ,+995322602602,+995322602602,http://www.archi.ge/,,bia.ge,website_live; has_landline
+B,4,არქტური +,+995551080013,+995551080013,http://www.arqturi.ge/,,bia.ge,website_live; has_mobile
+B,4,ეიმ ბილდინგ სითი,+995322041044,+995322041044,https://www.aim.ge/,,bia.ge,website_live; has_landline
+B,4,თი ემ ეს ქონსტრაქშენი,+995595172122,+995595172122,http://tmsc.ge/ge,,bia.ge,website_live; has_mobile
+B,4,ისანი ბილდინგ,+995322705959,+995322705959,http://www.isanibuilding.ge/,,bia.ge,website_live; has_landline
+B,4,იქსორი,+995511202220,+995511202220,http://www.x2.ge/,,bia.ge,website_live; has_mobile
+B,4,რენოვარე,+995599881106,+995599881106,http://www.renovare.ge/,,bia.ge,website_live; has_mobile
+B,4,ჯითისი ქონსთრაქშენ,+995322212161(122),+995322212161,https://www.gtcgroup.ge/,,bia.ge,website_live; has_landline
+B,4,ჯსპ,+995599176831,+995599176831,http://www.gspltd.ge/,,bia.ge,website_live; has_mobile
+B,4,ალფა საბურთალო,+995514107070,+995514107070,https://alphahome.ge/,,bia.ge,website_live; has_mobile
+B,4,ბოტანიკალ გარდენს რეზიდენს,+995577564040,+995577564040,https://www.ruebushgroup.com/,,bia.ge,website_live; has_mobile
+B,4,გმ–გრუპი GM–group,+995599220004,+995599220004,http://www.gm-group.ge/,,bia.ge,website_live; has_mobile
+B,4,თალასა ჯგუფი,+995558944700,+995558944700,https://thalassagroup.ge/,,bia.ge,website_live; has_mobile
+B,4,ლიდერ გრუპი,+995579994444,+995579994444,http://www.leadergroup.ge/,,bia.ge,website_live; has_mobile
+B,4,მწვანე ფერი,+995597615858,+995597615858,https://www.greencolor.ge/,,bia.ge,website_live; has_mobile
+B,4,საბა კონსტრაქშენ,+995322103010,+995322103010,https://scn.ge/,,bia.ge,website_live; has_landline
+B,4,ალიანსი ქობულეთი,+995322500000,+995322500000,https://alliance.ge/,,bia.ge,website_live; has_landline
+B,4,ერთობლივი საწარმოს ტოდინი–ტაკენაკას ფილიალი საქართველოში,+995591115001,+995591115001,http://www.todini.it/,,bia.ge,website_live; has_mobile
+B,4,სამშენებლო კომპანია ალფა დეველოპმენტი,+995558543543,+995558543543,https://alfad.ge/,,bia.ge,website_live; has_mobile
+B,4,ტერასა ბათუმი,+995595268688,+995595268688,https://terrassagroup.ge/ka/catalogue/project/terrassa-batumi/,,bia.ge,website_live; has_mobile
+B,4,ტერასა წერეთელზე,+995574251251,+995574251251,http://www.terasa.ge/,,bia.ge,website_live; has_mobile
+B,4,ADOG-GEORGIA,+995599096181,+995599096181,http://www.ado-g.com/,,bia.ge,website_live; has_mobile
+B,4,გრავიტა,+995322357272,+995322357272,https://www.gravita.ge/,,bia.ge,website_live; has_landline
+B,4,ეიკონ დეველოპმენტი,+995596618080,+995596618080,https://www.eikon.ge/,,bia.ge,website_live; has_mobile
+B,4,ენაიდი,+995322022080,+995322022080,http://www.greenbuild.ge/,,bia.ge,website_live; has_landline
+B,4,იმპელ დეველოპმენტ,+995322111103,+995322111103,https://impel.ge/,,bia.ge,website_live; has_landline
+B,4,ლისი თაუერსი,+995522222020,+995522222020,https://triogroup.ge/,,bia.ge,website_live; has_mobile
+B,4,ოქროყანა რეზიდენს,+995595599922,+995595599922,https://ok-residence.ge/,,bia.ge,website_live; has_mobile
+B,4,ელთ ბილდინგი,+995577242516,+995577242516,http://www.eltbuilding.ge/,,bia.ge,website_live; has_mobile
+B,4,მერქანი,+995555094490,+995555094490,http://www.merqani.ge/,,bia.ge,website_live; has_mobile
+B,4,მეტრო ქონსტრაქშენ,+995577150403,+995577150403,http://www.metroavrasya.ge/,,bia.ge,website_live; has_mobile
+B,4,არტტექსი,+995322060911,+995322060911,http://www.arttex.ge/,,bia.ge,website_live; has_landline
+B,4,კოლოსი დიღომი,+995595777111,+995595777111,https://coloss.ge/,,bia.ge,website_live; has_mobile
+B,4,რეალთი ავლაბარი,+995322912783,+995322912783,http://www.realtyavlabari.ge/,,bia.ge,website_live; has_landline
+B,4,ჯი–ბი–ჯი,+995599525000,+995599525000,http://www.mygbg.ge/,,bia.ge,website_live; has_mobile
+B,4,მეტრო ატლას ჯორჯია,+995577141714,+995577141714,http://www.metrocity.ge/,,bia.ge,website_live; has_mobile
+B,4,ოქტა ქონსთრაქშენ,+995322132288,+995322132288,https://octa.ge/,,bia.ge,website_live; has_landline
+B,4,ქეფითალ სისტემს,+995591912912,+995591912912,http://www.capitalsystems.ge/,,bia.ge,website_live; has_mobile
+B,4,ალფა რეზიდენსი,+995322451717,+995322451717,https://www.alphahome.ge/,,bia.ge,website_live; has_landline
+B,4,ბემონი ინჟინერია და მშენებლობა,+995322193070,+995322193070,https://www.bemoni.com/,,bia.ge,website_live; has_landline
+B,4,იორკ ჰოლდინგ გრუპი,+995555051111,+995555051111,https://yorktowers.com/,,bia.ge,website_live; has_mobile
+B,4,მს ბილდერი,+995322022299,+995322022299,http://www.ms.ge/,,bia.ge,website_live; has_landline
+B,4,დევკო,+995322197797,+995322197797,http://www.devco.ge/,,bia.ge,website_live; has_landline
+B,4,ვიზ,+995322110908,+995322110908,http://www.didubegarden.ge/,,bia.ge,website_live; has_landline
+B,4,ინნ დეველოპმენტი გლდანი,+995598440099,+995598440099,https://www.inndevelopment.ge/,,bia.ge,website_live; has_mobile
+B,4,ემკვადრატის პარკი 3,+995322444111,+995322444111,http://m2.ge/,,bia.ge,website_live; has_landline
+B,4,იდეალთი,+995597959595,+995597959595,https://www.idealti.ge/?fbclid=IwY2xjawKIDhVleHRuA2FlbQIxMABicmlkETFVMjYwaHJSRDV4eHprbHh1AR5-sv-QMUH04gFZL6_ej-gqoc8VIp5NCuES6R1xG99_2ZJQci5hj4WqZ6oMCg_aem_2lyGk12e5hjGDhDsyEcpvA,,bia.ge,website_live; has_mobile
+B,4,ფორის დეველოპმენტი,+995577009800,+995577009800,https://foris.ge/,,bia.ge,website_live; has_mobile
+B,4,მატიანი ბიოგრაფისგან,+995322500505,+995322500505,https://biograpi.ge/,,bia.ge,website_live; has_landline
+B,4,ჰაუსარტ ნუცუბიძე,+995597343480,+995597343480,http://www.hausart.ge/,,bia.ge,website_live; has_mobile
+B,4,ჰაუს დიღომი,+995322450000,+995322450000,https://www.tbilisihouse.ge/,,bia.ge,website_live; has_landline
+B,4,ანაგი თბილისი,+995322376200,+995322376200,http://www.anagi.ge/,,bia.ge,website_live; has_landline
+B,4,ელკონს,+995322954174,+995322954174,http://www.lcons.com.ge/,,bia.ge,website_live; has_landline
+B,4,ჯორჯიან ჰაუზი,+995595004221,+995595004221,http://www.ghouse.ge/,,bia.ge,website_live; has_mobile
+B,4,დეკოლაინი,204 20 20,+995322042020,,https://www.facebook.com/decoline.ge,yell.ge,has_facebook; 2_phones; has_mobile; has_landline
+B,4,დეკოლაინი,(514) 20 20 20,+995514202020,,https://www.facebook.com/decoline.ge,yell.ge,has_facebook; 2_phones; has_mobile; has_landline
+B,4,ოსტატი,(571) 80 80 80,+995571808080,,https://www.facebook.com/ostatiashenebs,yell.ge,has_facebook; 2_phones; has_mobile; has_landline
+B,4,ოსტატი,206 00 60,+995322060060,,https://www.facebook.com/ostatiashenebs,yell.ge,has_facebook; 2_phones; has_mobile; has_landline
+B,4,ბი. აი. ჯი.,+995558522255,+995558522255,,https://www.facebook.com/big.buildings,bia.ge,has_facebook; fb_posted_2yrs; fb_2930_likes; has_mobile
+B,4,ენ სი დი ვაშლიჯვარი,+995322052405,+995322052405,,https://www.facebook.com/ncd.newcitydevelopment,bia.ge,has_facebook; 2_phones; has_mobile; has_landline
+B,4,ენ სი დი ვაშლიჯვარი,+995544440303,+995544440303,,https://www.facebook.com/ncd.newcitydevelopment,bia.ge,has_facebook; 2_phones; has_mobile; has_landline
+B,4,პრაიმ ინვესტ ჯგუფი,+995555202060,+995555202060,,https://www.facebook.com/Prime-Invest-Group-106385874231181/,bia.ge,has_facebook; fb_posted_2yrs; fb_1673_likes; has_mobile
+B,4,ბოსტონ დეველოპმენტ,+995322054555,+995322054555,,https://www.facebook.com/HotelTbilisiWaterfall/,bia.ge,has_facebook; fb_posted_2yrs; fb_6321_likes; has_landline
+B,4,გეო ბილდერსი,+995577020099,+995577020099,,https://www.facebook.com/Geobuilders,bia.ge,has_facebook; fb_posted_2yrs; fb_6430_likes; has_mobile
+B,4,ტეტრისი,+995596502502,+995596502502,,https://www.facebook.com/tetrisgeorgia,bia.ge,has_facebook; fb_posted_2yrs; fb_13619_likes; has_mobile
+B,4,მონდე,+995322043304,+995322043304,,https://www.facebook.com/mondedeveloperscompany,bia.ge,has_facebook; 2_phones; has_mobile; has_landline
+B,4,მონდე,+995599007200,+995599007200,,https://www.facebook.com/mondedeveloperscompany,bia.ge,has_facebook; 2_phones; has_mobile; has_landline
+B,4,რემმშენი,(571) 28 05 55,+995571280555,,,yell.ge,multi_source; 2_phones; has_mobile
+B,4,რემმშენი,+995593927622,+995593927622,,,bia.ge,multi_source; 2_phones; has_mobile
+B,4,მუხერი,(595) 182 182,+995595182182,,,yell.ge,multi_source; 2_phones; has_mobile
+B,4,მუხერი,+995571002211,+995571002211,,,bia.ge,multi_source; 2_phones; has_mobile
+B,4,არტმშენი,(599) 25 35 99,+995599253599,,,yell.ge,multi_source; 2_phones; has_mobile
+B,4,არტმშენი,+995551553233,+995551553233,,,bia.ge,multi_source; 2_phones; has_mobile
+B,4,მეგალითი,(599) 20 30 60,+995599203060,,,yell.ge,multi_source; 2_phones; has_mobile
+B,4,მეგალითი,+995577299197,+995577299197,,,bia.ge,multi_source; 2_phones; has_mobile
+B,4,ნიკა,(595) 28 80 80,+995595288080,,,yell.ge,multi_source; 2_phones; has_mobile
+B,4,ნიკა,+995591717832,+995591717832,,,bia.ge,multi_source; 2_phones; has_mobile
+B,3,გლობალ სტანდარტმშენი,290 34 56,+995322903456,http://www.grass.com.ge,,yell.ge,website_dead; multi_source; 3_phones; has_mobile; has_landline
+B,3,გლობალ სტანდარტმშენი,(599) 41 44 40,+995599414440,http://www.grass.com.ge,,yell.ge,website_dead; multi_source; 3_phones; has_mobile; has_landline
+B,3,გლობალ სტანდარტმშენი,+995597414440,+995597414440,http://www.grass.com.ge,,bia.ge,website_dead; multi_source; 3_phones; has_mobile; has_landline
+B,3,გალე კაპიტალი,(597) 50 34 34,+995597503434,,https://www.facebook.com/galecomge,yell.ge,has_facebook; fb_dormant; multi_source; 2_phones; has_mobile
+B,3,გალე კაპიტალი,+995579501122,+995579501122,,https://www.facebook.com/galecomge,bia.ge,has_facebook; fb_dormant; multi_source; 2_phones; has_mobile
+B,3,ფონ ჯორჯია,(577) 68 78 57,+995577687857,,https://www.facebook.com/profile.php?id=100014014920070,yell.ge,has_facebook; 2_phones; has_mobile
+B,3,ფონ ჯორჯია,(577) 68 78 51,+995577687851,,https://www.facebook.com/profile.php?id=100014014920070,yell.ge,has_facebook; 2_phones; has_mobile
+B,3,სახლი დიღომში,(574) 13 46 61,+995574134661,,https://www.facebook.com/akhalidigomi,yell.ge,has_facebook; 2_phones; has_mobile
+B,3,სახლი დიღომში,(574) 13 46 63,+995574134663,,https://www.facebook.com/akhalidigomi,yell.ge,has_facebook; 2_phones; has_mobile
+B,3,გ.მ.ს. ჯგუფი,+995511141495,+995511141495,,https://www.facebook.com/Gmsgroupofficial/,bia.ge,has_facebook; 2_phones; has_mobile
+B,3,გ.მ.ს. ჯგუფი,+995551141497,+995551141497,,https://www.facebook.com/Gmsgroupofficial/,bia.ge,has_facebook; 2_phones; has_mobile
+B,3,დეველოპმენტ ჯორჯია,+995577161443,+995577161443,,https://www.facebook.com/profile.php?id=100009566044371,bia.ge,has_facebook; 2_phones; has_mobile
+B,3,დეველოპმენტ ჯორჯია,+995577161415,+995577161415,,https://www.facebook.com/profile.php?id=100009566044371,bia.ge,has_facebook; 2_phones; has_mobile
+B,3,ინვესტ დეველოპმენტი,+995568242607,+995568242607,,https://www.facebook.com/ltdnds,bia.ge,has_facebook; 2_phones; has_mobile
+B,3,ინვესტ დეველოპმენტი,+995571000347,+995571000347,,https://www.facebook.com/ltdnds,bia.ge,has_facebook; 2_phones; has_mobile
+B,3,რიკონი +,+995511144000,+995511144000,,https://www.facebook.com/reconplus,bia.ge,has_facebook; 2_phones; has_mobile
+B,3,რიკონი +,+995599541513,+995599541513,,https://www.facebook.com/reconplus,bia.ge,has_facebook; 2_phones; has_mobile
+B,3,ჯეო-ლაინი,+995597600602,+995597600602,,https://www.facebook.com/GeoLineFurniture,bia.ge,has_facebook; 2_phones; has_mobile
+B,3,ჯეო-ლაინი,+995555290390,+995555290390,,https://www.facebook.com/GeoLineFurniture,bia.ge,has_facebook; 2_phones; has_mobile
+B,3,თბილისი ჰაუსი,+995551141111,+995551141111,,https://www.facebook.com/%E1%83%A1%E1%83%90%E1%83%9B%E1%83%A8%E1%83%94%E1%83%9C%E1%83%94%E1%83%91%E1%83%9A%E1%83%9D-%E1%83%99%E1%83%9D%E1%83%9B%E1%83%9E%E1%83%90%E1%83%9C%E1%83%98%E1%83%90-%E1%83%97%E1%83%91%E1%83%98%E1%83%9A%E1%83%98%E1%83%A1%E1%83%98-%E1%83%B0%E1%83%90%E1%83%A3%E1%83%A1%E1%83%98-Construction-Company-Tbilisi-House-103110044459847/,bia.ge,has_facebook; 2_phones; has_mobile
+B,3,თბილისი ჰაუსი,+995551062222,+995551062222,,https://www.facebook.com/%E1%83%A1%E1%83%90%E1%83%9B%E1%83%A8%E1%83%94%E1%83%9C%E1%83%94%E1%83%91%E1%83%9A%E1%83%9D-%E1%83%99%E1%83%9D%E1%83%9B%E1%83%9E%E1%83%90%E1%83%9C%E1%83%98%E1%83%90-%E1%83%97%E1%83%91%E1%83%98%E1%83%9A%E1%83%98%E1%83%A1%E1%83%98-%E1%83%B0%E1%83%90%E1%83%A3%E1%83%A1%E1%83%98-Construction-Company-Tbilisi-House-103110044459847/,bia.ge,has_facebook; 2_phones; has_mobile
+B,3,ლ.დ. დეველოპმენტი,+995593336439,+995593336439,,https://www.facebook.com/ld.development.96,bia.ge,has_facebook; 2_phones; has_mobile
+B,3,ლ.დ. დეველოპმენტი,+995577405203,+995577405203,,https://www.facebook.com/ld.development.96,bia.ge,has_facebook; 2_phones; has_mobile
+B,3,Prospero Georgia,+995574424488,+995574424488,,https://www.facebook.com/prospero.geo,bia.ge,has_facebook; 2_phones; has_mobile
+B,3,Prospero Georgia,+995596434488,+995596434488,,https://www.facebook.com/prospero.geo,bia.ge,has_facebook; 2_phones; has_mobile
+B,3,არგო ჯგუფი XXI,+995593651391,+995593651391,,https://www.facebook.com/Argo-Group-XXI-არგო-ჯგუფი-XXI-398032460781559/,bia.ge,has_facebook; 2_phones; has_mobile
+B,3,არგო ჯგუფი XXI,+995557277070,+995557277070,,https://www.facebook.com/Argo-Group-XXI-არგო-ჯგუფი-XXI-398032460781559/,bia.ge,has_facebook; 2_phones; has_mobile
+B,3,გრავითი გრუფი,+995595223300,+995595223300,,https://www.facebook.com/Gravity-Group-%E1%83%92%E1%83%A0%E1%83%90%E1%83%95%E1%83%98%E1%83%97%E1%83%98-%E1%83%92%E1%83%A0%E1%83%A3%E1%83%9E%E1%83%98-100513732572653,bia.ge,has_facebook; 2_phones; has_mobile
+B,3,გრავითი გრუფი,+995595902244,+995595902244,,https://www.facebook.com/Gravity-Group-%E1%83%92%E1%83%A0%E1%83%90%E1%83%95%E1%83%98%E1%83%97%E1%83%98-%E1%83%92%E1%83%A0%E1%83%A3%E1%83%9E%E1%83%98-100513732572653,bia.ge,has_facebook; 2_phones; has_mobile
+B,3,მერიკა,+995571237711,+995571237711,,https://www.facebook.com/merika2020/,bia.ge,has_facebook; fb_posted_2yrs; has_mobile
+B,3,დიღომი 2000,275 60 90,+995322756090,,,yell.ge,2_phones; has_mobile; has_landline
+B,3,დიღომი 2000,(599) 56 08 41,+995599560841,,,yell.ge,2_phones; has_mobile; has_landline
+B,3,სასკო,237 51 90,+995322375190,,,yell.ge,3_phones; has_mobile; has_landline
+B,3,სასკო,237 99 99,+995322379999,,,yell.ge,3_phones; has_mobile; has_landline
+B,3,სასკო,(599) 65 45 50,+995599654550,,,yell.ge,3_phones; has_mobile; has_landline
+B,3,არქი დეეს,236 30 11,+995322363011,,,yell.ge,2_phones; has_mobile; has_landline
+B,3,არქი დეეს,(595) 95 55 95,+995595955595,,,yell.ge,2_phones; has_mobile; has_landline
+B,3,სატურნი,(574) 98 01 27,+995574980127,,,yell.ge,2_phones; has_mobile; has_landline
+B,3,სატურნი,239 57 00,+995322395700,,,yell.ge,2_phones; has_mobile; has_landline
+B,3,მარიალი,239 81 10,+995322398110,,,yell.ge,2_phones; has_mobile; has_landline
+B,3,მარიალი,(599) 55 45 09,+995599554509,,,yell.ge,2_phones; has_mobile; has_landline
+B,3,ვექტორი,+995322247819,+995322247819,,,bia.ge,2_phones; has_mobile; has_landline
+B,3,ვექტორი,+995599792799,+995599792799,,,bia.ge,2_phones; has_mobile; has_landline
+B,3,იქს ვაი ზეტ.ჯი,+995555245524,+995555245524,,,bia.ge,2_phones; has_mobile; has_landline
+B,3,იქს ვაი ზეტ.ჯი,+995322373050,+995322373050,,,bia.ge,2_phones; has_mobile; has_landline
+B,3,გრანიტი,+995322352173,+995322352173,,,bia.ge,2_phones; has_mobile; has_landline
+B,3,გრანიტი,+995577403041,+995577403041,,,bia.ge,2_phones; has_mobile; has_landline
+B,3,ლისი პანორამა,+995555444547,+995555444547,,,bia.ge,2_phones; has_mobile; has_landline
+B,3,ლისი პანორამა,+995322129999,+995322129999,,,bia.ge,2_phones; has_mobile; has_landline
+B,3,სამეცნიერო–საწარმოო კომპანია სოვბი,+995322999614,+995322999614,,,bia.ge,2_phones; has_mobile; has_landline
+B,3,სამეცნიერო–საწარმოო კომპანია სოვბი,+995551717404,+995551717404,,,bia.ge,2_phones; has_mobile; has_landline
+B,3,ქლოქს,+995544448855,+995544448855,,,bia.ge,2_phones; has_mobile; has_landline
+B,3,ქლოქს,+995322558800,+995322558800,,,bia.ge,2_phones; has_mobile; has_landline
+B,3,"შეზღუდული პასუხისმგებლობის საზოგადოება ქარადენიზ პრეფაბრიქ მაქინე, ელექთრიკ, ინშაათ ვე თურიზმ სანაი ვე თიჯარეთის წარმომადგენლობა საქართველოში",+995593516161,+995593516161,,,bia.ge,2_phones; has_mobile; has_landline
+B,3,"შეზღუდული პასუხისმგებლობის საზოგადოება ქარადენიზ პრეფაბრიქ მაქინე, ელექთრიკ, ინშაათ ვე თურიზმ სანაი ვე თიჯარეთის წარმომადგენლობა საქართველოში",+995322915182,+995322915182,,,bia.ge,2_phones; has_mobile; has_landline
+B,3,გივი გაგნიძე,+995322515313,+995322515313,,,bia.ge,2_phones; has_mobile; has_landline
+B,3,გივი გაგნიძე,+995579219080,+995579219080,,,bia.ge,2_phones; has_mobile; has_landline
+B,3,GIMG,+995422226070,+995422226070,,,bia.ge,2_phones; has_mobile; has_landline
+B,3,GIMG,+995577525520,+995577525520,,,bia.ge,2_phones; has_mobile; has_landline
+B,3,აგორა,+995577925599,+995577925599,,,bia.ge,3_phones; has_mobile; has_landline
+B,3,აგორა,+995322259091,+995322259091,,,bia.ge,3_phones; has_mobile; has_landline
+B,3,აგორა,+995595036565,+995595036565,,,bia.ge,3_phones; has_mobile; has_landline
+B,3,ბილდინგ გრუპი,+995592000788,+995592000788,,,bia.ge,3_phones; has_mobile; has_landline
+B,3,ბილდინგ გრუპი,+995322347957,+995322347957,,,bia.ge,3_phones; has_mobile; has_landline
+B,3,ბილდინგ გრუპი,+995551934250,+995551934250,,,bia.ge,3_phones; has_mobile; has_landline
+B,3,ბადენი,+995322708264,+995322708264,,,bia.ge,2_phones; has_mobile; has_landline
+B,3,ბადენი,+995595331717,+995595331717,,,bia.ge,2_phones; has_mobile; has_landline
+B,3,თექა,+995557564999,+995557564999,,,bia.ge,2_phones; has_mobile; has_landline
+B,3,თექა,+995322780009,+995322780009,,,bia.ge,2_phones; has_mobile; has_landline
+B,3,კრისტალი,+995322651964,+995322651964,,,bia.ge,2_phones; has_mobile; has_landline
+B,3,კრისტალი,+995593612669,+995593612669,,,bia.ge,2_phones; has_mobile; has_landline
+B,3,ნოვა,+995577710888,+995577710888,,,bia.ge,2_phones; has_mobile; has_landline
+B,3,ნოვა,+995322181213,+995322181213,,,bia.ge,2_phones; has_mobile; has_landline
+B,3,ალ ჰამრა ქონსთრაქშენ კო–ს წარმომადგენლობა (ფილიალი) საქართველოში,+995322295449,+995322295449,,,bia.ge,2_phones; has_mobile; has_landline
+B,3,ალ ჰამრა ქონსთრაქშენ კო–ს წარმომადგენლობა (ფილიალი) საქართველოში,+995599209999,+995599209999,,,bia.ge,2_phones; has_mobile; has_landline
+B,3,მონტაჟმშენი,+995322958815,+995322958815,,,bia.ge,3_phones; has_mobile; has_landline
+B,3,მონტაჟმშენი,+995595508484,+995595508484,,,bia.ge,3_phones; has_mobile; has_landline
+B,3,მონტაჟმშენი,+995591192242,+995591192242,,,bia.ge,3_phones; has_mobile; has_landline
+B,3,აღმაშენებელი 96,+995322716603,+995322716603,,,bia.ge,3_phones; has_mobile; has_landline
+B,3,აღმაშენებელი 96,+995599253160,+995599253160,,,bia.ge,3_phones; has_mobile; has_landline
+B,3,აღმაშენებელი 96,+995599202875,+995599202875,,,bia.ge,3_phones; has_mobile; has_landline
+B,3,ბიზნესცენტრი აგრომონტაჟი,+995322397644,+995322397644,,,bia.ge,2_phones; has_mobile; has_landline
+B,3,ბიზნესცენტრი აგრომონტაჟი,+995593620014,+995593620014,,,bia.ge,2_phones; has_mobile; has_landline
+B,3,თ.ვ.გ. და კომპანია,+995599229675,+995599229675,,,bia.ge,2_phones; has_mobile; has_landline
+B,3,თ.ვ.გ. და კომპანია,+995431213711,+995431213711,,,bia.ge,2_phones; has_mobile; has_landline
+B,3,საპროექტო–სამშენებლო კომპანია სფინქსი,+995322964923,+995322964923,,,bia.ge,2_phones; has_mobile; has_landline
+B,3,საპროექტო–სამშენებლო კომპანია სფინქსი,+995593345194,+995593345194,,,bia.ge,2_phones; has_mobile; has_landline
+B,3,აღმშენებლობა,+995593338892,+995593338892,,,bia.ge,3_phones; has_mobile; has_landline
+B,3,აღმშენებლობა,+995322366986,+995322366986,,,bia.ge,3_phones; has_mobile; has_landline
+B,3,აღმშენებლობა,+995322366985,+995322366985,,,bia.ge,3_phones; has_mobile; has_landline
+B,3,თბილი სახლი–2009,+995322765394,+995322765394,,,bia.ge,2_phones; has_mobile; has_landline
+B,3,თბილი სახლი–2009,+995593200533,+995593200533,,,bia.ge,2_phones; has_mobile; has_landline
+B,3,სამშენებლო კომპანია თბილისი,+995322382685,+995322382685,,,bia.ge,3_phones; has_mobile; has_landline
+B,3,სამშენებლო კომპანია თბილისი,+995322382113,+995322382113,,,bia.ge,3_phones; has_mobile; has_landline
+B,3,სამშენებლო კომპანია თბილისი,+995599555245,+995599555245,,,bia.ge,3_phones; has_mobile; has_landline
+B,3,სუპერ-V,+995322383348,+995322383348,,,bia.ge,2_phones; has_mobile; has_landline
+B,3,სუპერ-V,+995577983311,+995577983311,,,bia.ge,2_phones; has_mobile; has_landline
+B,3,გონი,+995322568416,+995322568416,,,bia.ge,3_phones; has_mobile; has_landline
+B,3,გონი,+995322753545,+995322753545,,,bia.ge,3_phones; has_mobile; has_landline
+B,3,გონი,+995593385083,+995593385083,,,bia.ge,3_phones; has_mobile; has_landline
+B,3,ლგ კონსტრაქშენ,+995322384939,+995322384939,,,bia.ge,2_phones; has_mobile; has_landline
+B,3,ლგ კონსტრაქშენ,+995599927901,+995599927901,,,bia.ge,2_phones; has_mobile; has_landline
+B,2,ექსპრესსერვისი 2008,239 44 09,+995322394409,http://www.es2008.ge,https://www.facebook.com/Express-Service-2008-100549898025587/,yell.ge,website_dead; has_facebook; fb_dormant; multi_source; 3_phones; has_mobile; has_landline
+B,2,ექსპრესსერვისი 2008,(595) 45 28 28,+995595452828,http://www.es2008.ge,https://www.facebook.com/Express-Service-2008-100549898025587/,yell.ge,website_dead; has_facebook; fb_dormant; multi_source; 3_phones; has_mobile; has_landline
+B,2,ექსპრესსერვისი 2008,+995568989888,+995568989888,http://www.es2008.ge,https://www.facebook.com/Express-Service-2008-100549898025587/,bia.ge,website_dead; has_facebook; fb_dormant; multi_source; 3_phones; has_mobile; has_landline
+B,2,ემ ბი ჯი ჯგუფი,(593) 11 13 23,+995593111323,,http://www.facebook.com/spsmbg.mbgltd,yell.ge,has_facebook; has_mobile
+B,2,გონიო,(591) 98 10 30,+995591981030,,https://www.facebook.com/LiveinGonio,yell.ge,has_facebook; has_mobile
+B,2,სამშენებლო კომპანია სმარტ სოლუშენს,032 230 51 00,+995322305100,,https://www.facebook.com/SmartSolutions2021SS,yell.ge,has_facebook; has_landline
+B,2,ალტერო +,(598) 10 15 43,+995598101543,,https://www.facebook.com/alteroplus.alteroplus,yell.ge,has_facebook; has_mobile
+B,2,შპს ლნ – არქიტექტურა და მშენებლობის ტექნიკური ზედამხედველობა,(599) 37 54 60,+995599375460,,https://www.facebook.com/mseneblobis.teqzedamxedveloba,yell.ge,has_facebook; has_mobile
+B,2,ვინჩი დეველოპმენტი,(551) 66 11 77,+995551661177,,https://www.facebook.com/Vinci,yell.ge,has_facebook; has_mobile
+B,2,კახი ჯგუფი,235 74 48,+995322357448,,https://www.facebook.com/Kakhigroup-1484359358482971/,yell.ge,has_facebook; fb_dormant; 2_phones; has_mobile; has_landline
+B,2,კახი ჯგუფი,(599) 54 26 62,+995599542662,,https://www.facebook.com/Kakhigroup-1484359358482971/,yell.ge,has_facebook; fb_dormant; 2_phones; has_mobile; has_landline
+B,2,გეო თაუერი,(551) 10 33 02,+995551103302,,https://www.facebook.com/infogeotower,yell.ge,has_facebook; has_mobile
+B,2,ეკრანი,(555) 52 20 22,+995555522022,,https://www.facebook.com/buildingekrani,yell.ge,has_facebook; has_mobile
+B,2,ტექტონი,(599) 57 02 43,+995599570243,,https://www.facebook.com/Tekton-LLC-%E1%83%A2%E1%83%94%E1%83%A5%E1%83%A2%E1%83%9D%E1%83%9C%E1%83%98-107923764321532/,yell.ge,has_facebook; has_mobile
+B,2,ჯი თი კომპანი - ველოქს საქართველო,(599) 30 20 12,+995599302012,,https://www.facebook.com/VeloxGeorgia,yell.ge,has_facebook; has_mobile
+B,2,საბა+,(551) 29 50 00,+995551295000,,https://ka-ge.facebook.com/SABA-170792502966936/,yell.ge,has_facebook; has_mobile
+B,2,ამერი დეველოპმენტი,243 53 53,+995322435353,,http://www.facebook.com/644072032309419,yell.ge,has_facebook; fb_dormant; 2_phones; has_mobile; has_landline
+B,2,ამერი დეველოპმენტი,(555) 95 00 00,+995555950000,,http://www.facebook.com/644072032309419,yell.ge,has_facebook; fb_dormant; 2_phones; has_mobile; has_landline
+B,2,ფაქტორ გრუპ,(577) 53 52 88,+995577535288,,https://www.facebook.com/eduardi.glonti,yell.ge,has_facebook; has_mobile
+B,2,ნიუ ბილდინგ ბიზნესი,(599) 53 87 84,+995599538784,,https://www.facebook.com/newbuildingcompany,yell.ge,has_facebook; has_mobile
+B,2,PMG,+995599743860,+995599743860,,https://www.facebook.com/saremonto.samontajo.kompania,bia.ge,has_facebook; has_mobile
+B,2,ბაუსტარი მმ,+995568709070,+995568709070,,https://www.facebook.com/baustarBS,bia.ge,has_facebook; has_mobile
+B,2,თეიმურაზ ბიბილურიძე,+995599415858,+995599415858,,https://www.facebook.com/groups/550966242420857,bia.ge,has_facebook; has_mobile
+B,2,კ სამი,+995596605500,+995596605500,,https://www.facebook.com/K3-%E1%83%A1%E1%83%90%E1%83%9B%E1%83%A8%E1%83%94%E1%83%9C%E1%83%94%E1%83%91%E1%83%9A%E1%83%9D-%E1%83%99%E1%83%9D%E1%83%9B%E1%83%9E%E1%83%90%E1%83%9C%E1%83%98%E1%83%90-105267417899247/,bia.ge,has_facebook; has_mobile
+B,2,კოდი,+995599144030,+995599144030,,https://www.facebook.com/codedevelopment.ge,bia.ge,has_facebook; has_mobile
+B,2,სი ემ დი ფორტექსი,+995577412142,+995577412142,,https://www.facebook.com/Cmd.Fortex,bia.ge,has_facebook; has_mobile
+B,2,I.M.J. Group,+995593321111,+995593321111,,https://www.facebook.com/imjeurostyle,bia.ge,has_facebook; has_mobile
+B,2,ბრაუნი,+995596501000,+995596501000,,https://www.facebook.com/BrownCompanyBuild,bia.ge,has_facebook; has_mobile
+B,2,გემა,+995598222222,+995598222222,,https://www.facebook.com/WWW.MEGOBROBA.GE,bia.ge,has_facebook; has_mobile
+B,2,ვუდ–გარდენი,+995551554222,+995551554222,,https://www.facebook.com/Wood-Garden-Furniture-%E1%83%94%E1%83%96%E1%83%9D%E1%83%A1-%E1%83%AE%E1%83%98%E1%83%A1-%E1%83%90%E1%83%95%E1%83%94%E1%83%AF%E1%83%98-1506517196243422/?fref=ts,bia.ge,has_facebook; has_mobile
+B,2,პრემიუმ ჰაუსი,+995557300040,+995557300040,,https://www.facebook.com/premium.house12,bia.ge,has_facebook; has_mobile
+B,2,რემონტი2,+995591965056,+995591965056,,https://www.facebook.com/remonti2construction/,bia.ge,has_facebook; has_mobile
+B,2,ჯი ჯი პოინტი,+995599534447,+995599534447,,https://www.facebook.com/GGPOINT,bia.ge,has_facebook; has_mobile
+B,2,არ სი ქონსთრაქშენ,+995599060807,+995599060807,,https://www.facebook.com/Road-Construction-LLC-1507779785912210,bia.ge,has_facebook; has_mobile
+B,2,ახალი ვარსკვლავი 2015,+995592532653,+995592532653,,https://www.facebook.com/newstar2015georgia/?locale=ka_GE,bia.ge,has_facebook; has_mobile
+B,2,გრინ ლაიფ ქონსთრაქშენ,+995597760100,+995597760100,,https://www.facebook.com/GreenLifeConstructionge,bia.ge,has_facebook; has_mobile
+B,2,იდეა მელიქიშვილი,+995599880909,+995599880909,,https://www.facebook.com/ideamelikishvili/?fref=ts,bia.ge,has_facebook; has_mobile
+B,2,კვგ ჯგუფი,+995597255060,+995597255060,,https://www.facebook.com/KVG-GROUP-950402188342975/,bia.ge,has_facebook; has_mobile
+B,2,ლეველი +,+995577622522,+995577622522,,https://www.facebook.com/buildingcompanylevel,bia.ge,has_facebook; has_mobile
+B,2,მაი მასტერ,+995514303090,+995514303090,,https://www.facebook.com/profile.php?id=61552169993431,bia.ge,has_facebook; has_mobile
+B,2,პარტნიორი კაპიტალ,+995591018080,+995591018080,,https://www.facebook.com/TbiliSkyResidence,bia.ge,has_facebook; has_mobile
+B,2,რ-ჯგუფი,+995551374616,+995551374616,,https://www.facebook.com/profile.php?id=100063768082358,bia.ge,has_facebook; has_mobile
+B,2,ტაჰა 14,+995591222530,+995591222530,,https://www.facebook.com/taha14.ge,bia.ge,has_facebook; has_mobile
+B,2,ჯი ემ ბილდ,+995595504402,+995595504402,,https://www.facebook.com/gmgroupbatumi,bia.ge,has_facebook; has_mobile
+B,2,ალ შედდადი,+995551666892,+995551666892,,https://www.facebook.com/Al-shaddadi-%E1%83%90%E1%83%9A-%E1%83%A8%E1%83%94%E1%83%93%E1%83%93%E1%83%90%E1%83%93%E1%83%98-113183093448258/,bia.ge,has_facebook; has_mobile
+B,2,ასტორია გრუპი,+995599877711,+995599877711,,https://www.facebook.com/groupastoria,bia.ge,has_facebook; has_mobile
+B,2,იდეალ ჰაუსი,+995577468846,+995577468846,,https://www.facebook.com/idealhousekobuleti/?ref=page_internal,bia.ge,has_facebook; has_mobile
+B,2,კაია ქონსთრაქშენი,+995598408233,+995598408233,,https://www.facebook.com/KAYACONSTR/?ref=page_internal,bia.ge,has_facebook; has_mobile
+B,2,იბერია სტარ გრუპი,+995551006060,+995551006060,,https://www.facebook.com/Iberia-Star-%E1%83%98%E1%83%91%E1%83%94%E1%83%A0%E1%83%98%E1%83%98%E1%83%A1-%E1%83%95%E1%83%90%E1%83%A0%E1%83%A1%E1%83%99%E1%83%95%E1%83%9A%E1%83%90%E1%83%95%E1%83%98-119765361984050/?ref=br_rs,bia.ge,has_facebook; has_mobile
+B,2,ლგე ბილდინგ,+995591716406,+995591716406,,https://www.facebook.com/lge.building,bia.ge,has_facebook; has_mobile
+B,2,მაქს ჰოლდინგი,+995597622226,+995597622226,,https://www.facebook.com/Maxholding.ge,bia.ge,has_facebook; has_mobile
+B,2,მწვანე სახლი ვაზისუბანი,+995571001144,+995571001144,,https://www.facebook.com/developmentgreenhouse?mibextid=ZbWKwL,bia.ge,has_facebook; has_mobile
+B,2,ნიუ ლენდ,+995592900000,+995592900000,,https://www.facebook.com/New-Land-rustavi-105481665438107/?ref=page_internal,bia.ge,has_facebook; has_mobile
+B,2,შალვა მერებაშვილი,+995568828787,+995568828787,,https://www.facebook.com/p/Premium-wood-house-100083165899307/?locale=ca_ES,bia.ge,has_facebook; has_mobile
+B,2,Art Avenue,+995577500149,+995577500149,,https://www.facebook.com/ArtAvenueadvertising,bia.ge,has_facebook; has_mobile
+B,2,დი ბი ეს ჯგუფი,+995595205325,+995595205325,,https://www.facebook.com/dbstelavi/,bia.ge,has_facebook; has_mobile
+B,2,ოპიზერს,+995597499931,+995597499931,,https://www.facebook.com/opizerss,bia.ge,has_facebook; has_mobile
+B,2,აისიეი ჯგუფი,+995571013333,+995571013333,,https://www.facebook.com/ICA-GROUP-%E1%83%90%E1%83%98%E1%83%A1%E1%83%98%E1%83%94%E1%83%98-%E1%83%AF%E1%83%92%E1%83%A3%E1%83%A4%E1%83%98-1870985686289422,bia.ge,has_facebook; has_mobile
+B,2,ბაუ სტარ–ვ,+995596040909,+995596040909,,https://www.facebook.com/baustarBS,bia.ge,has_facebook; has_mobile
+B,2,ნექსთ დორ,+995322054477,+995322054477,,https://www.facebook.com/NDAteni,bia.ge,has_facebook; has_landline
+B,2,ლივიო,+995551202222,+995551202222,,https://www.facebook.com/p/LIVIO-Development-%E1%83%9A%E1%83%98%E1%83%95%E1%83%98%E1%83%9D-%E1%83%93%E1%83%94%E1%83%95%E1%83%94%E1%83%9A%E1%83%9D%E1%83%9E%E1%83%9B%E1%83%94%E1%83%9C%E1%83%A2%E1%83%98-61570254195839/,bia.ge,has_facebook; has_mobile
+B,2,Capital lnvest,+995557761806,+995557761806,,https://www.facebook.com/pilkingtongeorgia,bia.ge,has_facebook; has_mobile
+B,2,ალია-ისრაელ-ჯორჯიან დეველოფმენთ გრუპ,+995551424204,+995551424204,,https://www.facebook.com/aliyagroupgeorgia/,bia.ge,has_facebook; fb_dormant; 2_phones; has_mobile; has_landline
+B,2,ალია-ისრაელ-ჯორჯიან დეველოფმენთ გრუპ,+995322044424,+995322044424,,https://www.facebook.com/aliyagroupgeorgia/,bia.ge,has_facebook; fb_dormant; 2_phones; has_mobile; has_landline
+B,2,პატრიოტი,+995557210505,+995557210505,,https://www.facebook.com/PatriotBuildingBatumi,bia.ge,has_facebook; has_mobile
+B,2,სკალა ფიტ-აუთ გრუპი,+995558774747,+995558774747,,https://www.facebook.com/Feelthecomfortt?locale=ka_GE,bia.ge,has_facebook; has_mobile
+B,2,ინნ დეველოპმენტი+,+995511174174,+995511174174,,https://www.facebook.com/Inndevelopment1/,bia.ge,has_facebook; has_mobile
+B,2,რენოვა ჯორჯია 2023,+995599960808,+995599960808,,https://www.facebook.com/renovageorgia,bia.ge,has_facebook; has_mobile
+B,2,ABEKA,+995599373223,+995599373223,,https://www.facebook.com/profile.php?id=100083002617623,bia.ge,has_facebook; has_mobile
+B,2,ქართული სამშენებლო ჯგუფი,(557) 78 88 88,+995557788888,,,yell.ge,2_phones; has_mobile
+B,2,ქართული სამშენებლო ჯგუფი,(595) 78 88 88,+995595788888,,,yell.ge,2_phones; has_mobile
+B,2,კერა+,(577) 23 50 50,+995577235050,,,yell.ge,3_phones; has_mobile
+B,2,კერა+,(599) 36 36 56,+995599363656,,,yell.ge,3_phones; has_mobile
+B,2,კერა+,(595) 23 50 50,+995595235050,,,yell.ge,3_phones; has_mobile
+B,2,კოლიზიუმი ჯგუფი,(597) 155 195,+995597155195,,,yell.ge,2_phones; has_mobile
+B,2,კოლიზიუმი ჯგუფი,(597) 400 400,+995597400400,,,yell.ge,2_phones; has_mobile
+B,2,ივერიამშენ პლუსი,238 55 70,+995322385570,,,yell.ge,3_phones; has_landline
+B,2,ივერიამშენ პლუსი,238 55 62,+995322385562,,,yell.ge,3_phones; has_landline
+B,2,ივერიამშენ პლუსი,238 55 03,+995322385503,,,yell.ge,3_phones; has_landline
+B,2,ჯორჯიან ენერჯი გრუპ,(591) 77 77 97,+995591777797,,,yell.ge,2_phones; has_mobile
+B,2,ჯორჯიან ენერჯი გრუპ,(591) 06 97 90,+995591069790,,,yell.ge,2_phones; has_mobile
+B,2,იმეკს,235 23 94,+995322352394,,,yell.ge,2_phones; has_landline
+B,2,იმეკს,235 23 90,+995322352390,,,yell.ge,2_phones; has_landline
+B,2,თისა,(574) 886 443,+995574886443,,,yell.ge,2_phones; has_mobile
+B,2,თისა,(591) 68 85 25,+995591688525,,,yell.ge,2_phones; has_mobile
+B,2,ემ პროექტი,(592) 15 30 30,+995592153030,,,yell.ge,2_phones; has_mobile
+B,2,ემ პროექტი,(591) 19 09 50,+995591190950,,,yell.ge,2_phones; has_mobile
+B,2,არქიტრავი,(599) 08 98 98,+995599089898,,,yell.ge,3_phones; has_mobile
+B,2,არქიტრავი,(595) 90 02 90,+995595900290,,,yell.ge,3_phones; has_mobile
+B,2,არქიტრავი,(593) 67 70 58,+995593677058,,,yell.ge,3_phones; has_mobile
+B,2,თი ემ ჯი გრუპი,(592) 22 27 10,+995592222710,,,yell.ge,2_phones; has_mobile
+B,2,თი ემ ჯი გრუპი,(597) 58 93 93,+995597589393,,,yell.ge,2_phones; has_mobile
+B,2,ბანი,+995599579097,+995599579097,,,bia.ge,2_phones; has_mobile
+B,2,ბანი,+995597870061,+995597870061,,,bia.ge,2_phones; has_mobile
+B,2,ევრობლოკი,+995599372332,+995599372332,,,bia.ge,2_phones; has_mobile
+B,2,ევრობლოკი,+995598153959,+995598153959,,,bia.ge,2_phones; has_mobile
+B,2,ენ სისტემს,+995551555500,+995551555500,,,bia.ge,2_phones; has_mobile
+B,2,ენ სისტემს,+995595778777,+995595778777,,,bia.ge,2_phones; has_mobile
+B,2,იმერეთმშენი–2000,+995597558244,+995597558244,,,bia.ge,2_phones; has_mobile
+B,2,იმერეთმშენი–2000,+995571201252,+995571201252,,,bia.ge,2_phones; has_mobile
+B,2,ლუკა,+995557968146,+995557968146,,,bia.ge,3_phones; has_mobile
+B,2,ლუკა,+995568700677,+995568700677,,,bia.ge,3_phones; has_mobile
+B,2,ლუკა,+995599970124,+995599970124,,,bia.ge,3_phones; has_mobile
+B,2,პალადა,+995322299029,+995322299029,,,bia.ge,2_phones; has_landline
+B,2,პალადა,+995322294072,+995322294072,,,bia.ge,2_phones; has_landline
+B,2,სპექტრი,+995593403022,+995593403022,,,bia.ge,2_phones; has_mobile
+B,2,სპექტრი,+995599229797,+995599229797,,,bia.ge,2_phones; has_mobile
+B,2,შე–ლი–1981,+995598256275,+995598256275,,,bia.ge,2_phones; has_mobile
+B,2,შე–ლი–1981,+995577066777,+995577066777,,,bia.ge,2_phones; has_mobile
+B,2,შპს T–K Tuzcuoglu Keskin Insaat–ის საქართველო–ბათუმის ფილიალი,+995593718580,+995593718580,,,bia.ge,2_phones; has_mobile
+B,2,შპს T–K Tuzcuoglu Keskin Insaat–ის საქართველო–ბათუმის ფილიალი,+995568835189,+995568835189,,,bia.ge,2_phones; has_mobile
+B,2,MJM group,+995557032903,+995557032903,,,bia.ge,2_phones; has_mobile
+B,2,MJM group,+995593949392,+995593949392,,,bia.ge,2_phones; has_mobile
+B,2,ბიგ ჯორჯია,+995595960960,+995595960960,,,bia.ge,2_phones; has_mobile
+B,2,ბიგ ჯორჯია,+995595224422,+995595224422,,,bia.ge,2_phones; has_mobile
+B,2,ბილდარტ დეველოპმენტი,+995551410543,+995551410543,,,bia.ge,2_phones; has_mobile
+B,2,ბილდარტ დეველოპმენტი,+995544444303,+995544444303,,,bia.ge,2_phones; has_mobile
+B,2,ბურჯი,+995322253486,+995322253486,,,bia.ge,2_phones; has_landline
+B,2,ბურჯი,+995322253487,+995322253487,,,bia.ge,2_phones; has_landline
+B,2,ერკერი,+995591115155,+995591115155,,,bia.ge,2_phones; has_mobile
+B,2,ერკერი,+995597203806,+995597203806,,,bia.ge,2_phones; has_mobile
+B,2,მშენებელი,+995599264455,+995599264455,,,bia.ge,2_phones; has_mobile
+B,2,მშენებელი,+995551234442,+995551234442,,,bia.ge,2_phones; has_mobile
+B,2,სამშენებლო ტრესტი №3,+995370273021,+995370273021,,,bia.ge,2_phones; has_landline
+B,2,სამშენებლო ტრესტი №3,+995370274007,+995370274007,,,bia.ge,2_phones; has_landline
+B,2,სერგი ბილდინგი,+995558420301,+995558420301,,,bia.ge,2_phones; has_mobile
+B,2,სერგი ბილდინგი,+995592910091,+995592910091,,,bia.ge,2_phones; has_mobile
+B,2,სპეცინჟმშენი,+995599293706,+995599293706,,,bia.ge,2_phones; has_mobile
+B,2,სპეცინჟმშენი,+995597970112,+995597970112,,,bia.ge,2_phones; has_mobile
+B,2,ჰორიზონტი,+995551157422,+995551157422,,,bia.ge,2_phones; has_mobile
+B,2,ჰორიზონტი,+995599504747,+995599504747,,,bia.ge,2_phones; has_mobile
+B,2,საბა და კომპანია,+995591702911,+995591702911,,,bia.ge,2_phones; has_mobile
+B,2,საბა და კომპანია,+995599948034,+995599948034,,,bia.ge,2_phones; has_mobile
+B,2,საქჰიდროენერგომშენი,+995593055151,+995593055151,,,bia.ge,2_phones; has_mobile
+B,2,საქჰიდროენერგომშენი,+995599165654,+995599165654,,,bia.ge,2_phones; has_mobile
+B,2,აგროინვესტ კომპანია,+995599580673,+995599580673,,,bia.ge,2_phones; has_mobile
+B,2,აგროინვესტ კომპანია,+995579001001,+995579001001,,,bia.ge,2_phones; has_mobile
+B,2,დ. და გ. სამშენებლო კომპანია,+995593406085,+995593406085,,,bia.ge,2_phones; has_mobile
+B,2,დ. და გ. სამშენებლო კომპანია,+995577237171,+995577237171,,,bia.ge,2_phones; has_mobile
+B,2,იდეალ დეველოპმენტი,+995551117722,+995551117722,,,bia.ge,2_phones; has_mobile
+B,2,იდეალ დეველოპმენტი,+995551343231,+995551343231,,,bia.ge,2_phones; has_mobile
+B,2,მირაჟი–ო,+995551805816,+995551805816,,,bia.ge,2_phones; has_mobile
+B,2,მირაჟი–ო,+995514107171,+995514107171,,,bia.ge,2_phones; has_mobile
+B,2,ბამი +,+995574165180,+995574165180,,,bia.ge,2_phones; has_mobile
+B,2,ბამი +,+995551165180,+995551165180,,,bia.ge,2_phones; has_mobile
+B,2,ანრი,+995557112424,+995557112424,,,bia.ge,2_phones; has_mobile
+B,2,ანრი,+995571426262,+995571426262,,,bia.ge,2_phones; has_mobile
+B,2,სამშენებლო კომპანია,+995592202043,+995592202043,,,bia.ge,2_phones; has_mobile
+B,2,სამშენებლო კომპანია,+995577994220,+995577994220,,,bia.ge,2_phones; has_mobile
+B,2,წარმატების სახლი,+995591313939,+995591313939,,,bia.ge,2_phones; has_mobile
+B,2,წარმატების სახლი,+995591033939,+995591033939,,,bia.ge,2_phones; has_mobile
+B,2,რეზიდენს პალასი,+995593316072,+995593316072,,,bia.ge,2_phones; has_mobile
+B,2,რეზიდენს პალასი,+995577770055,+995577770055,,,bia.ge,2_phones; has_mobile
+B,2,ელიტ დეველოპმენტი,+995591511743,+995591511743,,,bia.ge,2_phones; has_mobile
+B,2,ელიტ დეველოპმენტი,+995544446484,+995544446484,,,bia.ge,2_phones; has_mobile
+B,2,კარკასი,+995593536826,+995593536826,,,bia.ge,2_phones; has_mobile
+B,2,კარკასი,+995599907105,+995599907105,,,bia.ge,2_phones; has_mobile
+B,2,კავიანი 2015,+995599351351,+995599351351,,,bia.ge,2_phones; has_mobile
+B,2,კავიანი 2015,+995558609609,+995558609609,,,bia.ge,2_phones; has_mobile
+B,2,ატრიუმი,+995574772250,+995574772250,,,bia.ge,2_phones; has_mobile
+B,2,ატრიუმი,+995599241139,+995599241139,,,bia.ge,2_phones; has_mobile
+B,2,დავიდე,+995597548877,+995597548877,,,bia.ge,2_phones; has_mobile
+B,2,დავიდე,+995557041919,+995557041919,,,bia.ge,2_phones; has_mobile
+B,2,კენან ინშაატ და ტიჯარატ-ის ფილ.საქარ. კენან ინშაატ და ტიჯარატ ჯორჯია,+995322253050,+995322253050,,,bia.ge,3_phones; has_landline
+B,2,კენან ინშაატ და ტიჯარატ-ის ფილ.საქარ. კენან ინშაატ და ტიჯარატ ჯორჯია,+995322977900,+995322977900,,,bia.ge,3_phones; has_landline
+B,2,კენან ინშაატ და ტიჯარატ-ის ფილ.საქარ. კენან ინშაატ და ტიჯარატ ჯორჯია,+995322745440,+995322745440,,,bia.ge,3_phones; has_landline
+B,2,ბეთა,+995322344170,+995322344170,,,bia.ge,2_phones; has_landline
+B,2,ბეთა,+995322355170,+995322355170,,,bia.ge,2_phones; has_landline
+B,2,ევრომშენი,+995592554055,+995592554055,,,bia.ge,2_phones; has_mobile
+B,2,ევრომშენი,+995568838460,+995568838460,,,bia.ge,2_phones; has_mobile
+B,2,ვანტი,+995322708323,+995322708323,,,bia.ge,2_phones; has_landline
+B,2,ვანტი,+995322707802,+995322707802,,,bia.ge,2_phones; has_landline
+B,2,მშენი,+995593346870,+995593346870,,,bia.ge,2_phones; has_mobile
+B,2,მშენი,+995598520354,+995598520354,,,bia.ge,2_phones; has_mobile
+B,2,სეგევ,+995322997035,+995322997035,,,bia.ge,2_phones; has_landline
+B,2,სეგევ,+995322997036,+995322997036,,,bia.ge,2_phones; has_landline
+B,2,ციტადელი,+995599383203,+995599383203,,,bia.ge,3_phones; has_mobile
+B,2,ციტადელი,+995599552272,+995599552272,,,bia.ge,3_phones; has_mobile
+B,2,ციტადელი,+995577658040,+995577658040,,,bia.ge,3_phones; has_mobile
+B,2,არქსტუ–დია,+995322934200,+995322934200,,,bia.ge,2_phones; has_landline
+B,2,არქსტუ–დია,+995322984200,+995322984200,,,bia.ge,2_phones; has_landline
+B,2,ელიტ–ჰაუზი,+995322915377,+995322915377,,,bia.ge,2_phones; has_landline
+B,2,ელიტ–ჰაუზი,+995322292802,+995322292802,,,bia.ge,2_phones; has_landline
+B,2,ნდს 2008,+995322911989,+995322911989,,,bia.ge,2_phones; has_landline
+B,2,ნდს 2008,+995322178074,+995322178074,,,bia.ge,2_phones; has_landline
+B,2,კოლეგიუმი,+995577419289,+995577419289,,,bia.ge,2_phones; has_mobile
+B,2,კოლეგიუმი,+995597960444,+995597960444,,,bia.ge,2_phones; has_mobile
+B,2,მოსაშვილი,+995571577071,+995571577071,,,bia.ge,2_phones; has_mobile
+B,2,მოსაშვილი,+995599109464,+995599109464,,,bia.ge,2_phones; has_mobile
+B,2,სამგორი M,+995322384400,+995322384400,,,bia.ge,2_phones; has_landline
+B,2,სამგორი M,+995322384401,+995322384401,,,bia.ge,2_phones; has_landline
+B,2,ბერდი,+995322536613,+995322536613,,,bia.ge,2_phones; has_landline
+B,2,ბერდი,+995322536691,+995322536691,,,bia.ge,2_phones; has_landline
+B,2,ვაგი,+995322651499,+995322651499,,,bia.ge,2_phones; has_landline
+B,2,ვაგი,+995322652506,+995322652506,,,bia.ge,2_phones; has_landline
+B,2,გეო ბილდ გრუპ,+995551700001,+995551700001,,,bia.ge,2_phones; has_mobile
+B,2,გეო ბილდ გრუპ,+995591514242,+995591514242,,,bia.ge,2_phones; has_mobile
+C,1,შპს ჯეოდიზაინ&ქონსთრაქშენ,(032) 247 73 44,+995322477344,http://www.gdcbureau.ge,,yell.ge,website_dead; 2_phones; has_mobile; has_landline
+C,1,შპს ჯეოდიზაინ&ქონსთრაქშენ,(596) 655 655,+995596655655,http://www.gdcbureau.ge,,yell.ge,website_dead; 2_phones; has_mobile; has_landline
+C,1,აიბილდი,205 21 21,+995322052121,http://www.ibuild.ge,,yell.ge,website_dead; 2_phones; has_mobile; has_landline
+C,1,აიბილდი,(596) 80 21 21,+995596802121,http://www.ibuild.ge,,yell.ge,website_dead; 2_phones; has_mobile; has_landline
+C,1,ეპიკ დეველოპმენტი,211 22 11,+995322112211,http://www.epicdevelopment.ge,,yell.ge,website_dead; 2_phones; has_mobile; has_landline
+C,1,ეპიკ დეველოპმენტი,(555) 22 97 97,+995555229797,http://www.epicdevelopment.ge,,yell.ge,website_dead; 2_phones; has_mobile; has_landline
+C,1,დიდოსტატი,(599) 55 55 69,+995599555569,http://www.didostatiplus.ge,https://www.facebook.com/profile.php?id=100063942097580,yell.ge,website_dead; has_facebook; fb_dormant; multi_source; 2_phones; has_mobile
+C,1,დიდოსტატი,+995551271111,+995551271111,http://www.didostatiplus.ge,https://www.facebook.com/profile.php?id=100063942097580,bia.ge,website_dead; has_facebook; fb_dormant; multi_source; 2_phones; has_mobile
+C,1,ოლიმპ ჯორჯია,+995322192219,+995322192219,http://www.biotapark.ge/,,bia.ge,website_dead; 2_phones; has_mobile; has_landline
+C,1,ოლიმპ ჯორჯია,+995557557722,+995557557722,http://www.biotapark.ge/,,bia.ge,website_dead; 2_phones; has_mobile; has_landline
+C,1,ჰილს დეველოპმენტი,+995551190004,+995551190004,http://www.vakehills.ge/,,bia.ge,website_dead; 2_phones; has_mobile; has_landline
+C,1,ჰილს დეველოპმენტი,+995322290004,+995322290004,http://www.vakehills.ge/,,bia.ge,website_dead; 2_phones; has_mobile; has_landline
+C,1,ბი ემ ეს გრუპი,+995322835333,+995322835333,https://www.bmsgeorgia.com/,,bia.ge,website_dead; 2_phones; has_mobile; has_landline
+C,1,ბი ემ ეს გრუპი,+995596861818,+995596861818,https://www.bmsgeorgia.com/,,bia.ge,website_dead; 2_phones; has_mobile; has_landline
+C,1,თემა,+995341227122,+995341227122,http://www.tema.ge/,,bia.ge,website_dead; 3_phones; has_mobile; has_landline
+C,1,თემა,+995341280493,+995341280493,http://www.tema.ge/,,bia.ge,website_dead; 3_phones; has_mobile; has_landline
+C,1,თემა,+995599725570,+995599725570,http://www.tema.ge/,,bia.ge,website_dead; 3_phones; has_mobile; has_landline
+C,1,სამშენებლო-კომპანია მაქსიმო,+995591434334,+995591434334,,https://www.facebook.com/bcmaximo,bia.ge,has_facebook; fb_dormant; 2_phones; has_mobile
+C,1,სამშენებლო-კომპანია მაქსიმო,+995595242828,+995595242828,,https://www.facebook.com/bcmaximo,bia.ge,has_facebook; fb_dormant; 2_phones; has_mobile
+C,1,პრივატ ჰაუსი,+995551755150,+995551755150,,https://www.facebook.com/permalink.php?story_fbid=553279361493579&id=552458718242310,bia.ge,has_facebook; fb_dormant; 2_phones; has_mobile
+C,1,პრივატ ჰაუსი,+995597370324,+995597370324,,https://www.facebook.com/permalink.php?story_fbid=553279361493579&id=552458718242310,bia.ge,has_facebook; fb_dormant; 2_phones; has_mobile
+C,1,სვეტი დეველოპმენტი,+995 591 640000,+995591640000,,https://www.facebook.com/svetige,bia.ge,has_facebook; fb_dormant; 5_phones; has_mobile
+C,1,სვეტი დეველოპმენტი,+995 591 242244,+995591242244,,https://www.facebook.com/svetige,bia.ge,has_facebook; fb_dormant; 5_phones; has_mobile
+C,1,სვეტი დეველოპმენტი,+995 591 248844,+995591248844,,https://www.facebook.com/svetige,bia.ge,has_facebook; fb_dormant; 5_phones; has_mobile
+C,1,სვეტი დეველოპმენტი,+995 591 348844,+995591348844,,https://www.facebook.com/svetige,bia.ge,has_facebook; fb_dormant; 5_phones; has_mobile
+C,1,სვეტი დეველოპმენტი,+995 591 630000,+995591630000,,https://www.facebook.com/svetige,bia.ge,has_facebook; fb_dormant; 5_phones; has_mobile
+C,1,ვილასეტი,266 99 87,+995322669987,,,yell.ge,has_landline
+C,1,ელიტ კონსტრაქშენი,(599) 56 60 48,+995599566048,,,yell.ge,has_mobile
+C,1,სტელა ჰაუზი,(599) 240 240,+995599240240,,,yell.ge,has_mobile
+C,1,ნიუ პალასი,(592) 72 38 28,+995592723828,,,yell.ge,has_mobile
+C,1,მონუმენტმშენი,(591) 700 140,+995591700140,,,yell.ge,has_mobile
+C,1,ფაინ თრი კონსტრაქშენი,2 389 389,+995322389389,,,yell.ge,has_landline
+C,1,შპს უშანგიო,(592) 10 30 50,+995592103050,,,yell.ge,has_mobile
+C,1,ჯი ემ ჯი ფაუერი,(595) 14 11 61,+995595141161,,,yell.ge,has_mobile
+C,1,ასტრა პარკი,(591) 87 37 37,+995591873737,,,yell.ge,has_mobile
+C,1,რედეო,(551) 01 78 78,+995551017878,,,yell.ge,has_mobile
+C,1,მმბ,(599) 150 172,+995599150172,,,yell.ge,has_mobile
+C,1,ჯითიდიეფ სოლუშენსი,(599) 11 44 69,+995599114469,,,yell.ge,has_mobile
+C,1,სოდამი,(577) 41 17 14,+995577411714,,,yell.ge,has_mobile
+C,1,ე-კონი,(599) 55 26 32,+995599552632,,,yell.ge,has_mobile
+C,1,სანი,(599) 51 46 78,+995599514678,,,yell.ge,has_mobile
+C,1,კანალესა,(577) 55 49 30,+995577554930,,,yell.ge,has_mobile
+C,1,რიფეარ ჯიჯი,599 50 67 57,+995599506757,,,yell.ge,has_mobile
+C,1,სამშენებლო კომპანია ბარსი,(577) 11 42 13,+995577114213,,,yell.ge,has_mobile
+C,1,რესტარტ დიღომი,(555) 88 99 55,+995555889955,,,yell.ge,has_mobile
+C,1,ელ ჯორჯია,(577) 31 51 51,+995577315151,,,yell.ge,has_mobile
+C,1,ბაბუსი,(577) 65 55 22,+995577655522,,,yell.ge,has_mobile
+C,1,გლობალ ჯორჯია,514 99 99 45,+995514999945,,,yell.ge,has_mobile
+C,1,ძველი თბილისი 2011,(599) 18 18 36,+995599181836,,,yell.ge,has_mobile
+C,1,მოყვასი 2012,(599) 14 07 86,+995599140786,,,yell.ge,has_mobile
+C,1,მონოლით გრუპ,(555) 51 16 26,+995555511626,,,yell.ge,has_mobile
+C,1,ალტერნატივა გრუპი,(593) 31 72 61,+995593317261,,,yell.ge,has_mobile
+C,1,ლკონსი,(599) 61 90 33,+995599619033,,,yell.ge,has_mobile
+C,1,დრიმჰაუს დეველოპმენტი,(591) 18 51 75,+995591185175,,,yell.ge,has_mobile
+C,1,ინტერმშენი პირველი,(577) 41 82 22,+995577418222,,,yell.ge,has_mobile
+C,1,სტროი.ჯი,+995 550 00 55 11,+995550005511,,,yell.ge,has_mobile
+C,1,ჯი აი პი ენ - ქართულ-გერმანული საპროექტო ჯგუფი,(599) 15 00 88,+995599150088,,,yell.ge,has_mobile
+C,1,ელექტროძრავა,(599) 94 15 19,+995599941519,,,yell.ge,has_mobile
+C,1,თერმოტექნიკა თთ,(568) 01 14 44,+995568011444,,,yell.ge,has_mobile
+C,1,აი ქეი ბი,(577) 65 22 12,+995577652212,,,yell.ge,has_mobile
+C,1,ე.ნ. - მშენი,(599) 56 21 71,+995599562171,,,yell.ge,has_mobile
+C,1,ჰიდროსაინჟინრო კომპანია,(591) 70 78 78,+995591707878,,,yell.ge,has_mobile
+C,1,არტ-ბონუსი,(599) 19 63 76,+995599196376,,,yell.ge,has_mobile
+C,1,აგორა2030,+995577577101,+995577577101,,,bia.ge,has_mobile
+C,1,არტ გრუპი,+995557625482,+995557625482,,,bia.ge,has_mobile
+C,1,ასტორია,+995365223925,+995365223925,,,bia.ge,has_landline
+C,1,აღმაშენებელი 2012,+995551975994,+995551975994,,,bia.ge,has_mobile
+C,1,ბარსი,+995577774635,+995577774635,,,bia.ge,has_mobile
+C,1,ბეთლემი-2011,+995577125235,+995577125235,,,bia.ge,has_mobile
+C,1,გ.ი.პ – I,+995577252845,+995577252845,,,bia.ge,has_mobile
+C,1,გზამშენი 2005,+995597098098,+995597098098,,,bia.ge,has_mobile
+C,1,გოკი და კომპანია,+995598369994,+995598369994,,,bia.ge,has_mobile
+C,1,გრაფენი,+995571640011,+995571640011,,,bia.ge,has_mobile
+C,1,გუდაურმშენი,+995599304430,+995599304430,,,bia.ge,has_mobile
+C,1,ელვა,+995571363492,+995571363492,,,bia.ge,has_mobile
+C,1,ემპა კომპანი,+995555590909,+995555590909,,,bia.ge,has_mobile
+C,1,ეს.ელი,+995599250820,+995599250820,,,bia.ge,has_mobile
+C,1,ზუგდიდის საგზაო სამმართველო,+995591235068,+995591235068,,,bia.ge,has_mobile
+C,1,თაუნს ქონსთრაქშენ,+995577151106,+995577151106,,,bia.ge,has_mobile
+C,1,თისადი,+995599630096,+995599630096,,,bia.ge,has_mobile
+C,1,ინდიკო,+995591228849,+995591228849,,,bia.ge,has_mobile
+C,1,ინჟმშენი–96,+995599373883,+995599373883,,,bia.ge,has_mobile
+C,1,ინტერსერვის–2011,+995577105766,+995577105766,,,bia.ge,has_mobile
+C,1,ინტექსი,+995514363363,+995514363363,,,bia.ge,has_mobile
+C,1,კ-კომპანია,+995595172060,+995595172060,,,bia.ge,has_mobile
+C,1,კობი,+995574487888,+995574487888,,,bia.ge,has_mobile
+C,1,კომპანია კავკასიონი,+995591636527,+995591636527,,,bia.ge,has_mobile
+C,1,კუთხე 2019,+995555529915,+995555529915,,,bia.ge,has_mobile
+C,1,ლავა,+995551870101,+995551870101,,,bia.ge,has_mobile
+C,1,მზიანი ღამე,+995557478338,+995557478338,,,bia.ge,has_mobile
+C,1,მოდილიონი,+995599115032,+995599115032,,,bia.ge,has_mobile
+C,1,მტმ,+995599587748,+995599587748,,,bia.ge,has_mobile
+C,1,მუხა-გ,+995599558481,+995599558481,,,bia.ge,has_mobile
+C,1,ნიუ პასაჟი,+995599987373,+995599987373,,,bia.ge,has_mobile
+C,1,ნოდო,+995599577623,+995599577623,,,bia.ge,has_mobile
+C,1,ნოუბელ მარინერი,+995599994141,+995599994141,,,bia.ge,has_mobile
+C,1,ნუგი,+995322711601,+995322711601,,,bia.ge,has_landline
+C,1,ოვალი,+995555144664,+995555144664,,,bia.ge,has_mobile
+C,1,რეზორტ დეველოპმენტ სოლუშენ რდს,+995599117575,+995599117575,,,bia.ge,has_mobile
+C,1,რომბი ჯგუფი,+995555654515,+995555654515,,,bia.ge,has_mobile
+C,1,საბა 2015,+995599756099,+995599756099,,,bia.ge,has_mobile
+C,1,სამშენებლო სარესტავრაციო კომპანია დავითი,+995599546903,+995599546903,,,bia.ge,has_mobile
+C,1,სოლო,+995599400050,+995599400050,,,bia.ge,has_mobile
+C,1,ქარ–სერვისი,+995514601717,+995514601717,,,bia.ge,has_mobile
+C,1,ქვები,+995577188989,+995577188989,,,bia.ge,has_mobile
+C,1,ქოინჯულარი,+995555411111,+995555411111,,,bia.ge,has_mobile
+C,1,ჯეო ბილდი,+995599158320,+995599158320,,,bia.ge,has_mobile
+C,1,ჯეორჯიენ გროუპ,+995599271250,+995599271250,,,bia.ge,has_mobile
+C,1,G M G Power,+995322250169,+995322250169,,,bia.ge,has_landline
+C,1,MG,+995577449705,+995577449705,,,bia.ge,has_mobile
+C,1,TU-KA,+995599527767,+995599527767,,,bia.ge,has_mobile
+C,1,აბრისი,+995577299090,+995577299090,,,bia.ge,has_mobile
+C,1,ალგეთი,+995341258383,+995341258383,,,bia.ge,has_landline
+C,1,ალგო 2000,+995599142020,+995599142020,,,bia.ge,has_mobile
+C,1,ალე კონსტრაქშენ,+995593862626,+995593862626,,,bia.ge,has_mobile
+C,1,ალფა ჯგუფი,+995599560920,+995599560920,,,bia.ge,has_mobile
+C,1,არადანი,+995579773131,+995579773131,,,bia.ge,has_mobile
+C,1,ატლასი,+995555585755,+995555585755,,,bia.ge,has_mobile
+C,1,ბიზნეს სტარი,+995599157270,+995599157270,,,bia.ge,has_mobile
+C,1,ბილდექს,+995577432109,+995577432109,,,bia.ge,has_mobile
+C,1,ბჩ გეორგია,+995598308308,+995598308308,,,bia.ge,has_mobile
+C,1,გარდაბნის საგზაო სამმართველო,+995593277541,+995593277541,,,bia.ge,has_mobile
+C,1,გგ კაპიტალი,+995577161866,+995577161866,,,bia.ge,has_mobile
+C,1,გი–ან 2011,+995579202020,+995579202020,,,bia.ge,has_mobile
+C,1,გინა,+995599568796,+995599568796,,,bia.ge,has_mobile
+C,1,გოლდ 777,+995599123812,+995599123812,,,bia.ge,has_mobile
+C,1,გონიო 2003,+995599909379,+995599909379,,,bia.ge,has_mobile
+C,1,გრინ ფრეიმი,+995577187187,+995577187187,,,bia.ge,has_mobile
+C,1,დავით მალაღურაძე,+995551998010,+995551998010,,,bia.ge,has_mobile
+C,1,დავით ნასარიძე,+995555115188,+995555115188,,,bia.ge,has_mobile
+C,1,დავითი 2018,+995599952969,+995599952969,,,bia.ge,has_mobile
+C,1,დავითი კოსტავა,+995595385050,+995595385050,,,bia.ge,has_mobile
+C,1,დაიმონდ კონსტრაქშენ,+995591601530,+995591601530,,,bia.ge,has_mobile
+C,1,დეა 2006,+995558112133,+995558112133,,,bia.ge,has_mobile
+C,1,დი ენდ ეი,+995591990790,+995591990790,,,bia.ge,has_mobile
+C,1,დიდუბე მეგა ტრეიდი,+995322149404,+995322149404,,,bia.ge,has_landline
+C,1,დიელი,+995593939620,+995593939620,,,bia.ge,has_mobile
+C,1,დინი დეველოპმენტი,+995555516402,+995555516402,,,bia.ge,has_mobile
+C,1,ეი ბი სი ქონსთრაქშენ,+995557753377,+995557753377,,,bia.ge,has_mobile
+C,1,ელიტ ინვესტი,+995557100800,+995557100800,,,bia.ge,has_mobile
+C,1,ენ–დი როუდი,+995577443339,+995577443339,,,bia.ge,has_mobile
+C,1,ეტალონი – 2007,+995574230033,+995574230033,,,bia.ge,has_mobile
+C,1,ვი ქეი ენერჯი,+995571802100,+995571802100,,,bia.ge,has_mobile
+C,1,თბილისი სითი,+995595222042,+995595222042,,,bia.ge,has_mobile
+C,1,იბერია–ჯ,+995591719977,+995591719977,,,bia.ge,has_mobile
+C,1,იბერიის ვარსკვლავი,+995431271078,+995431271078,,,bia.ge,has_landline
+C,1,იდეალმშენი,+995555595907,+995555595907,,,bia.ge,has_mobile
+C,1,კვადრელი,+995595927700,+995595927700,,,bia.ge,has_mobile
+C,1,კონსული,+995577790125,+995577790125,,,bia.ge,has_mobile
+C,1,კორონი,+995322407794,+995322407794,,,bia.ge,has_landline
+C,1,კოწიწაშვილი და კომპანია,+995595725725,+995595725725,,,bia.ge,has_mobile
+C,1,კუბიკები,+995597117418,+995597117418,,,bia.ge,has_mobile
+C,1,კუბიქს დეველოპმენტი,+995598612000,+995598612000,,,bia.ge,has_mobile
+C,1,ლ. ვ. სტანდარტ ჯგუფი საქართველო,+995322356625,+995322356625,,,bia.ge,has_landline
+C,1,ლ.კ. კომპანი,+995551005073,+995551005073,,,bia.ge,has_mobile
+C,1,ლაქი ქონსთრაქშენი,+995591299991,+995591299991,,,bia.ge,has_mobile
+C,1,ლინიუმი,+995599284482,+995599284482,,,bia.ge,has_mobile
+C,1,მ & ნ,+995595335800,+995595335800,,,bia.ge,has_mobile
+C,1,მალხაზი ქორიძე,+995597798950,+995597798950,,,bia.ge,has_mobile
+C,1,მანანი,+995593134013,+995593134013,,,bia.ge,has_mobile
+C,1,მარსი–მმ ოცდამეერთე,+995593322964,+995593322964,,,bia.ge,has_mobile
+C,1,მეოხი,+995568170100,+995568170100,,,bia.ge,has_mobile
+C,1,მეტრი,+995599448754,+995599448754,,,bia.ge,has_mobile
+C,1,მეტრო მეფ,+995577942233,+995577942233,,,bia.ge,has_mobile
+C,1,მონოლითი 2005,+995422277029,+995422277029,,,bia.ge,has_landline
+C,1,მონოლითი-2,+995595410306,+995595410306,,,bia.ge,has_mobile
+C,1,მშენებელი 2012,+995595583158,+995595583158,,,bia.ge,has_mobile
+C,1,მშენკომპლექსი,+995599539793,+995599539793,,,bia.ge,has_mobile
+C,1,ნათება +,+995574551270,+995574551270,,,bia.ge,has_mobile
+C,1,ნიუ სითი,+995558203003,+995558203003,,,bia.ge,has_mobile
+C,1,ნოვა ჰოლდინგ,+995593348442,+995593348442,,,bia.ge,has_mobile
+C,1,საგზაო სამშენებლო სამმართველო №1,+995370270654,+995370270654,,,bia.ge,has_landline
+C,1,სამშენებლო რეკრუიტინგული კომპანია,+995599569484,+995599569484,,,bia.ge,has_mobile
+C,1,სამშენებლო საწარმო გაერთიანება იმერეთი,+995599740601,+995599740601,,,bia.ge,has_mobile
+C,1,სან ჰაუსი,+995593984325,+995593984325,,,bia.ge,has_mobile
+C,1,საქართველოს სამშენებლო კომპანია,+995593504440,+995593504440,,,bia.ge,has_mobile
+C,1,სერგო ჩანგელია,+995571015978,+995571015978,,,bia.ge,has_mobile
+C,1,სი ეიჩ კონსტრაქშენ,+995591099171,+995591099171,,,bia.ge,has_mobile
+C,1,სტუდიო დეველოპმენტი,+995599525252,+995599525252,,,bia.ge,has_mobile
+C,1,ტენდექსი,+995599445535,+995599445535,,,bia.ge,has_mobile
+C,1,ტექ–მედია,+995579799997,+995579799997,,,bia.ge,has_mobile
+C,1,ქუიქ სერვისი,+995551518797,+995551518797,,,bia.ge,has_mobile
+C,1,შარა–გზამშენი პირველი,+995555062020,+995555062020,,,bia.ge,has_mobile
+C,1,ჯ და ჯ,+995551557106,+995551557106,,,bia.ge,has_mobile
+C,1,ჯიმშერი გეწაძე,+995568915544,+995568915544,,,bia.ge,has_mobile
+C,1,ჯორჯთაუნ,+995596200001,+995596200001,,,bia.ge,has_mobile
+C,1,ჯორჯიან დეველოპმენტ გრუპ,+995555229988,+995555229988,,,bia.ge,has_mobile
+C,1,BREND STILE,+995597829696,+995597829696,,,bia.ge,has_mobile
+C,1,EXINPRO LTD შპს ექსინპრო,+995577743030,+995577743030,,,bia.ge,has_mobile
+C,1,EXTER-GEORGIA,+995599211662,+995599211662,,,bia.ge,has_mobile
+C,1,აგრომშენ გრუპი,+995595900114,+995595900114,,,bia.ge,has_mobile
+C,1,ავთანდილი ფიცხელაური,+995599854479,+995599854479,,,bia.ge,has_mobile
+C,1,ავტოგრაფი პეკინი,+995322141818,+995322141818,,,bia.ge,has_landline
+C,1,ალ ტი ბილდი,+995555071122,+995555071122,,,bia.ge,has_mobile
+C,1,ალთა გრუპ,+995593636792,+995593636792,,,bia.ge,has_mobile
+C,1,ალმე,+995591918863,+995591918863,,,bia.ge,has_mobile
+C,1,არკა,+995595710010,+995595710010,,,bia.ge,has_mobile
+C,1,არჩილ მუჯირიშვილი,+995599484465,+995599484465,,,bia.ge,has_mobile
+C,1,არწივანი,+995598093192,+995598093192,,,bia.ge,has_mobile
+C,1,აქსონი,+995322399991,+995322399991,,,bia.ge,has_landline
+C,1,ბეროინი,+995555282112,+995555282112,,,bia.ge,has_mobile
+C,1,ბეტა ფროფერთიზ,+995551209050,+995551209050,,,bia.ge,has_mobile
+C,1,ბილდერი,+995598118898,+995598118898,,,bia.ge,has_mobile
+C,1,გ და თ,+995592170033,+995592170033,,,bia.ge,has_mobile
+C,1,გეგა,+995579374708,+995579374708,,,bia.ge,has_mobile
+C,1,გიორგი,+995593172850,+995593172850,,,bia.ge,has_mobile
+C,1,გლობალჰაუს,+995558356565,+995558356565,,,bia.ge,has_mobile
+C,1,გოლდენ თაუერ,+995577200040,+995577200040,,,bia.ge,has_mobile
+C,1,დებეტი,+995577998399,+995577998399,,,bia.ge,has_mobile
+C,1,დეკო 21,+995551178282,+995551178282,,,bia.ge,has_mobile
+C,1,დესინ ესპას,+995591222399,+995591222399,,,bia.ge,has_mobile
+C,1,ელ ბი +,+995591014230,+995591014230,,,bia.ge,has_mobile
+C,1,ელ დი,+995574188811,+995574188811,,,bia.ge,has_mobile
+C,1,ელმა,+995595903732,+995595903732,,,bia.ge,has_mobile
+C,1,ერისიმედი,+995322354020,+995322354020,,,bia.ge,has_landline
+C,1,ეტალონი,+995595544046,+995595544046,,,bia.ge,has_mobile
+C,1,ეფლაინი,+995599970044,+995599970044,,,bia.ge,has_mobile
+C,1,ვატო,+995599371537,+995599371537,,,bia.ge,has_mobile
+C,1,ზაქარია წიქარაძე,+995579105251,+995579105251,,,bia.ge,has_mobile
+C,1,თბომშენი,+995599697716,+995599697716,,,bia.ge,has_mobile
+C,1,თერგი,+995599587348,+995599587348,,,bia.ge,has_mobile
+C,1,იენსი ჯგუფი,+995577722217,+995577722217,,,bia.ge,has_mobile
+C,1,იესე ზედგინიძე,+995574476161,+995574476161,,,bia.ge,has_mobile
+C,1,ივერია ჯგუფი,+995599915181,+995599915181,,,bia.ge,has_mobile
+C,1,ივერიამშენ-პლიუსი,+995599902601,+995599902601,,,bia.ge,has_mobile
+C,1,ინოვაციური სამშენებლო კომპანია,+995599203555,+995599203555,,,bia.ge,has_mobile
+C,1,კანოე,+995593402967,+995593402967,,,bia.ge,has_mobile
+C,1,კომპანია კრისტალი,+995599242637,+995599242637,,,bia.ge,has_mobile
+C,1,კომპანია ნიკედო,+995599555866,+995599555866,,,bia.ge,has_mobile
+C,1,კომპლექსი,+995593393202,+995593393202,,,bia.ge,has_mobile
+C,1,კრწანისი ვილა რეზიდენსი KRTSANISI VILLA RESIDENCE,+995597261111,+995597261111,,,bia.ge,has_mobile
+C,1,ლევან მოდებაძე,+995522220170,+995522220170,,,bia.ge,has_mobile
+C,1,ლექსო კიზირია,+995592771974,+995592771974,,,bia.ge,has_mobile
+C,1,ლიბო,+995577474730,+995577474730,,,bia.ge,has_mobile
+C,1,ლიბრა ქონსტრაქშენი,+995595074454,+995595074454,,,bia.ge,has_mobile
+C,1,ლილო რენტალი,+995555407121,+995555407121,,,bia.ge,has_mobile
+C,1,ლიმ კონსტრაქშენი,+995577299249,+995577299249,,,bia.ge,has_mobile
+C,1,მალხაზი ქასრაშვილი,+995571042644,+995571042644,,,bia.ge,has_mobile
+C,1,მარდიელი ჰაუსი,+995568488888,+995568488888,,,bia.ge,has_mobile
+C,1,მეგაბილდ,+995591956695,+995591956695,,,bia.ge,has_mobile
+C,1,მენო ინტერნეიშენალ,+995322744844,+995322744844,,,bia.ge,has_landline
+C,1,მიმდემი,+995598744774,+995598744774,,,bia.ge,has_mobile
+C,1,მოდერნ ბილდინგ კომპანი,+995522223377,+995522223377,,,bia.ge,has_mobile
+C,1,მოდერნ კონსტრაქშენ,+995591801980,+995591801980,,,bia.ge,has_mobile
+C,1,მომავლის ხედვა,+995571109844,+995571109844,,,bia.ge,has_mobile
+C,1,მშენებელი 2017,+995597063780,+995597063780,,,bia.ge,has_mobile
+C,1,ნერჯ,+995595386238,+995595386238,,,bia.ge,has_mobile
+C,1,ნიკა 2014,+995599090306,+995599090306,,,bia.ge,has_mobile
+C,1,ნიუ იდეა,+995555934211,+995555934211,,,bia.ge,has_mobile
+C,1,ნიუ ჰაუსი,+995568111414,+995568111414,,,bia.ge,has_mobile
+C,1,ნუკო +,+995593608073,+995593608073,,,bia.ge,has_mobile
+C,1,ორექსუს ქონსთრაქშენი,+995551143030,+995551143030,,,bia.ge,has_mobile
+C,1,პავლე ქუშაშვილი,+995598870202,+995598870202,,,bia.ge,has_mobile
+C,1,პარამეტრი,+995591199739,+995591199739,,,bia.ge,has_mobile
+C,1,პარმაღი,+995599901394,+995599901394,,,bia.ge,has_mobile
+C,1,პროგრესი +,+995599552058,+995599552058,,,bia.ge,has_mobile
+C,1,ჟინვალი,+995551006917,+995551006917,,,bia.ge,has_mobile
+C,1,რუსთავი დეველოპმენტი,+995574211211,+995574211211,,,bia.ge,has_mobile
+C,1,სამშენებლო კომპანია ევროპა,+995591111379,+995591111379,,,bia.ge,has_mobile
+C,1,საქართველოს მომავალი,+995568854646,+995568854646,,,bia.ge,has_mobile
+C,1,სითი და კოს,+995599752662,+995599752662,,,bia.ge,has_mobile
+C,1,სოლი,+995599111386,+995599111386,,,bia.ge,has_mobile
+C,1,სპეცმონოლითი,+995599550410,+995599550410,,,bia.ge,has_mobile
+C,1,სტარტი,+995599099555,+995599099555,,,bia.ge,has_mobile
+C,1,ტექნოვინი,+995558590590,+995558590590,,,bia.ge,has_mobile
+C,1,ტროპოს,+995598198777,+995598198777,,,bia.ge,has_mobile
+C,1,ულტრა დეველოპმენტი,+995577501194,+995577501194,,,bia.ge,has_mobile
+C,1,ქუთაისი 2016,+995597334575,+995597334575,,,bia.ge,has_mobile
+C,1,ქუთაისწყალმშენი,+995599929022,+995599929022,,,bia.ge,has_mobile
+C,1,ჩაინა თიანჩენ ინჯინიერინგ ქორფორეიშენის ფილიალი საქართველოში,+995558119896,+995558119896,,,bia.ge,has_mobile
+C,1,ჯეო ეფექტი,+995595404835,+995595404835,,,bia.ge,has_mobile
+C,1,ჯიენსი ჯგუფი,+995591161717,+995591161717,,,bia.ge,has_mobile
+C,1,ჰეადერ კონსტრაქშენ,+995593626810,+995593626810,,,bia.ge,has_mobile
+C,1,ჰილალ ჩევრე დუზენლემე თემიზლიქ თაჰჰუთ თიჯარეთ ვე ნაქლიე-ს საქართველოს ფილიალი,+995577161001,+995577161001,,,bia.ge,has_mobile
+C,1,ჰომექს,+995514009009,+995514009009,,,bia.ge,has_mobile
+C,1,New ალგეთი,+995574545542,+995574545542,,,bia.ge,has_mobile
+C,1,აბე პლუსი,+995511221255,+995511221255,,,bia.ge,has_mobile
+C,1,ახალი სამშენებლო,+995599082610,+995599082610,,,bia.ge,has_mobile
+C,1,ახალი სერვისი,+995599945673,+995599945673,,,bia.ge,has_mobile
+C,1,ბასილონ გლობალ სერვის,+995322333941,+995322333941,,,bia.ge,has_landline
+C,1,ბი ელ ბილდინგ,+995596000010,+995596000010,,,bia.ge,has_mobile
+C,1,ბილდინგ სოლუშენს,+995599562864,+995599562864,,,bia.ge,has_mobile
+C,1,გახა ჭეჟია,+995558202603,+995558202603,,,bia.ge,has_mobile
+C,1,გევა,+995599104923,+995599104923,,,bia.ge,has_mobile
+C,1,გელა გიორგაია,+995577378557,+995577378557,,,bia.ge,has_mobile
+C,1,გენადი ემირიძე,+995557256465,+995557256465,,,bia.ge,has_mobile
+C,1,გზა2020,+995596101028,+995596101028,,,bia.ge,has_mobile
+C,1,გიორგი სამიტაშვილი,+995551916605,+995551916605,,,bia.ge,has_mobile
+C,1,გიორგი ჩიტიძე,+995598491081,+995598491081,,,bia.ge,has_mobile
+C,1,გრანდ ბილდინგ სერვისი,+995577111417,+995577111417,,,bia.ge,has_mobile
+C,1,გრანუმი,+995593337342,+995593337342,,,bia.ge,has_mobile
+C,1,დავითი2012,+995593061010,+995593061010,,,bia.ge,has_mobile
+C,1,დეკა,+995592373751,+995592373751,,,bia.ge,has_mobile
+C,1,დემე,+995555510941,+995555510941,,,bia.ge,has_mobile
+C,1,დრო,+995599463040,+995599463040,,,bia.ge,has_mobile
+C,1,დურუ,+995555118882,+995555118882,,,bia.ge,has_mobile
+C,1,ეი თი ვი,+995599786818,+995599786818,,,bia.ge,has_mobile
+C,1,ემ.ემ.თე.ჯგუფი,+995598211233,+995598211233,,,bia.ge,has_mobile
+C,1,ემდი ჯგუფი,+995511100800,+995511100800,,,bia.ge,has_mobile
+C,1,ენ ეს გრუპი,+995599633366,+995599633366,,,bia.ge,has_mobile
+C,1,ერისი ჯგუფი,+995577621990,+995577621990,,,bia.ge,has_mobile
+C,1,ვასილ შუბლაძე,+995591171516,+995591171516,,,bia.ge,has_mobile
+C,1,ვი-ენი,+995551468181,+995551468181,,,bia.ge,has_mobile
+C,1,თა ჯგუფი,+995551585805,+995551585805,,,bia.ge,has_mobile
+C,1,თამაზი თედორაძე,+995577411419,+995577411419,,,bia.ge,has_mobile
+C,1,თეთრი კარკასი,+995557517571,+995557517571,,,bia.ge,has_mobile
+C,1,თელავმშენი,+995599080505,+995599080505,,,bia.ge,has_mobile
+C,1,თენგო+,+995599416469,+995599416469,,,bia.ge,has_mobile
+C,1,ირლანი,+995555787454,+995555787454,,,bia.ge,has_mobile
+C,1,კაპიტელი,+995597113798,+995597113798,,,bia.ge,has_mobile
+C,1,კოხტა უბანი,+995557222322,+995557222322,,,bia.ge,has_mobile
+C,1,კრეატ,+995577485748,+995577485748,,,bia.ge,has_mobile
+C,1,კუბი,+995555772288,+995555772288,,,bia.ge,has_mobile
+C,1,ლადო ოდიკაძე,+995598301917,+995598301917,,,bia.ge,has_mobile
+C,1,ლუსენითო,+995551183163,+995551183163,,,bia.ge,has_mobile
+C,1,მიკო ბილდინგი,+995571018820,+995571018820,,,bia.ge,has_mobile
+C,1,მპრ-ქონსტრაქშენი,+995591441723,+995591441723,,,bia.ge,has_mobile
+C,1,მშენებელი 2021,+995577437743,+995577437743,,,bia.ge,has_mobile
+C,1,მშენებელი 4,+995591003841,+995591003841,,,bia.ge,has_mobile
+C,1,მშენებელი 777–7,+995551657770,+995551657770,,,bia.ge,has_mobile
+C,1,ნიკა ლილუაშვილი,+995599151769,+995599151769,,,bia.ge,has_mobile
+C,1,პარაბოლა,+995595167777,+995595167777,,,bia.ge,has_mobile
+C,1,პირამიდა+777,+995555543876,+995555543876,,,bia.ge,has_mobile
+C,1,პრაიმ გრუპი,+995599536898,+995599536898,,,bia.ge,has_mobile
+C,1,რამაზ ჩაფიჩაძე,+995593628799,+995593628799,,,bia.ge,has_mobile
+C,1,რედელფი ჯგუფი,+995597772339,+995597772339,,,bia.ge,has_mobile
+C,1,როშკა,+995591918016,+995591918016,,,bia.ge,has_mobile
+C,1,სამშენებლო კომპანია სურმანიძეები,+995551504066,+995551504066,,,bia.ge,has_mobile
+C,1,საქართველოს კომპანია 1,+995577550927,+995577550927,,,bia.ge,has_mobile
+C,1,სერვისი 2015,+995557777711,+995557777711,,,bia.ge,has_mobile
+C,1,ტაო-ტბელი,+995595270048,+995595270048,,,bia.ge,has_mobile
+C,1,ტერა TERRA,+995592228888,+995592228888,,,bia.ge,has_mobile
+C,1,ტოტალ,+995514924040,+995514924040,,,bia.ge,has_mobile
+C,1,ქისთოუნ დეველოპმენტი,+995577777405,+995577777405,,,bia.ge,has_mobile
+C,1,შემოქმედი,+995599472523,+995599472523,,,bia.ge,has_mobile
+C,1,შენება2023,+995599329435,+995599329435,,,bia.ge,has_mobile
+C,1,ჩაინა ნუქლეარ ინდასტრი 23 ქონსტრაქშენ კო–ს ფილიალი საქართველოში,+995595087586,+995595087586,,,bia.ge,has_mobile
+C,1,ცოტნე,+995571099191,+995571099191,,,bia.ge,has_mobile
+C,1,ძველი თბილისის განვითარების ჯგუფი,+995597121121,+995597121121,,,bia.ge,has_mobile
+C,1,ხურო 2020,+995599886611,+995599886611,,,bia.ge,has_mobile
+C,1,ჯაბა დვალიშვილი,+995571607607,+995571607607,,,bia.ge,has_mobile
+C,1,ჯეი ქეი გრუპ,+995571747135,+995571747135,,,bia.ge,has_mobile
+C,1,ჯეო აპარტმენტ პლიუს,+995577418808,+995577418808,,,bia.ge,has_mobile
+C,1,ჯეო მონტაჟი,+995551994977,+995551994977,,,bia.ge,has_mobile
+C,1,ჯეოპრესტიჟი,+995555151512,+995555151512,,,bia.ge,has_mobile
+C,1,ჯი ენდ თი ბილდინგი,+995599052756,+995599052756,,,bia.ge,has_mobile
+C,1,ჯიი XXI,+995557752255,+995557752255,,,bia.ge,has_mobile
+C,1,ჯმს 4,+995568704700,+995568704700,,,bia.ge,has_mobile
+C,1,აბასთუმანი ესთეით,+995599708787,+995599708787,,,bia.ge,has_mobile
+C,1,აიემჯი-მ,+995557432366,+995557432366,,,bia.ge,has_mobile
+C,1,ანგი-56,+995599533118,+995599533118,,,bia.ge,has_mobile
+C,1,აპოგეა+,+995599205959,+995599205959,,,bia.ge,has_mobile
+C,1,არაყიშვილი 18,+995571776324,+995571776324,,,bia.ge,has_mobile
+C,1,ბ.პ. გრუპ,+995599003432,+995599003432,,,bia.ge,has_mobile
+C,1,ბი.ჯი.ქონსთრაქშენ,+995591101025,+995591101025,,,bia.ge,has_mobile
+C,1,ბიარსი,+995551139719,+995551139719,,,bia.ge,has_mobile
+C,1,ბრიკოსი,+995558859090,+995558859090,,,bia.ge,has_mobile
+C,1,ბუილდერ 21,+995599507037,+995599507037,,,bia.ge,has_mobile
+C,1,გენ კონსტრაქშენ,+995599102103,+995599102103,,,bia.ge,has_mobile
+C,1,გეოარს,+995598022020,+995598022020,,,bia.ge,has_mobile
+C,1,გია ბაწილაშვილი,+995571175180,+995571175180,,,bia.ge,has_mobile
+C,1,გილემი,+995577159000,+995577159000,,,bia.ge,has_mobile
+C,1,გიორგი ჯინო 1972,+995555695388,+995555695388,,,bia.ge,has_mobile
+C,1,გოლდგროუპ 2013,+995511474889,+995511474889,,,bia.ge,has_mobile
+C,1,გოჩა ვასაძე,+995593937554,+995593937554,,,bia.ge,has_mobile
+C,1,გრანდი ჯგუფი,+995595998795,+995595998795,,,bia.ge,has_mobile
+C,1,გრაპა,+995577299399,+995577299399,,,bia.ge,has_mobile
+C,1,დია კონსტრაქშენ კომპანი,+995593716276,+995593716276,,,bia.ge,has_mobile
+C,1,დიმისი,+995599465577,+995599465577,,,bia.ge,has_mobile
+C,1,დიმიტრი თედიაშვილი,+995591504121,+995591504121,,,bia.ge,has_mobile
+C,1,დიმიტრი ნოზაძე,+995544443443,+995544443443,,,bia.ge,has_mobile
+C,1,ევრა 2020,+995599857180,+995599857180,,,bia.ge,has_mobile
+C,1,ელექტროქსელმშენი,+995551820001,+995551820001,,,bia.ge,has_mobile
+C,1,ვაჟა ზაქარაძე,+995558604011,+995558604011,,,bia.ge,has_mobile
+C,1,ველ ბილთი,+995574450033,+995574450033,,,bia.ge,has_mobile
+C,1,ვესტ,+995598093006,+995598093006,,,bia.ge,has_mobile
+C,1,ზურაბი მგელაძე,+995555904112,+995555904112,,,bia.ge,has_mobile
+C,1,თ.ლ.თ,+995322345499,+995322345499,,,bia.ge,has_landline
+C,1,თემური ბერიაშვილი,+995571012709,+995571012709,,,bia.ge,has_mobile
+C,1,თორნიკე დავლაძე,+995558636060,+995558636060,,,bia.ge,has_mobile
+C,1,იერი,+995577999944,+995577999944,,,bia.ge,has_mobile
+C,1,ინფრაკონ,+995591948480,+995591948480,,,bia.ge,has_mobile
+C,1,იოსებ გოგოლაძე,+995598598532,+995598598532,,,bia.ge,has_mobile
+C,1,კად-მ ჯგუფი,+995598768989,+995598768989,,,bia.ge,has_mobile
+C,1,კაპიტონ კაკულია,+995599107547,+995599107547,,,bia.ge,has_mobile
+C,1,კახაბერ ოქრუაშვილი,+995598596300,+995598596300,,,bia.ge,has_mobile
+C,1,კერაკო,+995593484816,+995593484816,,,bia.ge,has_mobile
+C,1,კლასი,+995577525618,+995577525618,,,bia.ge,has_mobile
+C,1,კოდი 2019,+995595308589,+995595308589,,,bia.ge,has_mobile
+C,1,კოლოსეო არენა,+995577158825,+995577158825,,,bia.ge,has_mobile
+C,1,კრწანისი 2019,+995599563589,+995599563589,,,bia.ge,has_mobile
+C,1,ლდ ესთეითს,+995591400813,+995591400813,,,bia.ge,has_mobile
+C,1,ლექს ბილდინგი,+995598322234,+995598322234,,,bia.ge,has_mobile
+C,1,ლმ,+995571643344,+995571643344,,,bia.ge,has_mobile
+C,1,მასტერ სერვისი,+995555111018,+995555111018,,,bia.ge,has_mobile
+C,1,მასტერი,+995593273372,+995593273372,,,bia.ge,has_mobile
+C,1,მოურავი,+995591014083,+995591014083,,,bia.ge,has_mobile
+C,1,მშენებელი 2016,+995599805228,+995599805228,,,bia.ge,has_mobile
+C,1,მშენებელი 7,+995577554422,+995577554422,,,bia.ge,has_mobile
+C,1,მშენებლობა და პროექტირება,+995596888777,+995596888777,,,bia.ge,has_mobile
+C,1,ნუგო 3000,+995593572471,+995593572471,,,bia.ge,has_mobile
+C,1,ოლიმპო,+995599554411,+995599554411,,,bia.ge,has_mobile
+C,1,ოლტა,+995551528652,+995551528652,,,bia.ge,has_mobile
+C,1,პავლე სვიანაძე,+995557400873,+995557400873,,,bia.ge,has_mobile
+C,1,პერსპექტივა,+995599710110,+995599710110,,,bia.ge,has_mobile
+C,1,პლაზმა,+995595275527,+995595275527,,,bia.ge,has_mobile
+C,1,პროგრესი,+995597727297,+995597727297,,,bia.ge,has_mobile
+C,1,რაზდანი,+995598707874,+995598707874,,,bia.ge,has_mobile
+C,1,რიონი 2015,+995551284422,+995551284422,,,bia.ge,has_mobile
+C,1,სამშენებლო კომპანია დავითი,+995593676208,+995593676208,,,bia.ge,has_mobile
+C,1,სამშენებლო კომპანია თელავი,+995579131344,+995579131344,,,bia.ge,has_mobile
+C,1,სერვის ჯორჯია,+995599809029,+995599809029,,,bia.ge,has_mobile
+C,1,სითი რეალ ისთეით,+995597211111,+995597211111,,,bia.ge,has_mobile
+C,1,სოლო თბილისი,+995599333888,+995599333888,,,bia.ge,has_mobile
+C,1,უჯაბნი,+995511148080,+995511148080,,,bia.ge,has_mobile
+C,1,ფიცხა,+995599488844,+995599488844,,,bia.ge,has_mobile
+C,1,ქართლი,+995599793830,+995599793830,,,bia.ge,has_mobile
+C,1,ქეი ენდ ეს,+995593125929,+995593125929,,,bia.ge,has_mobile
+C,1,შაქრო მოსიძე,+995591054842,+995591054842,,,bia.ge,has_mobile
+C,1,შენება +,+995591100899,+995591100899,,,bia.ge,has_mobile
+C,1,შვედური,+995598454709,+995598454709,,,bia.ge,has_mobile
+C,1,შოთა კვიჟინაძე,+995598140324,+995598140324,,,bia.ge,has_mobile
+C,1,შორენა თაბაგარი,+995577141586,+995577141586,,,bia.ge,has_mobile
+C,1,ჯენერეიშენ ბილდერს ჯბ საქართველო,+995599464544,+995599464544,,,bia.ge,has_mobile
+C,1,ჯეო ქონსთრაქშენი,+995595711115,+995595711115,,,bia.ge,has_mobile
+C,1,ჯი ბი ჯი,+995595901446,+995595901446,,,bia.ge,has_mobile
+C,1,აგრ,+995568891151,+995568891151,,,bia.ge,has_mobile
+C,1,ავანგარდ ბაი ორბი,+995577540100,+995577540100,,,bia.ge,has_mobile
+C,1,ალექსი ვარძელაშვილი,+995598891974,+995598891974,,,bia.ge,has_mobile
+C,1,ალტაირი - XXI,+995577967966,+995577967966,,,bia.ge,has_mobile
+C,1,აღმაშენებელი-XXI,+995595584721,+995595584721,,,bia.ge,has_mobile
+C,1,ახალი სამშენებლო კომპანია,+995577121480,+995577121480,,,bia.ge,has_mobile
+C,1,ბაგრატიონი-26,+995558830550,+995558830550,,,bia.ge,has_mobile
+C,1,ბერიკა,+995551134567,+995551134567,,,bia.ge,has_mobile
+C,1,ბექა ტოკლიკიშვილი,+995599198200,+995599198200,,,bia.ge,has_mobile
+C,1,ბულატი,+995568984949,+995568984949,,,bia.ge,has_mobile
+C,1,ბულვარ გარდენ ქი,+995599189104,+995599189104,,,bia.ge,has_mobile
+C,1,გ.ნ.,+995599457989,+995599457989,,,bia.ge,has_mobile
+C,1,გდმ ჰოლდინგი,+995558600070,+995558600070,,,bia.ge,has_mobile
+C,1,გიგა გოგია,+995598203980,+995598203980,,,bia.ge,has_mobile
+C,1,გრანდ კონცეპტი,+995555555539,+995555555539,,,bia.ge,has_mobile
+C,1,გუჯა,+995551267489,+995551267489,,,bia.ge,has_mobile
+C,1,დანი ქონსთრაქშენ,+995577533337,+995577533337,,,bia.ge,has_mobile
+C,1,დოლერიტი,+995598277266,+995598277266,,,bia.ge,has_mobile
+C,1,ეი+ბილდინგსი,+995577213344,+995577213344,,,bia.ge,has_mobile
+C,1,ე–კონი,+995599151881,+995599151881,,,bia.ge,has_mobile
+C,1,ელია,+995599229346,+995599229346,,,bia.ge,has_mobile
+C,1,ზაზა 72,+995599305720,+995599305720,,,bia.ge,has_mobile
+C,1,თელა,+995592773380,+995592773380,,,bia.ge,has_mobile
+C,1,ივსინო,+995599091615,+995599091615,,,bia.ge,has_mobile
+C,1,კარიბჭე-2015,+995599196725,+995599196725,,,bia.ge,has_mobile
+C,1,ლ.მ.ნ. ჯგუფი,+995595910021,+995595910021,,,bia.ge,has_mobile
+C,1,ლაზარე,+995574222209,+995574222209,,,bia.ge,has_mobile
+C,1,ლეგია,+995599344711,+995599344711,,,bia.ge,has_mobile
+C,1,ლევან ჩხეიძე,+995551252015,+995551252015,,,bia.ge,has_mobile
+C,1,მასტერ ზუგდიდი,+995568066056,+995568066056,,,bia.ge,has_mobile
+C,1,მლტ გროუფ,+995597127729,+995597127729,,,bia.ge,has_mobile
+C,1,მშენებელი 2020,+995577048314,+995577048314,,,bia.ge,has_mobile
+C,1,მშენებელი-2020,+995599267424,+995599267424,,,bia.ge,has_mobile
+C,1,მწვანე სახლი სამშენებლო,+995599471886,+995599471886,,,bia.ge,has_mobile
+C,1,ნიუ ბილდერსი,+995599789234,+995599789234,,,bia.ge,has_mobile
+C,1,ნიუ დეველოპერი,+995597102120,+995597102120,,,bia.ge,has_mobile
+C,1,ომიკრონი,+995551156655,+995551156655,,,bia.ge,has_mobile
+C,1,რამაზ კაჭკაჭაშვილი,+995593228905,+995593228905,,,bia.ge,has_mobile
+C,1,როუდ ბილდერი,+995555758907,+995555758907,,,bia.ge,has_mobile
+C,1,საჩი,+995593310114,+995593310114,,,bia.ge,has_mobile
+C,1,სებ გრუპი,+995579071071,+995579071071,,,bia.ge,has_mobile
+C,1,სტანდარტი B,+995599301078,+995599301078,,,bia.ge,has_mobile
+C,1,სფრინგ კონსტრაქშენი,+995599199933,+995599199933,,,bia.ge,has_mobile
+C,1,სხალთა,+995599462109,+995599462109,,,bia.ge,has_mobile
+C,1,ტრანს ფოურ,+995596602040,+995596602040,,,bia.ge,has_mobile
+C,1,უნისტ ჯორჯია,+995322323500,+995322323500,,,bia.ge,has_landline
+C,1,შალვა აფრიდონიძე,+995599348024,+995599348024,,,bia.ge,has_mobile
+C,1,ხარისხი,+995592315083,+995592315083,,,bia.ge,has_mobile
+C,1,ჯი ეს პი,+995558717770,+995558717770,,,bia.ge,has_mobile
+C,1,ალუდა დაიაური,+995593657657,+995593657657,,,bia.ge,has_mobile
+C,1,არეა ენთერფრაისის,+995322110108,+995322110108,,,bia.ge,has_landline
+C,1,ახალი კონსტრუქცია,+995571183830,+995571183830,,,bia.ge,has_mobile
+C,1,გზების და მშენებლობის ჯგუფი,+995597885512,+995597885512,,,bia.ge,has_mobile
+C,1,გრინ ფას,+995593010990,+995593010990,,,bia.ge,has_mobile
+C,1,დიოზერი,+995599512163,+995599512163,,,bia.ge,has_mobile
+C,1,ელიტ ბილდინგ კომპანი,+995511111147,+995511111147,,,bia.ge,has_mobile
+C,1,ენ ჯი კონსტრაქშენ,+995577509503,+995577509503,,,bia.ge,has_mobile
+C,1,ერქვანი,+995571254565,+995571254565,,,bia.ge,has_mobile
+C,1,იმერეთი2017,+995555419571,+995555419571,,,bia.ge,has_mobile
+C,1,იქს კვადრატი,+995577508078,+995577508078,,,bia.ge,has_mobile
+C,1,კ და გ,+995577224402,+995577224402,,,bia.ge,has_mobile
+C,1,ლდ. გროუპ,+995593442700,+995593442700,,,bia.ge,has_mobile
+C,1,მარ–41,+995571570391,+995571570391,,,bia.ge,has_mobile
+C,1,მარკა,+995557179191,+995557179191,,,bia.ge,has_mobile
+C,1,ნიკოლოზი აბრამიშვილი,+995551910891,+995551910891,,,bia.ge,has_mobile
+C,1,ნიუ ჯგუფი,+995579767699,+995579767699,,,bia.ge,has_mobile
+C,1,პრაგმა2,+995599160818,+995599160818,,,bia.ge,has_mobile
+C,1,სამება,+995577402050,+995577402050,,,bia.ge,has_mobile
+C,1,უსაფრთხო გზა,+995555522299,+995555522299,,,bia.ge,has_mobile
+C,1,ფაინ შალეს,+995599807100,+995599807100,,,bia.ge,has_mobile
+C,1,ქართული სახლი,+995599310410,+995599310410,,,bia.ge,has_mobile
+C,1,ჩიხურა,+995551355335,+995551355335,,,bia.ge,has_mobile
+C,1,ავალონ ჯგუფი,+995557777977,+995557777977,,,bia.ge,has_mobile
+C,1,ბილდინგ გრუპ პარტნიორი,+995555262812,+995555262812,,,bia.ge,has_mobile
+C,1,გბგ უნივერსალ,+995557500891,+995557500891,,,bia.ge,has_mobile
+C,1,გლდანი-ვარკეთილის ურბანული განვითარების ფონდი,+995599387615,+995599387615,,,bia.ge,has_mobile
+C,1,გრანდ თაუერი,+995597616119,+995597616119,,,bia.ge,has_mobile
+C,1,ევრაზიან ბილდერს,+995571711211,+995571711211,,,bia.ge,has_mobile
+C,1,ელეფანტს,+995577105787,+995577105787,,,bia.ge,has_mobile
+C,1,ვახტანგი დალაქიშვილი,+995599945311,+995599945311,,,bia.ge,has_mobile
+C,1,თდდ,+995599288203,+995599288203,,,bia.ge,has_mobile
+C,1,თომსონ ენდ სანს,+995599461010,+995599461010,,,bia.ge,has_mobile
+C,1,ლაქშერი ჰაუს,+995579009930,+995579009930,,,bia.ge,has_mobile
+C,1,ლიკ დეველოპმენტი,+995511144677,+995511144677,,,bia.ge,has_mobile
+C,1,ნუგზარი ჯიბუტი,+995599523628,+995599523628,,,bia.ge,has_mobile
+C,1,ობონატო,+995551011101,+995551011101,,,bia.ge,has_mobile
+C,1,სხალთა 2007,+995555942188,+995555942188,,,bia.ge,has_mobile
+C,1,უაით გრუფი,+995555684111,+995555684111,,,bia.ge,has_mobile
+C,1,წალენჯიხის საგზაო სამმართველო,+995599119994,+995599119994,,,bia.ge,has_mobile
+C,1,ჯორჯიანვეი,+995577188808,+995577188808,,,bia.ge,has_mobile
+C,1,ჰიდრომშენი,+995599502600,+995599502600,,,bia.ge,has_mobile
+C,1,ბილდინგი,+995595325005,+995595325005,,,bia.ge,has_mobile
+C,1,მშენებელი აგარა,+995596405757,+995596405757,,,bia.ge,has_mobile
+C,1,ნიუკონსი,+995577158804,+995577158804,,,bia.ge,has_mobile
+C,1,ჩხაო,+995571444433,+995571444433,,,bia.ge,has_mobile
+C,1,ნოვიტეკი,+995599155551,+995599155551,,,bia.ge,has_mobile
+C,1,ხრამის კასკადი,+995551755757,+995551755757,,,bia.ge,has_mobile
+C,1,ბენუ,+995599276596,+995599276596,,,bia.ge,has_mobile
+C,1,სქაი ჰაუსი ვარკეთილი,+995322403403,+995322403403,,,bia.ge,has_landline
+C,1,ბეღლეთი 2023,+995598096364,+995598096364,,,bia.ge,has_mobile
+C,1,ნარინე სუკიასიან - სათხა ნეტ,+995574430102,+995574430102,,,bia.ge,has_mobile
+C,1,უნივერსალი,+995 599 558601,+995599558601,,,bia.ge,has_mobile
+C,1,სკალა ვან ჰოლდინგ,+995577505200,+995577505200,,,bia.ge,has_mobile
+C,1,ჩვენი ჯგუფი,+995555198318,+995555198318,,,bia.ge,has_mobile
+C,1,პილარ ქონსთრაქშენ,+995555980983,+995555980983,,,bia.ge,has_mobile
+C,1,ალბი კონსტრაქმშენი,+995599679675,+995599679675,,,bia.ge,has_mobile
+C,1,ენდიჯი გრუპი,+995555470941,+995555470941,,,bia.ge,has_mobile
+C,1,ჯრუჭი,+995599555586,+995599555586,,,bia.ge,has_mobile
+C,1,ინტერ კონსტრაქშენი,+995571977677,+995571977677,,,bia.ge,has_mobile
+C,1,გები კონსტრაქშენი,+995595992996,+995595992996,,,bia.ge,has_mobile
+C,1,იქსი,+995558100051,+995558100051,,,bia.ge,has_mobile
+C,1,უნივერსალ ქონსთრაქშენი,+995555158855,+995555158855,,,bia.ge,has_mobile
+C,1,აიშენე სახლი,+995598929993,+995598929993,,,bia.ge,has_mobile
+C,1,ვერესთან,+995577710209,+995577710209,,,bia.ge,has_mobile
+C,1,არჯიესეს,+995592202244,+995592202244,,,bia.ge,has_mobile
+C,1,ვრ კონტრაქშენი,+995599261111,+995599261111,,,bia.ge,has_mobile
+C,1,ლიდერ-ბილდინგი 2022,+995557939607,+995557939607,,,bia.ge,has_mobile
+C,1,ევრო ჯგუფი,+995577344909,+995577344909,,,bia.ge,has_mobile
+C,1,მეგა უნივერსალი,+995579430717,+995579430717,,,bia.ge,has_mobile
+C,1,ნიუ დეველოპმენტ,+995598090920,+995598090920,,,bia.ge,has_mobile
+C,1,სარ–კო,+995593646270,+995593646270,,,bia.ge,has_mobile
+C,1,გ-თ კომპანი,+995579444493,+995579444493,,,bia.ge,has_mobile
+C,1,ერა–ჯგუფი,+995593600009,+995593600009,,,bia.ge,has_mobile
+C,1,რეტრო დეველოპმენტი,+995599214921,+995599214921,,,bia.ge,has_mobile
+C,1,დუდუ +,+995592025069,+995592025069,,,bia.ge,has_mobile
+C,1,იბერია 21,+995431277839,+995431277839,,,bia.ge,has_landline
+C,1,ურბან დეველოპმენტ,+995557333233,+995557333233,,,bia.ge,has_mobile
+C,1,777,+995599747413,+995599747413,,,bia.ge,has_mobile
+C,1,ზეგაანი,+995551520512,+995551520512,,,bia.ge,has_mobile
+C,1,თელაგი,+995599533455,+995599533455,,,bia.ge,has_mobile
+C,1,თი ენდ გრუპ,+995599743089,+995599743089,,,bia.ge,has_mobile
+C,1,იმკა,+995597956699,+995597956699,,,bia.ge,has_mobile
+C,1,ლეგა,+995555513282,+995555513282,,,bia.ge,has_mobile
+C,1,ნი–მარი,+995555590255,+995555590255,,,bia.ge,has_mobile
+C,1,სტრატეგია,+995579933351,+995579933351,,,bia.ge,has_mobile
+C,1,საირმე პალასი,+995577777430,+995577777430,,,bia.ge,has_mobile
+C,1,თექეშინლერი – ს ზუგდიდის ფილიალი,+995599909203,+995599909203,,,bia.ge,has_mobile
+C,1,სამშენებლო კომპანია ნიკე,+995577111213,+995577111213,,,bia.ge,has_mobile
+C,1,ნიუსტაილი,+995599260419,+995599260419,,,bia.ge,has_mobile
+C,1,121–ა,+995593336388,+995593336388,,,bia.ge,has_mobile
+C,1,AGRI SBS GROUP,+995579555605,+995579555605,,,bia.ge,has_mobile
+C,1,BATUMI-CITY,+995422270100,+995422270100,,,bia.ge,has_landline
+C,1,C.C. Georgia,+995555386110,+995555386110,,,bia.ge,has_mobile
+C,1,DT ENGINEERING,+995593937006,+995593937006,,,bia.ge,has_mobile
+C,1,DUDCONSTRUCTION,+995322225273,+995322225273,,,bia.ge,has_landline
+C,1,ESMA TRADING,+995591011207,+995591011207,,,bia.ge,has_mobile
+C,1,Georgian Greek Construction & Trading co,+995595223355,+995595223355,,,bia.ge,has_mobile
+C,1,GEO–მშენი 2012,+995577539211,+995577539211,,,bia.ge,has_mobile
+C,1,GMG,+995599422886,+995599422886,,,bia.ge,has_mobile
+C,1,Green Cape,+995595077770,+995595077770,,,bia.ge,has_mobile
+C,1,Hepesto,+995568139944,+995568139944,,,bia.ge,has_mobile
+C,1,IMPROVIZATOR იმპროვიზატორი,+995592576428,+995592576428,,,bia.ge,has_mobile
+C,1,IND-GEO TRADING GROUP,+995597255298,+995597255298,,,bia.ge,has_mobile
+C,1,LG კაპიტალი,+995593599559,+995593599559,,,bia.ge,has_mobile
+C,1,M & B,+995599245592,+995599245592,,,bia.ge,has_mobile
+C,1,MLG ქონსთრაქშენ გრუპ,+995599160207,+995599160207,,,bia.ge,has_mobile
+C,1,NAREM CBM,+995422273701,+995422273701,,,bia.ge,has_landline
+C,1,NEW SPACE ნიუ სპეის,+995599901532,+995599901532,,,bia.ge,has_mobile
+C,1,PHOENIX,+995322931001,+995322931001,,,bia.ge,has_landline
+C,1,ProCon,+995322306977,+995322306977,,,bia.ge,has_landline
+C,1,RSP–40,+995322323351,+995322323351,,,bia.ge,has_landline
+C,1,T N LIGHT,+995557338838,+995557338838,,,bia.ge,has_mobile
+C,1,TS Company,+995322432644,+995322432644,,,bia.ge,has_landline
+C,1,Tur.az,+995555682822,+995555682822,,,bia.ge,has_mobile
+C,1,XXII საუკუნე,+995322181452,+995322181452,,,bia.ge,has_landline
+C,1,XXI–საუკუნე,+995551801765,+995551801765,,,bia.ge,has_mobile
+C,1,ა.მ.შ. 001,+995551902790,+995551902790,,,bia.ge,has_mobile
+C,1,აგ ენერგო,+995571323223,+995571323223,,,bia.ge,has_mobile
+C,1,აგრაფი,+995574540077,+995574540077,,,bia.ge,has_mobile
+C,1,ადამ–ინტერნაციონალი,+995574555605,+995574555605,,,bia.ge,has_mobile
+C,1,ავტოგზა – 2000,+995574203325,+995574203325,,,bia.ge,has_mobile
+C,1,აირი 2011,+995599143877,+995599143877,,,bia.ge,has_mobile
+C,1,აკო,+995551245927,+995551245927,,,bia.ge,has_mobile
+C,1,არგო,+995322371999,+995322371999,,,bia.ge,has_landline
+C,1,არქმშენექსპერტი,+995597798044,+995597798044,,,bia.ge,has_mobile
+C,1,არჩეული,+995579973737,+995579973737,,,bia.ge,has_mobile
+C,1,აფხაზეთი 2012,+995599158608,+995599158608,,,bia.ge,has_mobile
+C,1,ახალი მსოფლიო NW,+995599565815,+995599565815,,,bia.ge,has_mobile
+C,1,ბაბანური,+995557741447,+995557741447,,,bia.ge,has_mobile
+C,1,ბათუმი პლაზა,+995422277204,+995422277204,,,bia.ge,has_landline
+C,1,ბამა,+995599570197,+995599570197,,,bia.ge,has_mobile
+C,1,ბასა + 2008,+995599788897,+995599788897,,,bia.ge,has_mobile
+C,1,ბატ–ბილდერი,+995595858844,+995595858844,,,bia.ge,has_mobile
+C,1,ბენეტ & ბენეტ კაპიტალი,+995599222241,+995599222241,,,bia.ge,has_mobile
+C,1,ბერკო,+995591111710,+995591111710,,,bia.ge,has_mobile
+C,1,ბოვი,+995599207090,+995599207090,,,bia.ge,has_mobile
+C,1,ბონესერ ტრეიდინგ ლიმიტედის წარმომადგენლობა თბილისში,+995571127878,+995571127878,,,bia.ge,has_mobile
+C,1,ბუკი,+995571032017,+995571032017,,,bia.ge,has_mobile
+C,1,გ. და მ.,+995595558448,+995595558448,,,bia.ge,has_mobile
+C,1,გეგი,+995557939595,+995557939595,,,bia.ge,has_mobile
+C,1,გიო 2007,+995514705500,+995514705500,,,bia.ge,has_mobile
+C,1,გიო&კომპანია XXI,+995551404090,+995551404090,,,bia.ge,has_mobile
+C,1,გიროს +,+995593261622,+995593261622,,,bia.ge,has_mobile
+C,1,გლობალმშენი,+995574633111,+995574633111,,,bia.ge,has_mobile
+C,1,გორმშენი–2,+995591247295,+995591247295,,,bia.ge,has_mobile
+C,1,გრი–ბილდინგ,+995599644535,+995599644535,,,bia.ge,has_mobile
+C,1,გრუპპო ვია,+995599581818,+995599581818,,,bia.ge,has_mobile
+C,1,დ. გ. ევროკომპანი,+995322383140,+995322383140,,,bia.ge,has_landline
+C,1,დაირი 2013,+995558217272,+995558217272,,,bia.ge,has_mobile
+C,1,დარიალი–55,+995599216497,+995599216497,,,bia.ge,has_mobile
+C,1,დაჩი,+995599167159,+995599167159,,,bia.ge,has_mobile
+C,1,დედაბოძი,+995322432694,+995322432694,,,bia.ge,has_landline
+C,1,დიეს გრუპ,+995599222409,+995599222409,,,bia.ge,has_mobile
+C,1,დრიმ ჰაუს,+995599360693,+995599360693,,,bia.ge,has_mobile
+C,1,ეგრისი 11,+995413277780,+995413277780,,,bia.ge,has_landline
+C,1,ევრომშენი 2014,+995322104890,+995322104890,,,bia.ge,has_landline
+C,1,ევროფასადი,+995597227886,+995597227886,,,bia.ge,has_mobile
+C,1,ელიტ +,+995598910007,+995598910007,,,bia.ge,has_mobile
+C,1,ენკი,+995577411603,+995577411603,,,bia.ge,has_mobile
+C,1,ერ–თი–ჯი,+995322940549,+995322940549,,,bia.ge,has_landline
+C,1,ერთობა ჯორჯია,+995577494380,+995577494380,,,bia.ge,has_mobile
+C,1,ექსონი,+995322987673,+995322987673,,,bia.ge,has_landline
+C,1,ვეფა,+995555581788,+995555581788,,,bia.ge,has_mobile
+C,1,ზაგელ XXI,+995599535467,+995599535467,,,bia.ge,has_mobile
+C,1,ზაზა,+995599755584,+995599755584,,,bia.ge,has_mobile
+C,1,ზურმუხტი,+995599500650,+995599500650,,,bia.ge,has_mobile
+C,1,თანი,+995599636350,+995599636350,,,bia.ge,has_mobile
+C,1,თი ჯგუფი,+995599553588,+995599553588,,,bia.ge,has_mobile
+C,1,იბერია სითი,+995322532111,+995322532111,,,bia.ge,has_landline
+C,1,იკა–97,+995551563553,+995551563553,,,bia.ge,has_mobile
+C,1,იმედი,+995557000427,+995557000427,,,bia.ge,has_mobile
+C,1,იმერეთი +,+995591306060,+995591306060,,,bia.ge,has_mobile
+C,1,ინტურისტმშენი,+995577408235,+995577408235,,,bia.ge,has_mobile
+C,1,იოტა ჯგუფი,+995577716903,+995577716903,,,bia.ge,has_mobile
+C,1,კავალერი,+995599562226,+995599562226,,,bia.ge,has_mobile
+C,1,კანტი,+995577444749,+995577444749,,,bia.ge,has_mobile
+C,1,კარკასი XXI,+995599485777,+995599485777,,,bia.ge,has_mobile
+C,1,კახინვესტი,+995555333393,+995555333393,,,bia.ge,has_mobile
+C,1,კნდ–10,+995555175525,+995555175525,,,bia.ge,has_mobile
+C,1,კოლხეთი გრუპი,+995593604017,+995593604017,,,bia.ge,has_mobile
+C,1,კომპანია კ 2,+995597440226,+995597440226,,,bia.ge,has_mobile
+C,1,კომფორტ-კომუნიკაცია,+995555373755,+995555373755,,,bia.ge,has_mobile
+C,1,კონდა,+995322958595,+995322958595,,,bia.ge,has_landline
+C,1,კონკა,+995595302302,+995595302302,,,bia.ge,has_mobile
+C,1,კორდი 2009,+995599277749,+995599277749,,,bia.ge,has_mobile
+C,1,ლათინ ჯორჯიან ინტერნაციონალ,+995599262568,+995599262568,,,bia.ge,has_mobile
+C,1,ლამფალაში,+995599385318,+995599385318,,,bia.ge,has_mobile
+C,1,ლანორი,+995555030101,+995555030101,,,bia.ge,has_mobile
+C,1,ლანჩხუთი–მშენებელი,+995571774545,+995571774545,,,bia.ge,has_mobile
+C,1,ლაშა 2012,+995579554902,+995579554902,,,bia.ge,has_mobile
+C,1,ლიბ კონსტრაქშენი,+995577999828,+995577999828,,,bia.ge,has_mobile
+C,1,ლიბრა,+995322313022,+995322313022,,,bia.ge,has_landline
+C,1,ლიდერ დეველოპმენდი,+995592353005,+995592353005,,,bia.ge,has_mobile
+C,1,ლიდერ_ბილდერი,+995555159926,+995555159926,,,bia.ge,has_mobile
+C,1,ლომისა,+995322986613,+995322986613,,,bia.ge,has_landline
+C,1,ლუკა 2004,+995595771807,+995595771807,,,bia.ge,has_mobile
+C,1,ლუნარ გლობე,+995577545625,+995577545625,,,bia.ge,has_mobile
+C,1,მ.კ და კომპანია,+995568829395,+995568829395,,,bia.ge,has_mobile
+C,1,მათე–2015,+995577282009,+995577282009,,,bia.ge,has_mobile
+C,1,მარიამი 2009,+995577710060,+995577710060,,,bia.ge,has_mobile
+C,1,მარს ბილდინგს,+995555371283,+995555371283,,,bia.ge,has_mobile
+C,1,მაღლივმშენი,+995322533568,+995322533568,,,bia.ge,has_landline
+C,1,მეგა პლიუსი,+995592777797,+995592777797,,,bia.ge,has_mobile
+C,1,მედიმექსი,+995577461411,+995577461411,,,bia.ge,has_mobile
+C,1,მემორიალი,+995598251214,+995598251214,,,bia.ge,has_mobile
+C,1,მინი 77,+995599170268,+995599170268,,,bia.ge,has_mobile
+C,1,მოდერნ ბილდინგი,+995555400661,+995555400661,,,bia.ge,has_mobile
+C,1,მოდერნ სითი,+995570107222,+995570107222,,,bia.ge,has_mobile
+C,1,მშენებელი 2006,+995555756161,+995555756161,,,bia.ge,has_mobile
+C,1,მშენებელი 2010,+995322904315,+995322904315,,,bia.ge,has_landline
+C,1,მშენებელი 2014,+995592228090,+995592228090,,,bia.ge,has_mobile
+C,1,მწვანე გზა,+995558790039,+995558790039,,,bia.ge,has_mobile
+C,1,ნანაკო,+995577752929,+995577752929,,,bia.ge,has_mobile
+C,1,ნარდი,+995598407610,+995598407610,,,bia.ge,has_mobile
+C,1,ნიუ აჭარა,+995597800305,+995597800305,,,bia.ge,has_mobile
+C,1,ნიუ ბილდინგ გრუპ,+995322182896,+995322182896,,,bia.ge,has_landline
+C,1,ნიუ ვეის,+995557442240,+995557442240,,,bia.ge,has_mobile
+C,1,ნიუ ლაიფ,+995593511015,+995593511015,,,bia.ge,has_mobile
+C,1,ნიუ–კერია,+995597266995,+995597266995,,,bia.ge,has_mobile
+C,1,ნოზა +,+995593654585,+995593654585,,,bia.ge,has_mobile
+C,1,ოაზისი 2012,+995589788800,+995589788800,,,bia.ge,has_mobile
+C,1,ორიენტი,+995599565142,+995599565142,,,bia.ge,has_mobile
+C,1,პარმა,+995322301031,+995322301031,,,bia.ge,has_landline
+C,1,პირველი–მ,+995593957400,+995593957400,,,bia.ge,has_mobile
+C,1,პორტო Fim,+995571150303,+995571150303,,,bia.ge,has_mobile
+C,1,რესტავრატორი 1969,+995322574595,+995322574595,,,bia.ge,has_landline
+C,1,საბა გეორგია,+995571166665,+995571166665,,,bia.ge,has_mobile
+C,1,სამთა,+995595383859,+995595383859,,,bia.ge,has_mobile
+C,1,სამშენებლო კომპანია რეფა,+995599749698,+995599749698,,,bia.ge,has_mobile
+C,1,სამშენებლო–სამონტაჟო საექსპლუატაციო საწარმო ჩელიაბინსკტრანსსიგნალი–ს საქართველოს ფილიალი,+995579079494,+995579079494,,,bia.ge,has_mobile
+C,1,სანი მ,+995322953181,+995322953181,,,bia.ge,has_landline
+C,1,საქართველოს განახლებადი ენერგეტიკის კომპანია,+995597202014,+995597202014,,,bia.ge,has_mobile
+C,1,საყრდენი კედელი,+995599429191,+995599429191,,,bia.ge,has_mobile
+C,1,სეგმენტი,+995568000080,+995568000080,,,bia.ge,has_mobile
+C,1,სერვის ჯგუფი 2007,+995574477575,+995574477575,,,bia.ge,has_mobile
+C,1,სიდა,+995599052729,+995599052729,,,bia.ge,has_mobile
+C,1,სტარ ლაინი,+995597277072,+995597277072,,,bia.ge,has_mobile
+C,1,სფინქსი,+995599464122,+995599464122,,,bia.ge,has_mobile
+C,1,სწრაფ მშენი,+995593305849,+995593305849,,,bia.ge,has_mobile
+C,1,ტრანს ინვესტ კაპიტალ–სამშენებლო მენეჯმენტი,+995322373210,+995322373210,,,bia.ge,has_landline
+C,1,ფილე,+995 599 196075,+995599196075,,,bia.ge,has_mobile
+C,1,ფრეიმი,+995322919500,+995322919500,,,bia.ge,has_landline
+C,1,ფრონტონი,+995599153306,+995599153306,,,bia.ge,has_mobile
+C,1,ქლინ სერვისი,+995599904094,+995599904094,,,bia.ge,has_mobile
+C,1,შმაგი,+995551555454,+995551555454,,,bia.ge,has_mobile
+C,1,შტრაბაგ ეი ჯი–ს ფილიალი საქართველოში,+995599484825,+995599484825,,,bia.ge,has_mobile
+C,1,ცისკარი 2015,+995595557116,+995595557116,,,bia.ge,has_mobile
+C,1,ძმები,+995571147570,+995571147570,,,bia.ge,has_mobile
+C,1,წყნეთი ჰაუსი,+995322202244,+995322202244,,,bia.ge,has_landline
+C,1,ჯეო ჯგუფი,+995551129000,+995551129000,,,bia.ge,has_mobile
+C,1,ჯეობილდ,+995790950001,+995790950001,,,bia.ge,has_landline
+C,1,ჯეოსერვისი+,+995599568849,+995599568849,,,bia.ge,has_mobile
+C,1,ჯი დი ემ კომპანი,+995599166088,+995599166088,,,bia.ge,has_mobile
+C,1,ჯი თი ბი,+995597109793,+995597109793,,,bia.ge,has_mobile
+C,1,ჯი თი სი გრუფი,+995598330064,+995598330064,,,bia.ge,has_mobile
+C,1,ჯიჯი და მეგობრები,+995593289073,+995593289073,,,bia.ge,has_mobile
+C,1,ჯორჯიან აირონ ქინგ,+995599982982,+995599982982,,,bia.ge,has_mobile
+C,1,ჯორჯიან კომფორტ გრუპი,+995597717731,+995597717731,,,bia.ge,has_mobile
+C,1,ჰაუსარტ სერვისი,+995577113715,+995577113715,,,bia.ge,has_mobile
+C,1,ჰოტელ ოაზისი,+995322472233,+995322472233,,,bia.ge,has_landline
+C,1,GEO-PROFILE GROUP,+995599373755,+995599373755,,,bia.ge,has_mobile
+C,1,Georgia Invest,+995599560302,+995599560302,,,bia.ge,has_mobile
+C,1,Georgian Genesis,+995577929097,+995577929097,,,bia.ge,has_mobile
+C,1,KOLHIDELI,+995555322202,+995555322202,,,bia.ge,has_mobile
+C,1,Magiran company,+995592550855,+995592550855,,,bia.ge,has_mobile
+C,1,MAR-KES,+995571906212,+995571906212,,,bia.ge,has_mobile
+C,1,NEW LAZIKA GROUP,+995571761313,+995571761313,,,bia.ge,has_mobile
+C,1,Promer +,+995577435050,+995577435050,,,bia.ge,has_mobile
+C,1,ალბე 777,+995557441505,+995557441505,,,bia.ge,has_mobile
+C,1,ალიონი–99,+995595503657,+995595503657,,,bia.ge,has_mobile
+C,1,არმაზი,+995322295433,+995322295433,,,bia.ge,has_landline
+C,1,არსი–ბათუმი,+995322251904,+995322251904,,,bia.ge,has_landline
+C,1,ბარათა ჯგუფი,+995592112590,+995592112590,,,bia.ge,has_mobile
+C,1,ბოვან,+995599193041,+995599193041,,,bia.ge,has_mobile
+C,1,ბუხარა,+995593361876,+995593361876,,,bia.ge,has_mobile
+C,1,გთ კომპანია,+995595636336,+995595636336,,,bia.ge,has_mobile
+C,1,გიო გრუპი,+995557005154,+995557005154,,,bia.ge,has_mobile
+C,1,გონი 2007,+995322721733,+995322721733,,,bia.ge,has_landline
+C,1,ეი ჯი ემ მშენჯგუფი,+995322538419,+995322538419,,,bia.ge,has_landline
+C,1,ენ.ბი.გრუპ,+995591016121,+995591016121,,,bia.ge,has_mobile
+C,1,ვილბრუკ მენეჯმენტ ჯორჯია,+995596221515,+995596221515,,,bia.ge,has_mobile
+C,1,ზარი,+995599795933,+995599795933,,,bia.ge,has_mobile
+C,1,ზუგომშენი,+995422222461,+995422222461,,,bia.ge,has_landline
+C,1,თერმო,+995322916796,+995322916796,,,bia.ge,has_landline
+C,1,იზოლსერვისი,+995597045445,+995597045445,,,bia.ge,has_mobile
+C,1,ინჟმშენი,+995577406233,+995577406233,,,bia.ge,has_mobile
+C,1,კაპიტალმშენი,+995322930020,+995322930020,,,bia.ge,has_landline
+C,1,კაპიტელი ჯი,+995322453591,+995322453591,,,bia.ge,has_landline
+C,1,მბჯ,+995595332533,+995595332533,,,bia.ge,has_mobile
+C,1,მექანიკა,+995593939376,+995593939376,,,bia.ge,has_mobile
+C,1,მზიური XXI+,+995599185536,+995599185536,,,bia.ge,has_mobile
+C,1,მზიური ველი,+995577180035,+995577180035,,,bia.ge,has_mobile
+C,1,მონოლითმშენი,+995322356401,+995322356401,,,bia.ge,has_landline
+C,1,მშენ–გროუფ,+995322351447,+995322351447,,,bia.ge,has_landline
+C,1,პკჰ,+995593250029,+995593250029,,,bia.ge,has_mobile
+C,1,რედიტი,+995571910606,+995571910606,,,bia.ge,has_mobile
+C,1,რონინი სიტი,+995577762266,+995577762266,,,bia.ge,has_mobile
+C,1,საერთაშორისო საგზაო კორპორაცია,+995599297775,+995599297775,,,bia.ge,has_mobile
+C,1,სანსეტ ვილიჯ,+995322388772,+995322388772,,,bia.ge,has_landline
+C,1,საუკმშენი,+995555491771,+995555491771,,,bia.ge,has_mobile
+C,1,სენთი–სისტემა,+995599907789,+995599907789,,,bia.ge,has_mobile
+C,1,სთილ ფრეიმ სისთემს ჯორჯია,+995577741542,+995577741542,,,bia.ge,has_mobile
+C,1,სი–ეს–ემ ბიზნეს ჯგუფი,+995595390010,+995595390010,,,bia.ge,has_mobile
+C,1,სინათლე–2,+995551464330,+995551464330,,,bia.ge,has_mobile
+C,1,სპორტ–არენა,+995577265001,+995577265001,,,bia.ge,has_mobile
+C,1,უნივერსალური სამშენებლო ჯგუფი,+995592444534,+995592444534,,,bia.ge,has_mobile
+C,1,ფიროსმანი,+995577902526,+995577902526,,,bia.ge,has_mobile
+C,1,ჯ.ს.ბ. საქართველო,+995555135323,+995555135323,,,bia.ge,has_mobile
+C,1,ჯეო ტრანს 2009,+995322188463,+995322188463,,,bia.ge,has_landline
+C,1,ჯითიაი სოფ კომპანი,+995593282048,+995593282048,,,bia.ge,has_mobile
+C,1,ჯორჯიან ალკონტრეიდ,+995599494080,+995599494080,,,bia.ge,has_mobile
+C,1,ჯორჯიან მეტალ კომპანი,+995593222297,+995593222297,,,bia.ge,has_mobile
+C,1,A.B. Group,+995574600777,+995574600777,,,bia.ge,has_mobile
+C,1,Artifex,+995595511116,+995595511116,,,bia.ge,has_mobile
+C,1,GEL-100,+995599251604,+995599251604,,,bia.ge,has_mobile
+C,1,PATE-02,+995599190340,+995599190340,,,bia.ge,has_mobile
+C,1,VILLA,+995577202633,+995577202633,,,bia.ge,has_mobile
+C,1,YAPI GUC GEORGIA,+995593307800,+995593307800,,,bia.ge,has_mobile
+C,1,ად ქონუთ ინშაათ მაქინა ელექტრიქ თააჰუთ თიჯარეთ,+995577711114,+995577711114,,,bia.ge,has_mobile
+C,1,ავტო–მეტალურგ–მშენი,+995599936038,+995599936038,,,bia.ge,has_mobile
+C,1,აი–ეს–პი ფაუნდეიშენ,+995577251535,+995577251535,,,bia.ge,has_mobile
+C,1,ამბრელა კორპორეიშენი,+995599507077,+995599507077,,,bia.ge,has_mobile
+C,1,ანაგი–ბათუმი,+995422274139,+995422274139,,,bia.ge,has_landline
+C,1,არსი–ტექ,+995322916816,+995322916816,,,bia.ge,has_landline
+C,1,ატეფი,+995593397362,+995593397362,,,bia.ge,has_mobile
+C,1,ბაბუ,+995599696362,+995599696362,,,bia.ge,has_mobile
+C,1,ბერმუდი +,+995579070888,+995579070888,,,bia.ge,has_mobile
+C,1,ბიბო,+995558531163,+995558531163,,,bia.ge,has_mobile
+C,1,ბრიდჯ ბილდ,+995577454721,+995577454721,,,bia.ge,has_mobile
+C,1,გეო–მასტერ გრუპ,+995599510019,+995599510019,,,bia.ge,has_mobile
+C,1,გიო და კომპანია,+995579374141,+995579374141,,,bia.ge,has_mobile
+C,1,დ პლუსი,+995599549292,+995599549292,,,bia.ge,has_mobile
+C,1,დიზაინმშენსერვისი,+995599193509,+995599193509,,,bia.ge,has_mobile
+C,1,დომინუსი,+995571393977,+995571393977,,,bia.ge,has_mobile
+C,1,ევროჰოლდინგი,+995595900699,+995595900699,,,bia.ge,has_mobile
+C,1,ერღოკატ მაკედონია ა.ტ.ე.ვ.ე–ს საქართველოს ფილიალი,+995591917191,+995591917191,,,bia.ge,has_mobile
+C,1,ზედაველა,+995593414014,+995593414014,,,bia.ge,has_mobile
+C,1,თბილისი ფროფერთიზ გრუპი,+995599504071,+995599504071,,,bia.ge,has_mobile
+C,1,თბილფოლადკონსტრუქცია,+995577777368,+995577777368,,,bia.ge,has_mobile
+C,1,თექ–ევ ინშაათ დექორასიონ თააჰჰუთ იჩ ვე დიშ თიჯარეთ ლიმითედ შირქეთი–ს ფილიალი საქართველოში,+995599235250,+995599235250,,,bia.ge,has_mobile
+C,1,იბერია ა.ა,+995599570448,+995599570448,,,bia.ge,has_mobile
+C,1,იბერია–ბილდი,+995599401026,+995599401026,,,bia.ge,has_mobile
+C,1,იკა,+995599533299,+995599533299,,,bia.ge,has_mobile
+C,1,ირაო მაგნატ გუდიაშვილი,+995599901717,+995599901717,,,bia.ge,has_mobile
+C,1,კომპანია გალს,+995577553305,+995577553305,,,bia.ge,has_mobile
+C,1,კომპენ ჯორჯია,+995599904590,+995599904590,,,bia.ge,has_mobile
+C,1,კონტრაქტმშენი,+995591212212,+995591212212,,,bia.ge,has_mobile
+C,1,კოპალა–მ,+995551835010,+995551835010,,,bia.ge,has_mobile
+C,1,ლიდერი,+995599646364,+995599646364,,,bia.ge,has_mobile
+C,1,ლილო ბილდინგ,+995577510015,+995577510015,,,bia.ge,has_mobile
+C,1,ლოპალი,+995599186414,+995599186414,,,bia.ge,has_mobile
+C,1,მაკრომშენი,+995593668565,+995593668565,,,bia.ge,has_mobile
+C,1,მახუნცეთი 2013,+995555521124,+995555521124,,,bia.ge,has_mobile
+C,1,მეტეხი 15,+995555552550,+995555552550,,,bia.ge,has_mobile
+C,1,მეშვიდე ცა +,+995599698869,+995599698869,,,bia.ge,has_mobile
+C,1,მპეტოკატ ა.ე.–ს ფილიალი საქართველოში,+995558571789,+995558571789,,,bia.ge,has_mobile
+C,1,მშენებელი 2004,+995599647711,+995599647711,,,bia.ge,has_mobile
+C,1,მშენებელი დ.დ. აჩი,+995593357744,+995593357744,,,bia.ge,has_mobile
+C,1,ნ პლუსი,+995599541718,+995599541718,,,bia.ge,has_mobile
+C,1,ნალი და კომპანია,+995322217770,+995322217770,,,bia.ge,has_landline
+C,1,ნაფა+,+995599600817,+995599600817,,,bia.ge,has_mobile
+C,1,ნბჯ,+995599226677,+995599226677,,,bia.ge,has_mobile
+C,1,ნიაკა,+995577994141,+995577994141,,,bia.ge,has_mobile
+C,1,ოპტიმა 07,+995599564414,+995599564414,,,bia.ge,has_mobile
+C,1,ორბიტა–ბ,+995577439505,+995577439505,,,bia.ge,has_mobile
+C,1,პროექტმშენი,+995593352516,+995593352516,,,bia.ge,has_mobile
+C,1,რიელთი გრუპ,+995599989477,+995599989477,,,bia.ge,has_mobile
+C,1,რიონი,+995593766811,+995593766811,,,bia.ge,has_mobile
+C,1,როდო პოლისი,+995577206767,+995577206767,,,bia.ge,has_mobile
+C,1,როუდი Road,+995555415220,+995555415220,,,bia.ge,has_mobile
+C,1,სამშენებლო კომპანია ბათუმი,+995599956161,+995599956161,,,bia.ge,has_mobile
+C,1,საწარმოო–კომერციული ფირმა მერანი,+995595192219,+995595192219,,,bia.ge,has_mobile
+C,1,სერვის პლიუსი,+995599500894,+995599500894,,,bia.ge,has_mobile
+C,1,სითი დიველოფმენთ გრუპი,+995426143186,+995426143186,,,bia.ge,has_landline
+C,1,სითი პარკი ბათუმი,+995577550900,+995577550900,,,bia.ge,has_mobile
+C,1,სპარსული სახლი,+995574839765,+995574839765,,,bia.ge,has_mobile
+C,1,უმუთ ინ ჯორჯია,+995599116120,+995599116120,,,bia.ge,has_mobile
+C,1,უნიმშენი+,+995599209501,+995599209501,,,bia.ge,has_mobile
+C,1,უჩგენ ჯორჯია,+995599747427,+995599747427,,,bia.ge,has_mobile
+C,1,ფონი,+995577563535,+995577563535,,,bia.ge,has_mobile
+C,1,ქარავანი - XXI,+995577176427,+995577176427,,,bia.ge,has_mobile
+C,1,ქართუ მშენებელი,+995322294297,+995322294297,,,bia.ge,has_landline
+C,1,ქარუმ ჯორჯია,+995577577680,+995577577680,,,bia.ge,has_mobile
+C,1,ქედა ბილდინგ გრუპი,+995555655509,+995555655509,,,bia.ge,has_mobile
+C,1,წყნეთი დეველოპმენტი,+995595591010,+995595591010,,,bia.ge,has_mobile
+C,1,ჯენაკო,+995599643333,+995599643333,,,bia.ge,has_mobile
+C,1,ჯეობილდი,+995577560081,+995577560081,,,bia.ge,has_mobile
+C,1,ჯორჯიან ექსპრეს კომპანი,+995599154934,+995599154934,,,bia.ge,has_mobile
+C,1,ჯორჯიან ქონსთრაქშნ ინქორფორეითიდ ჯი.სი.აი,+995599152919,+995599152919,,,bia.ge,has_mobile
+C,1,ჰუაჩუან ჯორჯია ლიმიტედ კომპანი,+995592079292,+995592079292,,,bia.ge,has_mobile
+C,1,ენჯი და კომპანია,+995568402157,+995568402157,,,bia.ge,has_mobile
+C,1,ერა 2011,+995555105527,+995555105527,,,bia.ge,has_mobile
+C,1,ნიჩბურა,+995555010808,+995555010808,,,bia.ge,has_mobile
+C,1,ფაუერ ტრანს,+995599701110,+995599701110,,,bia.ge,has_mobile
+C,1,ESCo-Georgia,+995599207280,+995599207280,,,bia.ge,has_mobile
+C,1,თბილისი–2,+995574005955,+995574005955,,,bia.ge,has_mobile
+C,1,VERTEX,+995322344992,+995322344992,,,bia.ge,has_landline
+C,1,აბგ,+995577970500,+995577970500,,,bia.ge,has_mobile
+C,1,სიმუნოვიც კრისტიან & სია ო.ე საქართველოს ფილიალი,+995593308735,+995593308735,,,bia.ge,has_mobile
+C,1,შართო,+995597514167,+995597514167,,,bia.ge,has_mobile
+C,1,ჯი არ დი სი,+995322910676,+995322910676,,,bia.ge,has_landline
+C,1,ჯი ქეი გრუპ,+995322539258,+995322539258,,,bia.ge,has_landline
+C,1,ენ. ერ. ჯი,+995422244747,+995422244747,,,bia.ge,has_landline
+C,1,მ-კლუბი,+995599337551,+995599337551,,,bia.ge,has_mobile
+C,1,მშენსერვისი,+995322355054,+995322355054,,,bia.ge,has_landline
+C,1,ისტერნ კონსტრაქტინგი,+995593651588,+995593651588,,,bia.ge,has_mobile
+C,1,წარაქვი,+995577761717,+995577761717,,,bia.ge,has_mobile
+C,1,ინტერ ჯგუფი,+995322705938,+995322705938,,,bia.ge,has_landline
+C,1,მებუკე,+995579220177,+995579220177,,,bia.ge,has_mobile
+C,1,საპროექტო სამშენებლო სარემონტო ფირმა მეგასი,+995322386759,+995322386759,,,bia.ge,has_landline
+C,1,საქმშენინვესტი,+995322231470,+995322231470,,,bia.ge,has_landline
+C,1,ჯე.ემ.ზე. კომპანი,+995597569092,+995597569092,,,bia.ge,has_mobile
+C,1,ვინდოორი,+995322107300,+995322107300,,,bia.ge,has_landline
+C,1,ვორქმენი,+995322482025,+995322482025,,,bia.ge,has_landline
+C,1,მშენებელი XXl,+995599939899,+995599939899,,,bia.ge,has_mobile
+C,1,ხირსა,+995322608688,+995322608688,,,bia.ge,has_landline
+C,1,ჯი–ეს–ჯი 2008,+995599133596,+995599133596,,,bia.ge,has_mobile
+C,1,BVG GEORGIA ბივიჯი ჯორჯია,+99559917755,+99559917755,,,bia.ge,has_mobile
+C,1,ბიემ კომპანი,+995599576487,+995599576487,,,bia.ge,has_mobile
+C,1,ბრაით თაუნ,+995591217575,+995591217575,,,bia.ge,has_mobile
+C,1,ეუბე ჯორჯია,+995599560512,+995599560512,,,bia.ge,has_mobile
+C,1,ოქროს კვეთი,+995322212978,+995322212978,,,bia.ge,has_landline
+C,1,სკინდორი,+995599796635,+995599796635,,,bia.ge,has_mobile
+C,1,ტრანს–ინერტი,+995595306007,+995595306007,,,bia.ge,has_mobile
+C,1,აზერბაიჯანის სამშენებლო კომპანია,+995574003131,+995574003131,,,bia.ge,has_mobile
+C,1,დაიცი,+995322633750,+995322633750,,,bia.ge,has_landline
+C,1,კუბიკ 1,+995551340550,+995551340550,,,bia.ge,has_mobile
+C,1,გრანდ კონსტრაქშენ,+995599254488,+995599254488,,,bia.ge,has_mobile
+C,1,დავით კეიდიას სამშენებლო კომპანია,+995555662520,+995555662520,,,bia.ge,has_mobile
+C,1,იბერია მშენსერვისი,+995577448000,+995577448000,,,bia.ge,has_mobile
+C,1,კავშირტექნოლოგიები,+995555506281,+995555506281,,,bia.ge,has_mobile
+C,1,კოხტის ძირი 2010,+995597264342,+995597264342,,,bia.ge,has_mobile
+C,1,სახლმშენი,+995599947100,+995599947100,,,bia.ge,has_mobile
+C,1,სოფელი ბოსლები,+995574020103,+995574020103,,,bia.ge,has_mobile
+C,1,ინტერმშენი 2009,+995599297101,+995599297101,,,bia.ge,has_mobile
+C,1,ფიქალი +,+995322635327,+995322635327,,,bia.ge,has_landline
+C,1,ხედი,+995599589424,+995599589424,,,bia.ge,has_mobile
+C,1,ა.ნ.ი,+995322337329,+995322337329,,,bia.ge,has_landline
+C,1,ელ-პარნასი,+995599789283,+995599789283,,,bia.ge,has_mobile
+C,1,ვამკო,+995322624194,+995322624194,,,bia.ge,has_landline
+C,1,თიბიჯი,+995595289090,+995595289090,,,bia.ge,has_mobile
+C,1,ნოუ ჰაუზ,+995599581605,+995599581605,,,bia.ge,has_mobile
+C,1,ოლიმპი,+995599496644,+995599496644,,,bia.ge,has_mobile
+C,1,საინჟინრო–სამშენებლო ჯგუფი,+995599484886,+995599484886,,,bia.ge,has_mobile
+C,1,SERENA,+995593400441,+995593400441,,,bia.ge,has_mobile
+C,1,TRANSMSHENI,+995577555766,+995577555766,,,bia.ge,has_mobile
+C,1,ალთინსოი ინშაათ თააჰჰუთ პროჟე ვე თიჯარეთის ბათუმის ფილიალი,+995577230103,+995577230103,,,bia.ge,has_mobile
+C,1,ბიე,+995322910152,+995322910152,,,bia.ge,has_landline
+C,1,გიჩა +,+995599504796,+995599504796,,,bia.ge,has_mobile
+C,1,გრაალი,+995322329618,+995322329618,,,bia.ge,has_landline
+C,1,ენერგეტიკული ალიანსი,+995322390045,+995322390045,,,bia.ge,has_landline
+C,1,საბმშენი,+995593147199,+995593147199,,,bia.ge,has_mobile
+C,1,ტექტორი გთ,+995322514737,+995322514737,,,bia.ge,has_landline
+C,1,ლოიალ კაპიტალ ფროფერთი – საქართველო,+995322934052,+995322934052,,,bia.ge,has_landline
+C,1,მშენებელი–21,+995599573726,+995599573726,,,bia.ge,has_mobile
+C,1,დელტა ჰოლდინგი,+995322553737,+995322553737,,,bia.ge,has_landline
+C,1,ბათუმმშენინვესტი,+995422233793,+995422233793,,,bia.ge,has_landline
+C,0,გრუსია,236 72 22,+995322367222,http://www.grusia.ge,,yell.ge,website_dead; 2_phones; has_landline
+C,0,გრუსია,236 04 65,+995322360465,http://www.grusia.ge,,yell.ge,website_dead; 2_phones; has_landline
+C,0,პლანეტ პერფექტო,(591) 20 66 20,+995591206620,http://www.planetp.ge,,yell.ge,website_dead; 2_phones; has_mobile
+C,0,პლანეტ პერფექტო,(551) 13 09 85,+995551130985,http://www.planetp.ge,,yell.ge,website_dead; 2_phones; has_mobile
+C,0,ჯორჯიან ინჟინირინგი,(568) 77 27 04,+995568772704,http://www.georgianengineering.com,,yell.ge,website_dead; 2_phones; has_mobile
+C,0,ჯორჯიან ინჟინირინგი,(568) 77 10 01,+995568771001,http://www.georgianengineering.com,,yell.ge,website_dead; 2_phones; has_mobile
+C,0,იკორთა,(598) 20 11 02,+995598201102,http://www.ikorta.org,,yell.ge,website_dead; 2_phones; has_mobile
+C,0,იკორთა,(551) 00 55 37,+995551005537,http://www.ikorta.org,,yell.ge,website_dead; 2_phones; has_mobile
+C,0,ბესთ ბილდერ ინტერნეშენალ კომპანი,(555) 55 54 62,+995555555462,http://www.bestbuilder.ge,,yell.ge,website_dead; 2_phones; has_mobile
+C,0,ბესთ ბილდერ ინტერნეშენალ კომპანი,(555) 55 54 36,+995555555436,http://www.bestbuilder.ge,,yell.ge,website_dead; 2_phones; has_mobile
+C,0,სამშენებლო კომპანია არკო,(593) 313 005,+995593313005,http://arco.com.ge,,yell.ge,website_dead; 2_phones; has_mobile
+C,0,სამშენებლო კომპანია არკო,(593) 27 56 77,+995593275677,http://arco.com.ge,,yell.ge,website_dead; 2_phones; has_mobile
+C,0,ELITE DEVELOPMENT,+995596000200,+995596000200,http://www.kobuleti-r.ge/,,bia.ge,website_dead; 3_phones; has_mobile
+C,0,ELITE DEVELOPMENT,+995596000400,+995596000400,http://www.kobuleti-r.ge/,,bia.ge,website_dead; 3_phones; has_mobile
+C,0,ELITE DEVELOPMENT,+995596000700,+995596000700,http://www.kobuleti-r.ge/,,bia.ge,website_dead; 3_phones; has_mobile
+C,0,ინეო,+995322237575,+995322237575,https://creo.ge/,,bia.ge,website_dead; 2_phones; has_landline
+C,0,ინეო,+995322604445,+995322604445,https://creo.ge/,,bia.ge,website_dead; 2_phones; has_landline
+C,0,მირაქსი,+995595221133,+995595221133,http://www.mirax.ge/,,bia.ge,website_dead; 2_phones; has_mobile
+C,0,მირაქსი,+995595221144,+995595221144,http://www.mirax.ge/,,bia.ge,website_dead; 2_phones; has_mobile
+C,0,ნოზა 2018,+995591801514,+995591801514,https://www.noza.ge/,,bia.ge,website_dead; 2_phones; has_mobile
+C,0,ნოზა 2018,+995598238084,+995598238084,https://www.noza.ge/,,bia.ge,website_dead; 2_phones; has_mobile
+C,0,ტიფლისი,+995514020020,+995514020020,https://www.tiplisi.com/,,bia.ge,website_dead; 2_phones; has_mobile
+C,0,ტიფლისი,+995577730400,+995577730400,https://www.tiplisi.com/,,bia.ge,website_dead; 2_phones; has_mobile
+C,0,აკა,+995598499994,+995598499994,http://www.akadevelopment.ge/,,bia.ge,website_dead; 2_phones; has_mobile
+C,0,აკა,+995593499994,+995593499994,http://www.akadevelopment.ge/,,bia.ge,website_dead; 2_phones; has_mobile
+C,0,მაი ბილდინგ,+995592550550,+995592550550,http://www.mbuilding.ge/,,bia.ge,website_dead; 2_phones; has_mobile
+C,0,მაი ბილდინგ,+995599223088,+995599223088,http://www.mbuilding.ge/,,bia.ge,website_dead; 2_phones; has_mobile
+C,0,მიდთაუნგრუპ,+995592040024,+995592040024,https://www.almare-batumi.com/,,bia.ge,website_dead; 2_phones; has_mobile
+C,0,მიდთაუნგრუპ,+995592040025,+995592040025,https://www.almare-batumi.com/,,bia.ge,website_dead; 2_phones; has_mobile
+C,0,გურუ ჰოლდინგ,+995558300300,+995558300300,http://www.guruholding.ru/,,bia.ge,website_dead; 2_phones; has_mobile
+C,0,გურუ ჰოლდინგ,+995558301010,+995558301010,http://www.guruholding.ru/,,bia.ge,website_dead; 2_phones; has_mobile
+C,0,მაქრო ქონსთრაქშენ,+995322001010,+995322001010,http://www.maqro.ge/,,bia.ge,website_dead; 2_phones; has_landline
+C,0,მაქრო ქონსთრაქშენ,+995322000909,+995322000909,http://www.maqro.ge/,,bia.ge,website_dead; 2_phones; has_landline
+C,0,დემაქს ონიაშვილი,+995555602602,+995555602602,http://www.demax.ge/,,bia.ge,website_dead; 2_phones; has_mobile
+C,0,დემაქს ონიაშვილი,+995599155888,+995599155888,http://www.demax.ge/,,bia.ge,website_dead; 2_phones; has_mobile
+C,0,ჯორჯიან გრუპ,+995514990999,+995514990999,https://www.lemongarden.ge/,,bia.ge,website_dead; 4_phones; has_mobile
+C,0,ჯორჯიან გრუპ,+995514084747,+995514084747,https://www.lemongarden.ge/,,bia.ge,website_dead; 4_phones; has_mobile
+C,0,ჯორჯიან გრუპ,+995577752526,+995577752526,https://www.lemongarden.ge/,,bia.ge,website_dead; 4_phones; has_mobile
+C,0,ჯორჯიან გრუპ,+995551685544,+995551685544,https://www.lemongarden.ge/,,bia.ge,website_dead; 4_phones; has_mobile
+C,0,ბაგები სითი ჯგუფი,+995322290169,+995322290169,http://www.bagebeycity.com/,,bia.ge,website_dead; 2_phones; has_landline
+C,0,ბაგები სითი ჯგუფი,+995322220962,+995322220962,http://www.bagebeycity.com/,,bia.ge,website_dead; 2_phones; has_landline
+C,0,ოქტანი,+995422271884,+995422271884,http://www.octani.ge/,,bia.ge,website_dead; 2_phones; has_landline
+C,0,ოქტანი,+995422270751,+995422270751,http://www.octani.ge/,,bia.ge,website_dead; 2_phones; has_landline
+C,0,კიბის კომპანია,(579) 77 00 24,+995579770024,,https://www.facebook.com/upstairs.ge,yell.ge,has_facebook; fb_dormant; has_mobile
+C,0,რეფორმა,225 01 11,+995322250111,,https://www.facebook.com/Reforma.CM,yell.ge,has_facebook; fb_dormant; has_landline
+C,0,გეო ვესტ ინდუსტრი,+995599711707,+995599711707,,https://www.facebook.com/geowestindustry,bia.ge,has_facebook; fb_dormant; has_mobile
+C,0,დიკა კონსტრაქშენი,+995568444434,+995568444434,,https://www.facebook.com/%E1%83%93%E1%83%98%E1%83%99%E1%83%90-%E1%83%99%E1%83%9D%E1%83%9C%E1%83%A1%E1%83%A2%E1%83%A0%E1%83%90%E1%83%A5%E1%83%A8%E1%83%94%E1%83%9C%E1%83%98-Dika-Construction-135810977879994/,bia.ge,has_facebook; fb_dormant; has_mobile
+C,0,ია–ფეთ იალჩინ პეტროლ თურიზმ თიჯარეთ–ის  წარმომადგენლობა საქართველოში,+995577506101,+995577506101,,https://www.facebook.com/Yalchin-Star-394202437412971/,bia.ge,has_facebook; fb_dormant; has_mobile
+C,0,ნიუ ბრენდ,+995557561665,+995557561665,,https://www.facebook.com/New-BRAND-1800245676967149,bia.ge,has_facebook; fb_dormant; has_mobile
+C,0,სი ლეველ გრუპი,+995557989112,+995557989112,,https://www.facebook.com/SeaLevelGroup,bia.ge,has_facebook; fb_dormant; has_mobile
+C,0,ფ.ს.გ.,+995551373535,+995551373535,,https://www.facebook.com/%E1%83%A4%E1%83%A1%E1%83%92-1062565567152534,bia.ge,has_facebook; fb_dormant; has_mobile
+C,0,ZMK,+995322987000,+995322987000,,https://www.facebook.com/pages/ZMK/317659865048972?ref=hl,bia.ge,has_facebook; fb_dormant; has_landline
+C,0,ვესთ დეველოპმენტი,+995558111199,+995558111199,,https://www.facebook.com/Westhousegeo,bia.ge,has_facebook; fb_dormant; has_mobile
+C,0,თი ბი ჯი,+995591101510,+995591101510,,https://www.facebook.com/TBGGE,bia.ge,has_facebook; fb_dormant; has_mobile
+C,0,მ.დ.კ.+,+995551638638,+995551638638,,https://www.facebook.com/MDK-%E1%83%9B%E1%83%93%E1%83%99-956317047727648/,bia.ge,has_facebook; fb_dormant; has_mobile
+C,0,სმარგი,+995558585582,+995558585582,,https://www.facebook.com/Smargii,bia.ge,has_facebook; fb_dormant; has_mobile
+C,0,ა.ტ. პროექტ,+995 596 198833,+995596198833,,https://www.facebook.com/VistaGudauri,bia.ge,has_facebook; fb_dormant; has_mobile
+C,0,ჩემპიონთა სახლი,+995599444242,+995599444242,,https://www.facebook.com/championshousegeorgia/,bia.ge,has_facebook; fb_dormant; has_mobile
+C,0,აი–სი–ი–ეს ICES,+995577525401,+995577525401,,https://www.facebook.com/ices.ge,bia.ge,has_facebook; fb_dormant; has_mobile
+C,0,დავით ოდიშელიძე,+995551994049,+995551994049,,https://www.facebook.com/sendvichpanelii,bia.ge,has_facebook; fb_dormant; has_mobile
+C,0,ელიტა ბურჯი,+995322791331,+995322791331,,https://www.facebook.com/ElitaBurjiLLC,bia.ge,has_facebook; fb_dormant; has_landline
+C,0,ლიმესი,+995511107676,+995511107676,,https://www.facebook.com/LimesElectronics,bia.ge,has_facebook; fb_dormant; has_mobile
+C,0,სეა სტარ,+995597888802,+995597888802,,https://www.facebook.com/SeaStarGroups,bia.ge,has_facebook; fb_dormant; has_mobile
+C,0,ქუალითი კონსტრაქშენ,+995599301401,+995599301401,,https://www.facebook.com/QualitConstruction,bia.ge,has_facebook; fb_dormant; has_mobile
+C,0,ჯორჯიან კონსტრაქშენ კომპანი,+995599448686,+995599448686,,https://www.facebook.com/GCC.Georgia,bia.ge,has_facebook; fb_dormant; has_mobile
+C,0,ინტერსტანდარტ საბურთალო,+995595115787,+995595115787,,https://www.facebook.com/LTD-Interstandart-Group-103328105115941,bia.ge,has_facebook; fb_dormant; has_mobile
+C,0,თორი დეველოპმენტ,+995599959002,+995599959002,,https://www.facebook.com/toryDevelopment,bia.ge,has_facebook; fb_dormant; has_mobile
+C,0,მშენალიანსი,+995599208049,+995599208049,,https://www.facebook.com/%E1%83%A1%E1%83%90%E1%83%9B%E1%83%A8%E1%83%94%E1%83%9C%E1%83%94%E1%83%91%E1%83%9A%E1%83%9D-%E1%83%99%E1%83%9D%E1%83%9B%E1%83%9E%E1%83%90%E1%83%9C%E1%83%98%E1%83%90-%E1%83%9B%E1%83%A8%E1%83%94%E1%83%9C%E1%83%90%E1%83%9A%E1%83%98%E1%83%90%E1%83%9C%E1%83%A1%E1%83%98-1883488891907140/,bia.ge,has_facebook; fb_dormant; has_mobile
+C,0,აი,+995555551202,+995555551202,,https://www.facebook.com/eyestage,bia.ge,has_facebook; fb_dormant; has_mobile
+C,0,აისი,+995595255500,+995595255500,,https://www.facebook.com/pages/AISI-%E1%83%A1%E1%83%90%E1%83%9B%E1%83%A8%E1%83%94%E1%83%9C%E1%83%94%E1%83%91%E1%83%9A%E1%83%9D-%E1%83%93%E1%83%94%E1%83%95%E1%83%94%E1%83%9A%E1%83%9D%E1%83%9E%E1%83%94%E1%83%A0%E1%83%A3%E1%83%9A%E1%83%98-%E1%83%99%E1%83%9D%E1%83%9B%E1%83%9E%E1%83%90%E1%83%9C%E1%83%98%E1%83%90/705475539546667,bia.ge,has_facebook; fb_dormant; has_mobile
+C,-1,იმპორტსერვისი,(591) 92 75 58,+995591927558,http:/www.importservisi.ge,,yell.ge,website_dead; has_mobile
+C,-1,სამეცნიერო საწარმოო კომპანია სოვბი,(599) 10 41 47,+995599104147,http://www.sovbi.ge,,yell.ge,website_dead; has_mobile
+C,-1,ვინსონი,(551) 49 44 94,+995551494494,https://vinson.ge,,yell.ge,website_dead; has_mobile
+C,-1,ბილდლაინ ქონსთრაქშენი,222 10 40,+995322221040,https://buildline.ge,,yell.ge,website_dead; has_landline
+C,-1,შპს აიპიემეს,242 17 55,+995322421755,https://ipms.com.ge,,yell.ge,website_dead; has_landline
+C,-1,ტრანსმშენი,233 10 54,+995322331054,http://www.transmsheni.ge,,yell.ge,website_dead; has_landline
+C,-1,სამშენებლო კომპანია ადლი,288 07 08,+995322880708,http://www.adli.ge,,yell.ge,website_dead; has_landline
+C,-1,არქტური,(591) 30 30 30,+995591303030,http://www.rigi-arqturi.ge,,yell.ge,website_dead; has_mobile
+C,-1,თიზი ჯგუფი,(596) 333 933,+995596333933,https://www.tzgroup.ge,,yell.ge,website_dead; has_mobile
+C,-1,სამეცნიერო-საწარმოო კომპანია ელ-ეს-ჯი,(579) 57 11 55,+995579571155,http://www.lsggeo.ge,,yell.ge,website_dead; has_mobile
+C,-1,მექანი,(577) 04 45 55,+995577044555,https://www.mekan.ge,,yell.ge,website_dead; has_mobile
+C,-1,იქს-იგრეკ-ზეტ ქონსთრაქშენი,(599) 577 446,+995599577446,http://www.xyzconstruction.com.ge,,yell.ge,website_dead; has_mobile
+C,-1,ოპტიმუსი,(595) 90 22 25,+995595902225,http://www.optimusi.ge,,yell.ge,website_dead; has_mobile
+C,-1,ედემი,+995599928811,+995599928811,http://www.ed-development.ge/,,bia.ge,website_dead; has_mobile
+C,-1,იკორთა 2007,+995511005537,+995511005537,https://www.ikorta.org/,,bia.ge,website_dead; has_mobile
+C,-1,ოპიზარი,+995322022072,+995322022072,http://www.opizar.ge/,,bia.ge,website_dead; has_landline
+C,-1,პრიმა პლიუსი,+995322369606,+995322369606,http://www.primagroup.ge/,,bia.ge,website_dead; has_landline
+C,-1,რებილდი,+995551139955,+995551139955,https://rebuild.ge/,,bia.ge,website_dead; has_mobile
+C,-1,ანკო,+995511205050,+995511205050,https://anko.ge/index.php?lang=1,,bia.ge,website_dead; has_mobile
+C,-1,ბილდმორ ქონსთრაქშენი,+995514325532,+995514325532,http://www.builtmore.ge/,,bia.ge,website_dead; has_mobile
+C,-1,ეი თი დეველოპმენტი,+995574777703,+995574777703,http://www.atdevelopment.ge/,,bia.ge,website_dead; has_mobile
+C,-1,ირბის,+995599662662,+995599662662,https://www.po.ge/,,bia.ge,website_dead; has_mobile
+C,-1,მეგა ჰოლდინგი,+995322322222,+995322322222,https://megaholding.com.ge/ka,,bia.ge,website_dead; has_landline
+C,-1,ოლდ ბათუმი,+995558222249,+995558222249,http://www.old-batumi.ge/,,bia.ge,website_dead; has_mobile
+C,-1,უსტა დეველოპმენტ,+995591111222,+995591111222,http://www.g2.ge/,,bia.ge,website_dead; has_mobile
+C,-1,ქართულ ესპანური სამშენებლო კომპანია 2017,+995568606080,+995568606080,http://www.gsbcgroup.ge/,,bia.ge,website_dead; has_mobile
+C,-1,ალაბვაზ რეალ ესთეით კომპანი,+995557133422,+995557133422,https://www.alabwaz.ge/,,bia.ge,website_dead; has_mobile
+C,-1,ბინა კო,+995555400006,+995555400006,https://www.ventu.ge/,,bia.ge,website_dead; has_mobile
+C,-1,ემ-ემ-ჯი ჯგუფი,+995595119111,+995595119111,https://www.mmg.ge/,,bia.ge,website_dead; has_mobile
+C,-1,სი ბი არ,+995598607090,+995598607090,http://www.cbr.ge/,,bia.ge,website_dead; has_mobile
+C,-1,ჰაუზაკადემია,+995577161446,+995577161446,https://www.deve.ge/,,bia.ge,website_dead; has_mobile
+C,-1,GT+ კომპანი,+995599600588,+995599600588,https://velox.com.ge/,,bia.ge,website_dead; has_mobile
+C,-1,თხუნელა+,+995579741525,+995579741525,https://tkhunela.ge/?fbclid=IwY2xjawLGCwhleHRuA2FlbQIxMABicmlkETFsZHNlSHNVaUFSblQ3RFNFAR7wrjlNR3xjOsAO_Dx0kdBvis-CcltO98XEfDWuiHa_0Vs5MU8woulDOavdWA_aem_35LIPbIl_pjA4S3I75VkOg,,bia.ge,website_dead; has_mobile
+C,-1,კომპაქტ დეველოპმენტი,+995595409409,+995595409409,http://www.cdgroup.ge/,,bia.ge,website_dead; has_mobile
+C,-1,სფერა,+995591343333,+995591343333,https://sphera.com.ge/,,bia.ge,website_dead; has_mobile
+C,-1,ახალი ტექნოლოგიები 2011,+995599543510,+995599543510,http://www.newtech.com.ge/,,bia.ge,website_dead; has_mobile
+C,-1,მეტი დეველოპმენტი,+995322301010,+995322301010,http://www.meti.ge/,,bia.ge,website_dead; has_landline
+C,-1,პრემიუმ  ჯგუფი,+995568220000,+995568220000,https://premiumgroup.ge/en,,bia.ge,website_dead; has_mobile
+C,-1,სიეიჩ ჯგუფი CH Group,+995514333777,+995514333777,http://www.chgroup.ge/,,bia.ge,website_dead; has_mobile
+C,-1,ფენიქსი,+995598709933,+995598709933,http://www.newcomplex.ge/,,bia.ge,website_dead; has_mobile
+C,-1,მოედანი,+995596220033,+995596220033,https://www.moedani.ge/,,bia.ge,website_dead; has_mobile
+C,-1,ნგს გრუპ,+995595060608,+995595060608,http://www.ngs.ge/,,bia.ge,website_dead; has_mobile
+C,-1,რესტავრატორები და კომპანია,+995577778769,+995577778769,http://www.restavratorebi.ge/,,bia.ge,website_dead; has_mobile
+C,-1,ჰიქ ქომფანი,+995591408888,+995591408888,https://hicc.ge/,,bia.ge,website_dead; has_mobile
+C,-1,სი. აი. ჯი,+995555110021,+995555110021,http://www.cigdevelopment.ge/,,bia.ge,website_dead; has_mobile
+C,-1,აღმაშენებელი ქუთაისი,+995431263232,+995431263232,http://www.designcomplex.com.ge/,,bia.ge,website_dead; has_landline
+C,-1,იბერია ალიანსი,+995598822977,+995598822977,http://www.iberiaalliance.com/,,bia.ge,website_dead; has_mobile
+C,-1,ბკ ქონსთრაქშენი,+995322222111,+995322222111,https://www.bkconstruction.ge/,,bia.ge,website_dead; has_landline
+C,-1,სახლი გოგებაშვილზე,+995558211444,+995558211444,http://www.urban.ge/,,bia.ge,website_dead; has_mobile
+C,-1,ინტეგრალი 333,+995322152929,+995322152929,http://www.integrali.ge/,,bia.ge,website_dead; has_landline
+C,-1,დექსუს,+995322202200,+995322202200,http://www.dexus.ge/,,bia.ge,website_dead; has_landline
+C,-1,Ventus group,+995599560300,+995599560300,http://www.ventusgroup.ge/,,bia.ge,website_dead; has_mobile
+C,-1,თექთ ინტერნეშენალი,+995555668787,+995555668787,http://www.tectinternational.com/,,bia.ge,website_dead; has_mobile
+C,-1,როდოსი,+995322422224,+995322422224,http://www.rodos.ge/,,bia.ge,website_dead; has_landline
+C,-1,სნეილი,+995595602026,+995595602026,http://www.klinker.ge/,,bia.ge,website_dead; has_mobile
+C,-1,ტიფლის ბილდინგი,+995551292255,+995551292255,http://www.tiflis.ge/,,bia.ge,website_dead; has_mobile
+C,-1,პაულ შულერ უნდ ირაო გრუპ,+995558234040,+995558234040,http://www.iraogroup.com.ge/,,bia.ge,website_dead; has_mobile
+C,-1,როსს ჰოლდინგ–ის ფილიალი როსს ჰოლდინგი საქართველო,+995595333135,+995595333135,http://www.ross.ge/,,bia.ge,website_dead; has_mobile
+C,-1,ჩეხური სახლი,+995577141126,+995577141126,http://www.czech-house.ge/,,bia.ge,website_dead; has_mobile
+C,-1,დექსუს დეველოპმენტ,+995577303303,+995577303303,http://www.dexus.ge/,,bia.ge,website_dead; has_mobile
+C,-1,იბერია კონსტრაკშენ,+995577101126,+995577101126,http://www.iberia.ge/,,bia.ge,website_dead; has_mobile
+C,-1,ოლიმპიური ვარსკვლავი,+995322381412,+995322381412,http://www.olympicstar.ge/,,bia.ge,website_dead; has_landline
+C,-1,ალიონი-მშენი,+995322922993,+995322922993,http://www.alioni99.ge/,,bia.ge,website_dead; has_landline
+C,-1,ენგი,+995574073034,+995574073034,http://www.newvake.ge/,,bia.ge,website_dead; has_mobile
