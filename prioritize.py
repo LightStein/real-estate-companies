@@ -32,6 +32,7 @@ OUTPUT = "companies_prioritized.csv"
 WEBSITE_CACHE = "website_cache.csv"
 FB_URL_CACHE = "fb_urls_cache.csv"
 FB_ACTIVITY_CACHE = "fb_activity_cache.csv"
+GMAPS_CACHE = "gmaps_cache.csv"
 LIVENESS_CACHE = "liveness_cache.csv"
 
 OUT_FIELDS = [
@@ -153,6 +154,14 @@ def main():
                 fb_activity[row["fb_url"]] = row
         print(f"Facebook activity data: {len(fb_activity)} pages")
 
+    # Load Google Maps data
+    gmaps_data: dict[str, dict] = {}
+    if os.path.exists(GMAPS_CACHE):
+        with open(GMAPS_CACHE, "r", encoding="utf-8") as f:
+            for row in csv.DictReader(f):
+                gmaps_data[row["company_name"]] = row
+        print(f"Google Maps data: {len(gmaps_data)} companies")
+
     # Collect all unique websites to check
     all_websites = set()
     for entries in company_entries.values():
@@ -217,6 +226,28 @@ def main():
                 score += 1
                 signals.append(f"fb_{fb_likes}_likes")
 
+        # Google Maps signals
+        gmaps = gmaps_data.get(name, {})
+        gmaps_status = gmaps.get("gmaps_status", "")
+        gmaps_rating = float(gmaps.get("gmaps_rating", 0) or 0)
+        gmaps_reviews = int(gmaps.get("gmaps_reviews", 0) or 0)
+
+        if gmaps_status == "permanently_closed":
+            score -= 5
+            signals.append("gmaps_CLOSED")
+        elif gmaps_status == "open":
+            score += 3
+            signals.append("gmaps_open")
+            if gmaps_rating >= 4.0 and gmaps_reviews >= 3:
+                score += 2
+                signals.append(f"gmaps_{gmaps_rating}★_{gmaps_reviews}rev")
+            elif gmaps_reviews >= 1:
+                score += 1
+                signals.append(f"gmaps_{gmaps_rating}★_{gmaps_reviews}rev")
+        elif gmaps_status == "found" and gmaps_rating:
+            score += 1
+            signals.append(f"gmaps_{gmaps_rating}★")
+
         # Source signals
         sources = set(e["source"] for e in entries)
         if len(sources) > 1:
@@ -253,12 +284,16 @@ def main():
         w.writeheader()
 
         for score, name, signals, extra in scored:
-            if score >= 5:
+            if score >= 7:
                 priority = "A"
-            elif score >= 2:
+            elif score >= 5:
                 priority = "B"
-            else:
+            elif score >= 4:
                 priority = "C"
+            elif score >= 2:
+                priority = "D"
+            else:
+                priority = "E"
 
             for entry in company_entries[name]:
                 w.writerow({
@@ -277,18 +312,29 @@ def main():
     prio_counts = defaultdict(int)
     prio_companies = defaultdict(int)
     for score, name, signals, _ in scored:
-        p = "A" if score >= 5 else ("B" if score >= 2 else "C")
+        if score >= 7:
+            p = "A"
+        elif score >= 5:
+            p = "B"
+        elif score >= 4:
+            p = "C"
+        elif score >= 2:
+            p = "D"
+        else:
+            p = "E"
         prio_companies[p] += 1
         prio_counts[p] += len(company_entries[name])
 
     print(f"\n{'='*60}")
     print(f"Output: {OUTPUT}")
     print(f"\n  Priority | Companies | Phone numbers | Description")
-    print(f"  {'─'*55}")
-    print(f"  A (5+)   | {prio_companies['A']:>6}    | {prio_counts['A']:>6}        | Call first — strong signals")
-    print(f"  B (2-4)  | {prio_companies['B']:>6}    | {prio_counts['B']:>6}        | Good leads")
-    print(f"  C (0-1)  | {prio_companies['C']:>6}    | {prio_counts['C']:>6}        | Low signal — try last")
-    print(f"  {'─'*55}")
+    print(f"  {'─'*65}")
+    print(f"  A (7+)   | {prio_companies['A']:>6}    | {prio_counts['A']:>6}        | Hot — website + FB + Maps, definitely active")
+    print(f"  B (5-6)  | {prio_companies['B']:>6}    | {prio_counts['B']:>6}        | Warm — confirmed active on multiple channels")
+    print(f"  C (4)    | {prio_companies['C']:>6}    | {prio_counts['C']:>6}        | Open — Maps says open + has mobile number")
+    print(f"  D (2-3)  | {prio_companies['D']:>6}    | {prio_counts['D']:>6}        | Exists — found on Maps but not confirmed open")
+    print(f"  E (0-1)  | {prio_companies['E']:>6}    | {prio_counts['E']:>6}        | Cold — not found anywhere, probably dead")
+    print(f"  {'─'*65}")
     print(f"  Total    | {len(scored):>6}    | {len(rows):>6}        |")
 
     # Show top 10
